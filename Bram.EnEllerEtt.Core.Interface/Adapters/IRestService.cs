@@ -1,7 +1,10 @@
-﻿namespace Bram.EnEllerEtt.Core.Interface
+﻿using System.Threading;
+using System.Threading.Tasks;
+
+namespace Bram.EnEllerEtt.Core.Interface
 {
     public interface IRestService
     {
-        string GetHtmlForWord(string word);
+        Task<string> GetHtmlForWordAsync(string word, CancellationToken ct);
     }
 }

@@ -19,7 +19,7 @@ namespace Bram.EnEllerEtt.Core.Services
         }
         public async Task<WordResult> GetResultForWordAsync(string word, CancellationToken ct)
         {
-            var result = _restService.GetHtmlForWord(word);
+            var result = await _restService.GetHtmlForWordAsync(word, ct);
             return await _wiktionaryParser.ParseFromHtmlAsync(result, ct);
         }
     }

@@ -1,5 +1,7 @@
 ﻿using Bram.EnEllerEtt.Core.Interface;
 using RestSharp;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Bram.EnEllerEtt.Adapter.AngleSharp.Rest
 {
@@ -12,10 +14,10 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Rest
             _client = new RestClient(baseUrl);
         }
 
-        public string GetHtmlForWord(string word)
+        public async Task<string> GetHtmlForWordAsync(string word, CancellationToken ct)
         {
-            var request = new RestRequest($"/wiki/{word}", DataFormat.None);
-            var response = _client.Get(request);
+            var request = new RestRequest($"wiki/{word}", DataFormat.None);
+            var response = await _client.ExecuteGetAsync(request, ct);
             return response.Content;
         }
     }
