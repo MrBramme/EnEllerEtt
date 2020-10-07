@@ -5,7 +5,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Rest
 {
     public class RestService : IRestService
     {
-        private RestClient _client;
+        private readonly RestClient _client;
 
         public RestService(string baseUrl)
         {
@@ -15,7 +15,6 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Rest
         public string GetHtmlForWord(string word)
         {
             var request = new RestRequest($"/wiki/{word}", DataFormat.None);
-
             var response = _client.Get(request);
             return response.Content;
         }

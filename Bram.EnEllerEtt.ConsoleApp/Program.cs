@@ -13,9 +13,9 @@ namespace Bram.EnEllerEtt.ConsoleApp
         {
             var serviceProvider = ConsoleConfigurator.Setup();
 
-            var wordService = serviceProvider.GetService<IWordLookupService>();
+            var wordLookupService = serviceProvider.GetService<IWordLookupService>();
 
-            await GetInput(wordService);
+            await GetInput(wordLookupService);
         }
 
         private static async Task GetInput(IWordLookupService wordLookupService)
@@ -24,7 +24,7 @@ namespace Bram.EnEllerEtt.ConsoleApp
             {
                 Console.WriteLine("Insert word (exit to stop)");
                 var word = Console.ReadLine();
-                if (word.ToLower().Equals("exit"))
+                if (string.IsNullOrWhiteSpace(word) || word.ToLower().Equals("exit"))
                 {
                     break;
                 }
