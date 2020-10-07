@@ -17,6 +17,8 @@ namespace Bram.EnEllerEtt.ConsoleApp
             var wordLookupService = serviceProvider.GetService<IWordLookupService>();
 
             await GetInput(wordLookupService);
+
+            Console.WriteLine("Hej då!");
         }
 
         private static void ShowIntro()
@@ -24,6 +26,8 @@ namespace Bram.EnEllerEtt.ConsoleApp
             var asciiText =
                 "\r\n    ______         __________             ________  __ \r\n   / ____/___     / ____/ / /__  _____   / ____/ /_/ /_\r\n  / __/ / __ \\   / __/ / / / _ \\/ ___/  / __/ / __/ __/\r\n / /___/ / / /  / /___/ / /  __/ /     / /___/ /_/ /_  \r\n/_____/_/ /_/  /_____/_/_/\\___/_/     /_____/\\__/\\__/  \r\n                                                       \r\n";
             Console.WriteLine(asciiText);
+            Console.WriteLine("Hej och Välkommen!");
+            Console.WriteLine();
         }
 
         private static async Task GetInput(IWordLookupService wordLookupService)
