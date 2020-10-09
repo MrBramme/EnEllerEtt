@@ -1,6 +1,6 @@
 ﻿using Bram.EnEllerEtt.Core.Interface.Models;
 
-namespace Bram.EnEllerEtt.Adapter.RestSharp.Mapper
+namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
 {
     public static class WordResultMapper
     {

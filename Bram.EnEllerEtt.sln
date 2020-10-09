@@ -7,21 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{6551B7BA-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1942CE2E-49F7-4959-B810-89A075A84DD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.ConsoleApp", "Bram.EnEllerEtt.ConsoleApp\Bram.EnEllerEtt.ConsoleApp.csproj", "{227B47F2-82F6-493B-BD4E-9CF8AEF04DB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.ConsoleApp", "Bram.EnEllerEtt.ConsoleApp\Bram.EnEllerEtt.ConsoleApp.csproj", "{227B47F2-82F6-493B-BD4E-9CF8AEF04DB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Core", "Bram.EnEllerEtt.Core\Bram.EnEllerEtt.Core.csproj", "{EFD4BE6B-B2DA-4917-AB19-4E6EC6F02840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.Core", "Bram.EnEllerEtt.Core\Bram.EnEllerEtt.Core.csproj", "{EFD4BE6B-B2DA-4917-AB19-4E6EC6F02840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Core.Interface", "Bram.EnEllerEtt.Core.Interface\Bram.EnEllerEtt.Core.Interface.csproj", "{A83EA988-666E-40C8-9FEA-E64EAC8864DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.Core.Interface", "Bram.EnEllerEtt.Core.Interface\Bram.EnEllerEtt.Core.Interface.csproj", "{A83EA988-666E-40C8-9FEA-E64EAC8864DF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Boundary", "Boundary", "{3DFCB435-BC57-4BC6-8096-C4D9B2899F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Boundary", "Bram.EnEllerEtt.Boundary\Bram.EnEllerEtt.Boundary.csproj", "{0B966D24-548B-4076-BD43-D3446B8CD340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.Boundary", "Bram.EnEllerEtt.Boundary\Bram.EnEllerEtt.Boundary.csproj", "{0B966D24-548B-4076-BD43-D3446B8CD340}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapters", "Adapters", "{A6C14C4B-4AF9-433D-8149-392B9E100C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Adapter.AngleSharp", "Bram.EnEllerEtt.Adapter.AngleSharp\Bram.EnEllerEtt.Adapter.AngleSharp.csproj", "{A2799BE2-E48E-40FF-8DF3-2E7563BA4F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.Adapter.AngleSharp", "Bram.EnEllerEtt.Adapter.AngleSharp\Bram.EnEllerEtt.Adapter.AngleSharp.csproj", "{A2799BE2-E48E-40FF-8DF3-2E7563BA4F9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Adapter.RestSharp", "Bram.EnEllerEtt.Adapter.RestSharp\Bram.EnEllerEtt.Adapter.RestSharp.csproj", "{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bram.EnEllerEtt.Adapter.RestSharp", "Bram.EnEllerEtt.Adapter.RestSharp\Bram.EnEllerEtt.Adapter.RestSharp.csproj", "{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests", "Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests\Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests.csproj", "{01512A64-BBA8-43B4-8B0D-0382024ED575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01512A64-BBA8-43B4-8B0D-0382024ED575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01512A64-BBA8-43B4-8B0D-0382024ED575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01512A64-BBA8-43B4-8B0D-0382024ED575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01512A64-BBA8-43B4-8B0D-0382024ED575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{0B966D24-548B-4076-BD43-D3446B8CD340} = {3DFCB435-BC57-4BC6-8096-C4D9B2899F44}
 		{A2799BE2-E48E-40FF-8DF3-2E7563BA4F9E} = {A6C14C4B-4AF9-433D-8149-392B9E100C8E}
 		{6AADC8D4-86F4-4D02-92A1-1B1629EA0BB5} = {A6C14C4B-4AF9-433D-8149-392B9E100C8E}
+		{01512A64-BBA8-43B4-8B0D-0382024ED575} = {A6C14C4B-4AF9-433D-8149-392B9E100C8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16776E23-29AC-49F7-A503-6BFB7097EF06}

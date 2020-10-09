@@ -1,12 +1,12 @@
-﻿using AngleSharp;
-using Bram.EnEllerEtt.Adapter.RestSharp.Mapper;
-using Bram.EnEllerEtt.Core.Interface.Adapters;
-using Bram.EnEllerEtt.Core.Interface.Models;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using AngleSharp;
+using Bram.EnEllerEtt.Adapter.AngleSharp.Mapper;
+using Bram.EnEllerEtt.Core.Interface.Adapters;
+using Bram.EnEllerEtt.Core.Interface.Models;
 
-namespace Bram.EnEllerEtt.Adapter.RestSharp
+namespace Bram.EnEllerEtt.Adapter.AngleSharp
 {
     public class WiktionaryParser : IWiktionaryParser
     {

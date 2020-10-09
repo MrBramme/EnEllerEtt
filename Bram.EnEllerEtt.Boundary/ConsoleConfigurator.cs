@@ -1,8 +1,7 @@
-﻿using Bram.EnEllerEtt.Adapter.AngleSharp.Rest;
-using Bram.EnEllerEtt.Adapter.RestSharp;
-using Bram.EnEllerEtt.Core;
-using Bram.EnEllerEtt.Core.Interface;
+﻿using Bram.EnEllerEtt.Adapter.AngleSharp;
+using Bram.EnEllerEtt.Adapter.RestSharp.Rest;
 using Bram.EnEllerEtt.Core.Interface.Adapters;
+using Bram.EnEllerEtt.Core.Interface.Config;
 using Bram.EnEllerEtt.Core.Interface.Services;
 using Bram.EnEllerEtt.Core.Services;
 using Microsoft.Extensions.Configuration;

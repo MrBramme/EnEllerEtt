@@ -1,4 +1,4 @@
-﻿namespace Bram.EnEllerEtt.Core
+﻿namespace Bram.EnEllerEtt.Core.Interface.Config
 {
     public class RestConfiguration
     {

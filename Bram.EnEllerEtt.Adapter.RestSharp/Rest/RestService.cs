@@ -1,10 +1,10 @@
-﻿using Bram.EnEllerEtt.Core;
-using Bram.EnEllerEtt.Core.Interface;
-using RestSharp;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
+using Bram.EnEllerEtt.Core.Interface.Adapters;
+using Bram.EnEllerEtt.Core.Interface.Config;
+using RestSharp;
 
-namespace Bram.EnEllerEtt.Adapter.AngleSharp.Rest
+namespace Bram.EnEllerEtt.Adapter.RestSharp.Rest
 {
     public class RestService : IRestService
     {
