@@ -43,8 +43,10 @@ namespace Bram.EnEllerEtt.Adapter.RestSharp.UnitTests.Rest
             _restClientMock.Setup(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{word}")),
                     It.IsAny<CancellationToken>()))
                 .ReturnsAsync(expectedResponse);
+
             // When
             var result = await _sut.GetHtmlForWordAsync(word, CancellationToken.None);
+
             // Then
             _restClientMock.Verify(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{word}")), It.IsAny<CancellationToken>()), Times.Once);
             result.Should().Be(expectedResponse.Content);

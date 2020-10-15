@@ -1,5 +1,5 @@
-﻿using System;
-using Bram.EnEllerEtt.Core.Interface.Models;
+﻿using Bram.EnEllerEtt.Core.Interface.Models;
+using System;
 
 namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
 {
@@ -18,7 +18,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
                 return WordType.Ett;
             }
 
-            throw new ArgumentOutOfRangeException($"Cannot map '{input}' to {nameof(WordType)}");
+            throw new ArgumentOutOfRangeException(nameof(input), input, $"Cannot map '{input}' to {nameof(WordType)}");
         }
     }
 }
