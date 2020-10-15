@@ -1,8 +1,10 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using Bram.EnEllerEtt.Core.Interface.Adapters;
+﻿using Bram.EnEllerEtt.Core.Interface.Adapters;
 using Bram.EnEllerEtt.Core.Interface.Config;
+using Bram.EnEllerEtt.Core.Interface.Exceptions;
 using RestSharp;
+using System.Net;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Bram.EnEllerEtt.Adapter.RestSharp.Rest
 {
@@ -19,6 +21,11 @@ namespace Bram.EnEllerEtt.Adapter.RestSharp.Rest
         {
             var request = new RestRequest($"wiki/{word}", DataFormat.None);
             var response = await _client.ExecuteGetAsync(request, ct);
+            if (response.StatusCode.Equals(HttpStatusCode.NotFound))
+            {
+                throw new WordNotFoundException($"Could not find word '{word}'");
+            }
+
             return response.Content;
         }
     }
