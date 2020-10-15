@@ -41,9 +41,21 @@ namespace Bram.EnEllerEtt.ConsoleApp
                     break;
                 }
 
-                var result = await wordLookupService.GetResultForWordAsync(word, CancellationToken.None);
-                Console.WriteLine($"{result.WordType} {result.SingleNominativObestämd}: {result.SingleNominativBestämd}, {result.PluralNominativObestämd}, {result.PluralNominativBestämd}");
-                Console.WriteLine();
+                try
+                {
+                    var result = await wordLookupService.GetResultForWordAsync(word, CancellationToken.None);
+                    Console.WriteLine(
+                        $"{result.WordType} {result.SingleNominativObestämd}: {result.SingleNominativBestämd}, {result.PluralNominativObestämd}, {result.PluralNominativBestämd}");
+                    Console.WriteLine();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Whoops, something went wrong!");
+                    Console.WriteLine("-----------------------------------------------------");
+                    Console.WriteLine(e.Message);
+                    Console.WriteLine("-----------------------------------------------------");
+                    Console.WriteLine();
+                }
             }
         }
     }
