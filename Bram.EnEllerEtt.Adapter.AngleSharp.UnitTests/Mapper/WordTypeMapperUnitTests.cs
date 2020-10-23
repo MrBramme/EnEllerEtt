@@ -24,7 +24,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
         }
 
         [Test]
-        public void FromString_InvalidInput_ShouldThrow()
+        public void FromString_InvalidInput_ShouldThrowArgumentOutOfRangeException()
         {
             // Given
             var input = "unknown";

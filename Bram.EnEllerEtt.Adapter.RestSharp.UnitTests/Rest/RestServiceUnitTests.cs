@@ -1,10 +1,13 @@
 ﻿using Bram.EnEllerEtt.Adapter.RestSharp.Rest;
 using Bram.EnEllerEtt.Core.Interface.Adapters;
 using Bram.EnEllerEtt.Core.Interface.Config;
+using Bram.EnEllerEtt.Core.Interface.Exceptions;
 using FluentAssertions;
 using Moq;
 using NUnit.Framework;
 using RestSharp;
+using System;
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -50,6 +53,23 @@ namespace Bram.EnEllerEtt.Adapter.RestSharp.UnitTests.Rest
             // Then
             _restClientMock.Verify(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{word}")), It.IsAny<CancellationToken>()), Times.Once);
             result.Should().Be(expectedResponse.Content);
+        }
+
+        [Test]
+        public void GetHtmlForWordAsync_WhenStatusCodeNotFound_ThrowsWordNotFoundException()
+        {
+            // Given
+            var word = "barn";
+            var expectedResponse = new RestResponse { StatusCode = HttpStatusCode.NotFound };
+            _restClientMock.Setup(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{word}")),
+                    It.IsAny<CancellationToken>()))
+                .ReturnsAsync(expectedResponse);
+
+            // When
+            Func<Task> act = async () => { await _sut.GetHtmlForWordAsync(word, CancellationToken.None); };
+
+            // Then
+            act.Should().Throw<WordNotFoundException>().WithMessage($"Could not find word '{word}'");
         }
     }
 }
