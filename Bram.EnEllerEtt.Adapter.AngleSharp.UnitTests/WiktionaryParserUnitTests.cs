@@ -65,5 +65,29 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             result.Should().BeEquivalentTo(expected);
         }
+
+        [Test]
+        public async Task ParseFromHtmlAsync_GivenMatHtmlString_ReturnsCorrectResult()
+        {
+            // Given
+            var expected = new WordResult
+            {
+                WordType = WordType.En,
+                PluralGenitivBestämd = "maternas",
+                PluralGenitivObestämd = "maters",
+                PluralNominativBestämd = "materna",
+                PluralNominativObestämd = "mater",
+                SingleGenitivBestämd = "matens",
+                SingleGenitivObestämd = "mats",
+                SingleNominativBestämd = "maten",
+                SingleNominativObestämd = "mat",
+            };
+
+            // When
+            var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Mat, CancellationToken.None);
+
+            // Then
+            result.Should().BeEquivalentTo(expected);
+        }
     }
 }

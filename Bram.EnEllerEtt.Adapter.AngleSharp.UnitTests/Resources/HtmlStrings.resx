@@ -1000,4 +1000,535 @@ Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarv
 &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1373"});});&lt;/script&gt;
 &lt;/body&gt;&lt;/html&gt;</value>
   </data>
+  <data name="Mat" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;mat - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"25dc6445-7628-4b3e-9296-06fb680b94f6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"mat","wgTitle":"mat","wgCurRevisionId":3440139,"wgRevisionId":3440139,"wgArticleId":8010,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Svenska/Alla uppslag","Wiktionary:uttal/Använder mallen","Bokmål/Alla uppslag","Bretonska/Alla uppslag","Nynorska/Alla uppslag","Engelska/Alla uppslag","Svenska/Substantiv","Svenska/Mat","Svenska/Härledningar från fornsvenska","Svenska/Härledningar från fornnordiska","Svenska/Sjöfart","Bokmål/Substantiv",
+"Bretonska/Adjektiv","Nynorska/Substantiv","Engelska/Substantiv","Engelska/Inredning"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"mat","wgRelevantArticleId":8010,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":
+"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.translation_editor","ext.gadget.translation_editor_add_section","ext.gadget.editorwarnings","ext.gadget.green_links","ext.gadget.redirect_cross-reference","ext.gadget.WikipediaSearchResult","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=vector"&gt;&lt;/script&gt;
+&lt;meta name="ResourceLoaderDynamicStyles" content=""/&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=site.styles&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;meta name="generator" content="MediaWiki 1.36.0-wmf.14"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wiktionary.org/wiki/mat"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=mat&amp;amp;action=edit"/&gt;
+&lt;link rel="edit" title="Redigera" href="/w/index.php?title=mat&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/mat"/&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-mat rootpage-mat skin-vector action-view skin-vector-legacy"&gt;&lt;div id="mw-page-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="mw-head-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="content" class="mw-body" role="main"&gt;
+	&lt;a id="top"&gt;&lt;/a&gt;
+	&lt;div id="siteNotice" class="mw-body-content"&gt;&lt;!-- CentralNotice --&gt;&lt;/div&gt;
+	&lt;div class="mw-indicators mw-body-content"&gt;
+	&lt;/div&gt;
+	&lt;h1 id="firstHeading" class="firstHeading" lang="sv"&gt;mat&lt;/h1&gt;
+	&lt;div id="bodyContent" class="mw-body-content"&gt;
+		&lt;div id="siteSub" class="noprint"&gt;Definition från Wiktionary, den fria ordlistan.&lt;/div&gt;
+		&lt;div id="contentSub"&gt;&lt;/div&gt;
+		&lt;div id="contentSub2"&gt;&lt;/div&gt;
+		
+		&lt;div id="jump-to-nav"&gt;&lt;/div&gt;
+		&lt;a class="mw-jump-link" href="#mw-head"&gt;Hoppa till navigering&lt;/a&gt;
+		&lt;a class="mw-jump-link" href="#searchInput"&gt;Hoppa till sök&lt;/a&gt;
+		&lt;div id="mw-content-text" lang="sv" dir="ltr" class="mw-content-ltr"&gt;&lt;div class="mw-parser-output"&gt;&lt;div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #F9F9F5; width: 250px; padding:4px; spacing: 0px; text-align: left; float: right;"&gt;
+&lt;div style="float: left;"&gt;&lt;div class="floatnone"&gt;&lt;a href="/wiki/Fil:Wikipedia-logo-v2.svg" class="image"&gt;&lt;img alt="Wikipedia-logo-v2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" decoding="async" width="40" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style="margin-left: 60px;"&gt;&lt;a href="https://sv.wikipedia.org/wiki/Main_Page" class="extiw" title="w:Main Page"&gt;Wikipedia&lt;/a&gt; har en artikel om:&lt;br /&gt; &lt;span style="font-size:1.1em"&gt;&lt;i&gt;&lt;b&gt;&lt;a href="https://sv.wikipedia.org/wiki/Mat" class="extiw" title="w:Mat"&gt;mat&lt;/a&gt;&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;i&gt;Se även&lt;/i&gt; &lt;a href="/wiki/m%C3%A4t" title="mät"&gt;mät&lt;/a&gt; &lt;i&gt;och&lt;/i&gt; &lt;a href="/wiki/matt" title="matt"&gt;matt&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"&gt;&lt;input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /&gt;&lt;div class="toctitle" lang="sv" dir="ltr"&gt;&lt;h2 id="mw-toc-heading"&gt;Innehåll&lt;/h2&gt;&lt;span class="toctogglespan"&gt;&lt;label class="toctogglelabel" for="toctogglecheckbox"&gt;&lt;/label&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-1 tocsection-1"&gt;&lt;a href="#Svenska"&gt;&lt;span class="tocnumber"&gt;1&lt;/span&gt; &lt;span class="toctext"&gt;Svenska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-2"&gt;&lt;a href="#Substantiv"&gt;&lt;span class="tocnumber"&gt;1.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-3 tocsection-3"&gt;&lt;a href="#Översättningar"&gt;&lt;span class="tocnumber"&gt;1.1.1&lt;/span&gt; &lt;span class="toctext"&gt;Översättningar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-4"&gt;&lt;a href="#Bokmål"&gt;&lt;span class="tocnumber"&gt;2&lt;/span&gt; &lt;span class="toctext"&gt;Bokmål&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-5"&gt;&lt;a href="#Substantiv_2"&gt;&lt;span class="tocnumber"&gt;2.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-6"&gt;&lt;a href="#Bretonska"&gt;&lt;span class="tocnumber"&gt;3&lt;/span&gt; &lt;span class="toctext"&gt;Bretonska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-7"&gt;&lt;a href="#Adjektiv"&gt;&lt;span class="tocnumber"&gt;3.1&lt;/span&gt; &lt;span class="toctext"&gt;Adjektiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-8"&gt;&lt;a href="#Nynorska"&gt;&lt;span class="tocnumber"&gt;4&lt;/span&gt; &lt;span class="toctext"&gt;Nynorska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-9"&gt;&lt;a href="#Substantiv_3"&gt;&lt;span class="tocnumber"&gt;4.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-10"&gt;&lt;a href="#Engelska"&gt;&lt;span class="tocnumber"&gt;5&lt;/span&gt; &lt;span class="toctext"&gt;Engelska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-11"&gt;&lt;a href="#Substantiv_4"&gt;&lt;span class="tocnumber"&gt;5.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-sv-subst-n-oräkn" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&amp;#160;1&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Oräknebart
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/maten" title="maten"&gt;maten&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/mats" title="mats"&gt;mats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/matens" title="matens"&gt;matens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;table class="grammar template-sv-subst-n-ar" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&amp;#160;2&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/maten#Svenska" title="maten"&gt;maten&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matar#Svenska" title="matar"&gt;matar&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matarna#Svenska" title="matarna"&gt;matarna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/mats#Svenska" title="mats"&gt;mats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matens#Svenska" title="matens"&gt;matens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matars#Svenska" title="matars"&gt;matars&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matarnas#Svenska" title="matarnas"&gt;matarnas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;table class="grammar template-sv-subst-n-er" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&amp;#160;2&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/maten" title="maten"&gt;maten&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/mater" title="mater"&gt;mater&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/materna" title="materna"&gt;materna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/mats" title="mats"&gt;mats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/matens" title="matens"&gt;matens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/maters" title="maters"&gt;maters&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/maternas" title="maternas"&gt;maternas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;mat&lt;/b&gt; &amp;#32;&lt;b title="utrum" class="gender"&gt;&lt;i&gt;u&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/wiki/Wiktionary:Stilguide/Uttal" title="Wiktionary:Stilguide/Uttal"&gt;uttal&lt;/a&gt;:&lt;/b&gt;&amp;#160;/&lt;span class="ipa"&gt;'mɑːt&lt;/span&gt;/&amp;#160;&lt;span class="audiolink"&gt;&lt;a href="/wiki/Fil:Sv-mat.ogg" title="Fil:Sv-mat.ogg"&gt;&amp;#160;&lt;/a&gt;&lt;/span&gt;&lt;a href="//upload.wikimedia.org/wikipedia/commons/e/e6/Sv-mat.ogg" class="internal" title="Sv-mat.ogg"&gt;&amp;#160;Spela&amp;#160;upp&lt;/a&gt;&lt;sup&gt;&lt;a href="https://en.wiktionary.org/wiki/Wikipedia:Wikipedia:Audio_help" class="extiw" title="en:Wikipedia:Wikipedia:Audio help"&gt;?&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ol&gt;&lt;li&gt;samlingsnamn för (särskilt fasta) kemiska ämnen som främst djur intager i syfte att kunna erhålla energi och byggnadsmaterial från dem
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Av&amp;#160;fornsvenska &lt;i&gt;&lt;a href="/wiki/mater#Fornsvenska" title="mater"&gt;mater&lt;/a&gt;&lt;/i&gt;, av fornnordiska &lt;i&gt;&lt;a href="/w/index.php?title=matr&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matr (inte skapad ännu)"&gt;matr&lt;/a&gt;&lt;/i&gt;.&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/f%C3%B6da" title="föda"&gt;föda&lt;/a&gt;, &lt;a href="/wiki/krubb" title="krubb"&gt;krubb&lt;/a&gt;, &lt;a href="/wiki/livsmedel" title="livsmedel"&gt;livsmedel&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/mata" title="mata"&gt;mata&lt;/a&gt;, &lt;a href="/wiki/matig" title="matig"&gt;matig&lt;/a&gt;, &lt;a href="/wiki/m%C3%A4tt" title="mätt"&gt;mätt&lt;/a&gt;, &lt;a href="/wiki/m%C3%A4tta" title="mätta"&gt;mätta&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;i&gt;(...mat)&lt;/i&gt; &lt;a href="/wiki/barnmat" title="barnmat"&gt;barnmat&lt;/a&gt;, &lt;a href="/w/index.php?title=basmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="basmat (inte skapad ännu)"&gt;basmat&lt;/a&gt;, &lt;a href="/w/index.php?title=burkmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="burkmat (inte skapad ännu)"&gt;burkmat&lt;/a&gt;, &lt;a href="/w/index.php?title=dietmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="dietmat (inte skapad ännu)"&gt;dietmat&lt;/a&gt;, &lt;a href="/wiki/f%C3%A4rdigmat" title="färdigmat"&gt;färdigmat&lt;/a&gt;, &lt;a href="/wiki/gatumat" title="gatumat"&gt;gatumat&lt;/a&gt;, &lt;a href="/wiki/hundmat" title="hundmat"&gt;hundmat&lt;/a&gt;, &lt;a href="/wiki/julmat" title="julmat"&gt;julmat&lt;/a&gt;, &lt;a href="/w/index.php?title=kalasmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="kalasmat (inte skapad ännu)"&gt;kalasmat&lt;/a&gt;, &lt;a href="/wiki/kanonmat" title="kanonmat"&gt;kanonmat&lt;/a&gt;, &lt;a href="/wiki/kattmat" title="kattmat"&gt;kattmat&lt;/a&gt;, &lt;a href="/w/index.php?title=koschermat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="koschermat (inte skapad ännu)"&gt;koschermat&lt;/a&gt;, &lt;a href="/wiki/kv%C3%A4llsmat" title="kvällsmat"&gt;kvällsmat&lt;/a&gt;, &lt;a href="/w/index.php?title=middagsmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="middagsmat (inte skapad ännu)"&gt;middagsmat&lt;/a&gt;, &lt;a href="/wiki/skolmat" title="skolmat"&gt;skolmat&lt;/a&gt;, &lt;a href="/wiki/skr%C3%A4pmat" title="skräpmat"&gt;skräpmat&lt;/a&gt;, &lt;a href="/w/index.php?title=sk%C3%A5pmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="skåpmat (inte skapad ännu)"&gt;skåpmat&lt;/a&gt;, &lt;a href="/w/index.php?title=smalmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="smalmat (inte skapad ännu)"&gt;smalmat&lt;/a&gt;, &lt;a href="/wiki/snabbmat" title="snabbmat"&gt;snabbmat&lt;/a&gt;, &lt;a href="/wiki/vardagsmat" title="vardagsmat"&gt;vardagsmat&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;i&gt;(mat...)&lt;/i&gt; &lt;a href="/wiki/mataff%C3%A4r" title="mataffär"&gt;mataffär&lt;/a&gt;, &lt;a href="/w/index.php?title=matberedare&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matberedare (inte skapad ännu)"&gt;matberedare&lt;/a&gt;, &lt;a href="/w/index.php?title=matbestick&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matbestick (inte skapad ännu)"&gt;matbestick&lt;/a&gt;, &lt;a href="/wiki/matbord" title="matbord"&gt;matbord&lt;/a&gt;, &lt;a href="/w/index.php?title=matbr%C3%B6d&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matbröd (inte skapad ännu)"&gt;matbröd&lt;/a&gt;, &lt;a href="/wiki/matbutik" title="matbutik"&gt;matbutik&lt;/a&gt;, &lt;a href="/w/index.php?title=matcirkeln&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matcirkeln (inte skapad ännu)"&gt;matcirkeln&lt;/a&gt;, &lt;a href="/wiki/matfett" title="matfett"&gt;matfett&lt;/a&gt;, &lt;a href="/wiki/matfriare" title="matfriare"&gt;matfriare&lt;/a&gt;, &lt;a href="/w/index.php?title=matf%C3%B6rgiftad&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matförgiftad (inte skapad ännu)"&gt;matförgiftad&lt;/a&gt;, &lt;a href="/wiki/matf%C3%B6rgiftning" title="matförgiftning"&gt;matförgiftning&lt;/a&gt;, &lt;a href="/w/index.php?title=matf%C3%B6rr%C3%A5d&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matförråd (inte skapad ännu)"&gt;matförråd&lt;/a&gt;, &lt;a href="/w/index.php?title=matg%C3%A4st&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matgäst (inte skapad ännu)"&gt;matgäst&lt;/a&gt;, &lt;a href="/wiki/mathiss" title="mathiss"&gt;mathiss&lt;/a&gt;, &lt;a href="/w/index.php?title=math%C3%A5llning&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="mathållning (inte skapad ännu)"&gt;mathållning&lt;/a&gt;, &lt;a href="/wiki/matjord" title="matjord"&gt;matjord&lt;/a&gt;, &lt;a href="/wiki/matkasse" title="matkasse"&gt;matkasse&lt;/a&gt;, &lt;a href="/w/index.php?title=matkultur&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matkultur (inte skapad ännu)"&gt;matkultur&lt;/a&gt;, &lt;a href="/w/index.php?title=matkupong&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matkupong (inte skapad ännu)"&gt;matkupong&lt;/a&gt;, &lt;a href="/w/index.php?title=matk%C3%A4llare&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matkällare (inte skapad ännu)"&gt;matkällare&lt;/a&gt;, &lt;a href="/wiki/matlagning" title="matlagning"&gt;matlagning&lt;/a&gt;, &lt;a href="/wiki/matlust" title="matlust"&gt;matlust&lt;/a&gt;, &lt;a href="/w/index.php?title=matnyttig&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matnyttig (inte skapad ännu)"&gt;matnyttig&lt;/a&gt;, &lt;a href="/wiki/matolja" title="matolja"&gt;matolja&lt;/a&gt;, &lt;a href="/w/index.php?title=matos&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matos (inte skapad ännu)"&gt;matos&lt;/a&gt;, &lt;a href="/w/index.php?title=matpengar&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matpengar (inte skapad ännu)"&gt;matpengar&lt;/a&gt;, &lt;a href="/w/index.php?title=matranson&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matranson (inte skapad ännu)"&gt;matranson&lt;/a&gt;, &lt;a href="/wiki/matrast" title="matrast"&gt;matrast&lt;/a&gt;, &lt;a href="/w/index.php?title=matrest&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matrest (inte skapad ännu)"&gt;matrest&lt;/a&gt;, &lt;a href="/wiki/matris" title="matris"&gt;matris&lt;/a&gt;, &lt;a href="/wiki/matr%C3%A4tt" title="maträtt"&gt;maträtt&lt;/a&gt;, &lt;a href="/wiki/matsal" title="matsal"&gt;matsal&lt;/a&gt;, &lt;a href="/wiki/matsedel" title="matsedel"&gt;matsedel&lt;/a&gt;, &lt;a href="/wiki/matservering" title="matservering"&gt;matservering&lt;/a&gt;, &lt;a href="/wiki/matsilver" title="matsilver"&gt;matsilver&lt;/a&gt;, &lt;a href="/wiki/matsked" title="matsked"&gt;matsked&lt;/a&gt;, &lt;a href="/wiki/matsm%C3%A4ltning" title="matsmältning"&gt;matsmältning&lt;/a&gt;, &lt;a href="/wiki/matspj%C3%A4lkning" title="matspjälkning"&gt;matspjälkning&lt;/a&gt;, &lt;a href="/w/index.php?title=matstrejk&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matstrejk (inte skapad ännu)"&gt;matstrejk&lt;/a&gt;, &lt;a href="/wiki/matstrupe" title="matstrupe"&gt;matstrupe&lt;/a&gt;, &lt;a href="/w/index.php?title=matstylist&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matstylist (inte skapad ännu)"&gt;matstylist&lt;/a&gt;, &lt;a href="/wiki/matst%C3%A4lle" title="matställe"&gt;matställe&lt;/a&gt;, &lt;a href="/wiki/mats%C3%A4ck" title="matsäck"&gt;matsäck&lt;/a&gt;, &lt;a href="/wiki/matvara" title="matvara"&gt;matvara&lt;/a&gt;, &lt;a href="/wiki/matvaruaff%C3%A4r" title="matvaruaffär"&gt;matvaruaffär&lt;/a&gt;, &lt;a href="/wiki/matvarubutik" title="matvarubutik"&gt;matvarubutik&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;(sjöfart)&lt;/i&gt;  &lt;a href="/wiki/medhj%C3%A4lpare" title="medhjälpare"&gt;medhjälpare&lt;/a&gt;, &lt;a href="/wiki/bitr%C3%A4de" title="biträde"&gt;biträde&lt;/a&gt;, &lt;a href="/wiki/kamrat" title="kamrat"&gt;kamrat&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/wiki/kocksmat" title="kocksmat"&gt;kocksmat&lt;/a&gt;, &lt;a href="/w/index.php?title=timmermansmat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="timmermansmat (inte skapad ännu)"&gt;timmermansmat&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Liksom holländska maat och engelska &lt;a href="/wiki/mate" title="mate"&gt;mate&lt;/a&gt;, har ordet ursprunligen betytt medlem av samma &lt;a href="/w/index.php?title=matlag&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matlag (inte skapad ännu)"&gt;matlag&lt;/a&gt;, bordskamrat.&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h4&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;föda&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="mat" data-gender="m"&gt;&lt;a href="/wiki/mat#Bokmål" title="mat"&gt;mat&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://no.wiktionary.org/wiki/mat" class="extiw" title="no:mat"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;bosniska: &lt;span class="ö" data-lang="bs" data-title="hrana" data-gender="f"&gt;&lt;a href="/wiki/hrana#Bosniska" title="hrana"&gt;hrana&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;bretonska: &lt;span class="ö" data-lang="br" data-title="boued"&gt;&lt;a href="/w/index.php?title=boued&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="boued (inte skapad ännu)"&gt;boued&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://br.wiktionary.org/wiki/boued" class="extiw" title="br:boued"&gt;(br)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;danska: &lt;span class="ö" data-lang="da" data-title="mad" data-gender="u"&gt;&lt;a href="/wiki/mad#Danska" title="mad"&gt;mad&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://da.wiktionary.org/wiki/mad" class="extiw" title="da:mad"&gt;(da)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="utrum" class="gender"&gt;&lt;i&gt;u&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="da" data-title="føde" data-gender="u"&gt;&lt;a href="/wiki/f%C3%B8de#Danska" title="føde"&gt;føde&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://da.wiktionary.org/wiki/f%C3%B8de" class="extiw" title="da:føde"&gt;(da)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="utrum" class="gender"&gt;&lt;i&gt;u&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="food"&gt;&lt;a href="/wiki/food#Engelska" title="food"&gt;food&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/food" class="extiw" title="en:food"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="ruoka"&gt;&lt;a href="/wiki/ruoka#Finska" title="ruoka"&gt;ruoka&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fi.wiktionary.org/wiki/ruoka" class="extiw" title="fi:ruoka"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;fornnordiska: &lt;span class="ö" data-lang="non" data-title="matr" data-gender="m"&gt;&lt;a href="/w/index.php?title=matr&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="matr (inte skapad ännu)"&gt;matr&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="nourriture" data-gender="f"&gt;&lt;a href="/wiki/nourriture#Franska" title="nourriture"&gt;nourriture&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/nourriture" class="extiw" title="fr:nourriture"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="matur" data-gender="m"&gt;&lt;a href="/wiki/matur#Isländska" title="matur"&gt;matur&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://is.wiktionary.org/wiki/matur" class="extiw" title="is:matur"&gt;(is)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="cibo" data-gender="m"&gt;&lt;a href="/w/index.php?title=cibo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="cibo (inte skapad ännu)"&gt;cibo&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://it.wiktionary.org/wiki/cibo" class="extiw" title="it:cibo"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="食べ物"&gt;&lt;a href="/wiki/%E9%A3%9F%E3%81%B9%E7%89%A9#Japanska" title="食べ物"&gt;食べ物&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E9%A3%9F%E3%81%B9%E7%89%A9" class="extiw" title="ja:食べ物"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; (&lt;span class="ö" data-lang="ja" data-title="たべもの"&gt;&lt;a href="/w/index.php?title=%E3%81%9F%E3%81%B9%E3%82%82%E3%81%AE&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="たべもの (inte skapad ännu)"&gt;たべもの&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E3%81%9F%E3%81%B9%E3%82%82%E3%81%AE" class="extiw" title="ja:たべもの"&gt;(ja)&lt;/a&gt;&lt;/sup&gt;, tabemono), &lt;span class="ö" data-lang="ja" data-title="食物" data-tr="しょくもつ, shokumotsu"&gt;&lt;a href="/wiki/%E9%A3%9F%E7%89%A9#Japanska" title="食物"&gt;食物&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E9%A3%9F%E7%89%A9" class="extiw" title="ja:食物"&gt;(ja)&lt;/a&gt;&lt;/sup&gt;&amp;#160;(しょくもつ, shokumotsu), &lt;span class="ö" data-lang="ja" data-title="食品" data-tr="しょくひん, shokuhin"&gt;&lt;a href="/w/index.php?title=%E9%A3%9F%E5%93%81&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="食品 (inte skapad ännu)"&gt;食品&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E9%A3%9F%E5%93%81" class="extiw" title="ja:食品"&gt;(ja)&lt;/a&gt;&lt;/sup&gt;&amp;#160;(しょくひん, shokuhin)&lt;/li&gt;
+&lt;li&gt;kildinsamiska: &lt;span class="ö" data-lang="sjd" data-title="пе̄ррк" data-tr="pʹērrk"&gt;&lt;a href="/wiki/%D0%BF%D0%B5%CC%84%D1%80%D1%80%D0%BA#Kildinsamiska" title="пе̄ррк"&gt;пе̄ррк&lt;/a&gt;&lt;/span&gt;&amp;#160;(pʹērrk)&lt;/li&gt;
+&lt;li&gt;kurdiska: &lt;span class="ö" data-lang="ku" data-title="xwarin"&gt;&lt;a href="/wiki/xwarin#Kurdiska" title="xwarin"&gt;xwarin&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ku.wiktionary.org/wiki/xwarin" class="extiw" title="ku:xwarin"&gt;(ku)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;malajiska: &lt;span class="ö" data-lang="ms" data-title="makanan"&gt;&lt;a href="/wiki/makanan#Malajiska" title="makanan"&gt;makanan&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ms.wiktionary.org/wiki/makanan" class="extiw" title="ms:makanan"&gt;(ms)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;maori: &lt;span class="ö" data-lang="mi" data-title="kai"&gt;&lt;a href="/wiki/kai#Maori" title="kai"&gt;kai&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="eten" data-gender="n"&gt;&lt;a href="/wiki/eten#Nederländska" title="eten"&gt;eten&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://nl.wiktionary.org/wiki/eten" class="extiw" title="nl:eten"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="nl" data-title="voedsel" data-gender="n"&gt;&lt;a href="/w/index.php?title=voedsel&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="voedsel (inte skapad ännu)"&gt;voedsel&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://nl.wiktionary.org/wiki/voedsel" class="extiw" title="nl:voedsel"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;nynorska: &lt;span class="ö" data-lang="nn" data-title="mat" data-gender="m"&gt;&lt;a href="/wiki/mat#Nynorska" title="mat"&gt;mat&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="jedzenie" data-gender="n"&gt;&lt;a href="/wiki/jedzenie#Polska" title="jedzenie"&gt;jedzenie&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/jedzenie" class="extiw" title="pl:jedzenie"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="pl" data-title="żywność"&gt;&lt;a href="/w/index.php?title=%C5%BCywno%C5%9B%C4%87&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="żywność (inte skapad ännu)"&gt;żywność&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/%C5%BCywno%C5%9B%C4%87" class="extiw" title="pl:żywność"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="еда"&gt;&lt;a href="/wiki/%D0%B5%D0%B4%D0%B0#Ryska" title="еда"&gt;еда&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%B5%D0%B4%D0%B0" class="extiw" title="ru:еда"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="ru" data-title="пища"&gt;&lt;a href="/wiki/%D0%BF%D0%B8%D1%89%D0%B0#Ryska" title="пища"&gt;пища&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D1%89%D0%B0" class="extiw" title="ru:пища"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tok pisin: &lt;span class="ö" data-lang="tpi" data-title="kai"&gt;&lt;a href="/wiki/kai#Tok_pisin" title="kai"&gt;kai&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="yemek"&gt;&lt;a href="/wiki/yemek#Turkiska" title="yemek"&gt;yemek&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://tr.wiktionary.org/wiki/yemek" class="extiw" title="tr:yemek"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Essen" data-gender="n"&gt;&lt;a href="/wiki/Essen#Tyska" title="Essen"&gt;Essen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/Essen" class="extiw" title="de:Essen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="de" data-title="Nahrung" data-gender="f"&gt;&lt;a href="/wiki/Nahrung#Tyska" title="Nahrung"&gt;Nahrung&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/Nahrung" class="extiw" title="de:Nahrung"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="de" data-title="Kost" data-gender="f"&gt;&lt;a href="/wiki/Kost#Tyska" title="Kost"&gt;Kost&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/Kost" class="extiw" title="de:Kost"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;span id="Bokm.C3.A5l"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Bokmål"&gt;Bokmål&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=4" title="Redigera avsnitt Bokmål"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv_2"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=5" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-no-subst-oräkn" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Oräknebart
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;maskulinum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/maten#Bokmål" title="maten"&gt;maten&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/mats#Bokmål" title="mats"&gt;mats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/matens#Bokmål" title="matens"&gt;matens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;mat&lt;/b&gt; &amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;mat&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h2&gt;&lt;span class="mw-headline" id="Bretonska"&gt;Bretonska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=6" title="Redigera avsnitt Bretonska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Adjektiv"&gt;Adjektiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=7" title="Redigera avsnitt Adjektiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;mat&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/bra" title="bra"&gt;bra&lt;/a&gt;, &lt;a href="/wiki/god" title="god"&gt;god&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h2&gt;&lt;span class="mw-headline" id="Nynorska"&gt;Nynorska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=8" title="Redigera avsnitt Nynorska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv_3"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=9" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-nn-subst-oräkn" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Oräknebart
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;maskulinum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;mat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/maten#Nynorska" title="maten"&gt;maten&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;mat&lt;/b&gt; &amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;mat&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h2&gt;&lt;span class="mw-headline" id="Engelska"&gt;Engelska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=10" title="Redigera avsnitt Engelska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv_4"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit&amp;amp;section=11" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;mat&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/wiki/Wiktionary:Stilguide/Uttal/Engelska" title="Wiktionary:Stilguide/Uttal/Engelska"&gt;uttal&lt;/a&gt;:&lt;/b&gt;&amp;#160;/&lt;span class="ipa"&gt;ˈmæt&lt;/span&gt;/&lt;/li&gt;&lt;/ul&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/matta" title="matta"&gt;matta&lt;/a&gt;; material som ska skydda själva golvet
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-seäven"&gt;&lt;em title="Andra relevanta begrepp"&gt;Se även:&lt;/em&gt; &lt;a href="/wiki/carpet" title="carpet"&gt;carpet&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20201021194130
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.476 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 4208/1000000
+Post‐expand include size: 24605/2097152 bytes
+Template argument size: 7449/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 4.82 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  515.269      1 -total
+ 17.93%   92.386     25 Mall:ö+
+ 16.56%   85.322      1 Mall:sv-subst-n-oräkn
+ 11.01%   56.724      1 Mall:sv-subst-n-ar
+  9.86%   50.789     34 Mall:länk
+  7.88%   40.629      3 Mall:tagg
+  7.11%   36.628      1 Mall:wikipedia
+  7.04%   36.272     14 Mall:g-cell
+  6.98%   35.969      1 Mall:no-subst-oräkn
+  6.57%   33.839      1 Mall:sv-subst-n-er
+--&gt;
+
+&lt;!-- Saved in parser cache with key svwiktionary:pcache:idhash:8010-0!canonical and timestamp 20201021194130 and revision id 3440139
+ --&gt;
+&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;
+&lt;div class="printfooter"&gt;Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=mat&amp;amp;oldid=3440139"&gt;https://sv.wiktionary.org/w/index.php?title=mat&amp;amp;oldid=3440139&lt;/a&gt;"&lt;/div&gt;&lt;/div&gt;
+		&lt;div id="catlinks" class="catlinks" data-mw="interface"&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;&lt;a href="/wiki/Special:Kategorier" title="Special:Kategorier"&gt;Kategorier&lt;/a&gt;: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Substantiv" title="Kategori:Svenska/Substantiv"&gt;Svenska/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Mat" title="Kategori:Svenska/Mat"&gt;Svenska/Mat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/H%C3%A4rledningar_fr%C3%A5n_fornsvenska" title="Kategori:Svenska/Härledningar från fornsvenska"&gt;Svenska/Härledningar från fornsvenska&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/H%C3%A4rledningar_fr%C3%A5n_fornnordiska" title="Kategori:Svenska/Härledningar från fornnordiska"&gt;Svenska/Härledningar från fornnordiska&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Sj%C3%B6fart" title="Kategori:Svenska/Sjöfart"&gt;Svenska/Sjöfart&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Bokm%C3%A5l/Substantiv" title="Kategori:Bokmål/Substantiv"&gt;Bokmål/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Bretonska/Adjektiv" title="Kategori:Bretonska/Adjektiv"&gt;Bretonska/Adjektiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Nynorska/Substantiv" title="Kategori:Nynorska/Substantiv"&gt;Nynorska/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Engelska/Substantiv" title="Kategori:Engelska/Substantiv"&gt;Engelska/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Engelska/Inredning" title="Kategori:Engelska/Inredning"&gt;Engelska/Inredning&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden"&gt;Dolda kategorier: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Alla_uppslag" title="Kategori:Svenska/Alla uppslag"&gt;Svenska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Wiktionary:uttal/Anv%C3%A4nder_mallen" title="Kategori:Wiktionary:uttal/Använder mallen"&gt;Wiktionary:uttal/Använder mallen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Bokm%C3%A5l/Alla_uppslag" title="Kategori:Bokmål/Alla uppslag"&gt;Bokmål/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Bretonska/Alla_uppslag" title="Kategori:Bretonska/Alla uppslag"&gt;Bretonska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Nynorska/Alla_uppslag" title="Kategori:Nynorska/Alla uppslag"&gt;Nynorska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Engelska/Alla_uppslag" title="Kategori:Engelska/Alla uppslag"&gt;Engelska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="mw-navigation"&gt;
+	&lt;h2&gt;Navigeringsmeny&lt;/h2&gt;
+	&lt;div id="mw-head"&gt;
+		&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-personal-label"&gt;
+		&lt;span&gt;Personliga verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="pt-anonuserpage"&gt;Inte inloggad&lt;/li&gt;&lt;li id="pt-anontalk"&gt;&lt;a href="/wiki/Special:Min_diskussion" title="Diskussion om redigeringar från det här IP-numret [n]" accesskey="n"&gt;Diskussion för detta IP&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-anoncontribs"&gt;&lt;a href="/wiki/Special:Mina_bidrag" title="En lista över redigeringar från denna IP-adress [y]" accesskey="y"&gt;Bidrag&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-createaccount"&gt;&lt;a href="/w/index.php?title=Special:Skapa_konto&amp;amp;returnto=mat" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt"&gt;Skapa konto&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-login"&gt;&lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=mat" title="Du uppmuntras att logga in, men det är inget krav [o]" accesskey="o"&gt;Logga in&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;div id="left-navigation"&gt;
+			&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-namespaces-label"&gt;
+		&lt;span&gt;Namnrymder&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-nstab-main" class="selected"&gt;&lt;a href="/wiki/mat" title="Visa innehållssidan [c]" accesskey="c"&gt;Uppslag&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-talk"&gt;&lt;a href="/wiki/Diskussion:mat" rel="discussion" title="Diskussion om innehållssidan [t]" accesskey="t"&gt;Diskussion&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 &gt;
+	&lt;input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" /&gt;
+	&lt;h3 id="p-variants-label"&gt;
+		&lt;span&gt;Varianter&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;/div&gt;
+		&lt;div id="right-navigation"&gt;
+			&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-views-label"&gt;
+		&lt;span&gt;Visningar&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-view" class="selected"&gt;&lt;a href="/wiki/mat"&gt;Läs&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-edit"&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=edit" title="Redigera denna sida [e]" accesskey="e"&gt;Redigera&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-history"&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=history" title="Tidigare versioner av sidan [h]" accesskey="h"&gt;Visa historik&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 &gt;
+	&lt;input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" /&gt;
+	&lt;h3 id="p-cactions-label"&gt;
+		&lt;span&gt;Mer&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;div id="p-search" role="search"&gt;
+	&lt;h3 &gt;
+		&lt;label for="searchInput"&gt;Sök&lt;/label&gt;
+	&lt;/h3&gt;
+	&lt;form action="/w/index.php" id="searchform"&gt;
+		&lt;div id="simpleSearch" data-search-loc="header-navigation"&gt;
+			&lt;input type="search" name="search" placeholder="Sök på Wiktionary" title="Sök på Wiktionary [f]" accesskey="f" id="searchInput"/&gt;
+			&lt;input type="hidden" name="title" value="Special:Sök"&gt;
+			&lt;input type="submit" name="fulltext" value="Sök" title="Sök efter sidor som innehåller denna text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/&gt;
+			&lt;input type="submit" name="go" value="Gå till" title="Gå till sidan med exakt detta namn om den finns" id="searchButton" class="searchButton"/&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+&lt;/div&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+&lt;div id="mw-panel"&gt;
+	&lt;div id="p-logo" role="banner"&gt;
+		&lt;a  title="Besök huvudsidan" class="mw-wiki-logo" href="/wiki/Wiktionary:Huvudsida"&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-navigation-label"&gt;
+		&lt;span&gt;Navigering&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-mainpage-description"&gt;&lt;a href="/wiki/Wiktionary:Huvudsida" title="Besök huvudsidan [z]" accesskey="z"&gt;Huvudsida&lt;/a&gt;&lt;/li&gt;&lt;li id="n-appendix"&gt;&lt;a href="/wiki/Appendix:Index" title="Lista över appendix"&gt;Appendix&lt;/a&gt;&lt;/li&gt;&lt;li id="n-kategorier"&gt;&lt;a href="/wiki/Kategori:Index" title="Bläddra bland kategorier"&gt;Kategorier&lt;/a&gt;&lt;/li&gt;&lt;li id="n-randompage"&gt;&lt;a href="/wiki/Special:Slumpsida" title="Gå till en slumpmässigt vald sida [x]" accesskey="x"&gt;Slumpsida&lt;/a&gt;&lt;/li&gt;&lt;li id="n-sitesupport"&gt;&lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv" title="Stöd oss"&gt;Stöd Wiktionary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-deltagande" class="mw-portlet mw-portlet-deltagande vector-menu vector-menu-portal portal" aria-labelledby="p-deltagande-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-deltagande-label"&gt;
+		&lt;span&gt;Deltagande&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-portal"&gt;&lt;a href="/wiki/Wiktionary:Deltagarportalen" title="Om projektet, vad du kan göra, var man kan hitta saker"&gt;Deltagarportalen&lt;/a&gt;&lt;/li&gt;&lt;li id="n-bybrunnen"&gt;&lt;a href="/wiki/Wiktionary:Bybrunnen" title="Central diskussions- och nyhetssida [b]" accesskey="b"&gt;Bybrunnen&lt;/a&gt;&lt;/li&gt;&lt;li id="n-stilguide"&gt;&lt;a href="/wiki/Wiktionary:Stilguide" title="Information om sidornas struktur och innehåll"&gt;Stilguide&lt;/a&gt;&lt;/li&gt;&lt;li id="n-recentchanges"&gt;&lt;a href="/wiki/Special:Senaste_%C3%A4ndringar" title="Lista över senaste ändringar i wikin [r]" accesskey="r"&gt;Senaste ändringarna&lt;/a&gt;&lt;/li&gt;&lt;li id="n-projekt"&gt;&lt;a href="/wiki/Wiktionary:Projekt" title="Projekt för att förbättra kvalitet och omfång för Wiktionarys uppslag"&gt;Projekt&lt;/a&gt;&lt;/li&gt;&lt;li id="n-mallar"&gt;&lt;a href="/wiki/Wiktionary:Mallar" title="Lista över mallar och beskrivning av hur de används"&gt;Mallar&lt;/a&gt;&lt;/li&gt;&lt;li id="n-upload-commons"&gt;&lt;a href="/wiki/Hj%C3%A4lp:Ladda_upp_filer" title="Ladda upp bilder och andra mediafiler"&gt;Ladda upp fil&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-tb-label"&gt;
+		&lt;span&gt;Verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="t-whatlinkshere"&gt;&lt;a href="/wiki/Special:L%C3%A4nkar_hit/mat" title="Lista över alla wikisidor som länkar hit [j]" accesskey="j"&gt;Vad som länkar hit&lt;/a&gt;&lt;/li&gt;&lt;li id="t-recentchangeslinked"&gt;&lt;a href="/wiki/Special:Senaste_relaterade_%C3%A4ndringar/mat" rel="nofollow" title="Visa senaste ändringarna av sidor som den här sidan länkar till [k]" accesskey="k"&gt;Relaterade ändringar&lt;/a&gt;&lt;/li&gt;&lt;li id="t-specialpages"&gt;&lt;a href="/wiki/Special:Specialsidor" title="Lista över alla specialsidor [q]" accesskey="q"&gt;Specialsidor&lt;/a&gt;&lt;/li&gt;&lt;li id="t-permalink"&gt;&lt;a href="/w/index.php?title=mat&amp;amp;oldid=3440139" title="Permanent länk till den här versionen av sidan"&gt;Permanent länk&lt;/a&gt;&lt;/li&gt;&lt;li id="t-info"&gt;&lt;a href="/w/index.php?title=mat&amp;amp;action=info" title="Mer information om denna sida"&gt;Sidinformation&lt;/a&gt;&lt;/li&gt;&lt;li id="t-cite"&gt;&lt;a href="/w/index.php?title=Special:Citera&amp;amp;page=mat&amp;amp;id=3440139&amp;amp;wpFormIdentifier=titleform" title="Information om hur den här artikeln kan användas som referens"&gt;Använd den här artikeln som referens&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-coll-print_export-label"&gt;
+		&lt;span&gt;Skriv ut/exportera&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="coll-create_a_book"&gt;&lt;a href="/w/index.php?title=Special:Bok&amp;amp;bookcmd=book_creator&amp;amp;referer=mat"&gt;Skapa en bok&lt;/a&gt;&lt;/li&gt;&lt;li id="coll-download-as-rl"&gt;&lt;a href="/w/index.php?title=Special:DownloadAsPdf&amp;amp;page=mat&amp;amp;action=show-download-screen"&gt;Ladda ner som PDF&lt;/a&gt;&lt;/li&gt;&lt;li id="t-print"&gt;&lt;a href="/w/index.php?title=mat&amp;amp;printable=yes" title="Utskriftsvänlig version av den här sidan [p]" accesskey="p"&gt;Utskriftsvänlig version&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;!-- Please do not use role attribute as CSS selector, it is deprecated. --&gt;
+&lt;nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-lang-label"&gt;
+		&lt;span&gt;På andra språk&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li class="interlanguage-link interwiki-id"&gt;&lt;a href="https://id.wiktionary.org/wiki/mat" title="mat - indonesiska" lang="id" hreflang="id" class="interlanguage-link-target"&gt;Bahasa Indonesia&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ms"&gt;&lt;a href="https://ms.wiktionary.org/wiki/mat" title="mat - malajiska" lang="ms" hreflang="ms" class="interlanguage-link-target"&gt;Bahasa Melayu&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-br"&gt;&lt;a href="https://br.wiktionary.org/wiki/mat" title="mat - bretonska" lang="br" hreflang="br" class="interlanguage-link-target"&gt;Brezhoneg&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ca"&gt;&lt;a href="https://ca.wiktionary.org/wiki/mat" title="mat - katalanska" lang="ca" hreflang="ca" class="interlanguage-link-target"&gt;Català&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-cs"&gt;&lt;a href="https://cs.wiktionary.org/wiki/mat" title="mat - tjeckiska" lang="cs" hreflang="cs" class="interlanguage-link-target"&gt;Čeština&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-cy"&gt;&lt;a href="https://cy.wiktionary.org/wiki/mat" title="mat - walesiska" lang="cy" hreflang="cy" class="interlanguage-link-target"&gt;Cymraeg&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-da"&gt;&lt;a href="https://da.wiktionary.org/wiki/mat" title="mat - danska" lang="da" hreflang="da" class="interlanguage-link-target"&gt;Dansk&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-de"&gt;&lt;a href="https://de.wiktionary.org/wiki/mat" title="mat - tyska" lang="de" hreflang="de" class="interlanguage-link-target"&gt;Deutsch&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-et"&gt;&lt;a href="https://et.wiktionary.org/wiki/mat" title="mat - estniska" lang="et" hreflang="et" class="interlanguage-link-target"&gt;Eesti&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-en"&gt;&lt;a href="https://en.wiktionary.org/wiki/mat" title="mat - engelska" lang="en" hreflang="en" class="interlanguage-link-target"&gt;English&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-es"&gt;&lt;a href="https://es.wiktionary.org/wiki/mat" title="mat - spanska" lang="es" hreflang="es" class="interlanguage-link-target"&gt;Español&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eo"&gt;&lt;a href="https://eo.wiktionary.org/wiki/mat" title="mat - esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"&gt;Esperanto&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eu"&gt;&lt;a href="https://eu.wiktionary.org/wiki/mat" title="mat - baskiska" lang="eu" hreflang="eu" class="interlanguage-link-target"&gt;Euskara&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fr"&gt;&lt;a href="https://fr.wiktionary.org/wiki/mat" title="mat - franska" lang="fr" hreflang="fr" class="interlanguage-link-target"&gt;Français&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fo"&gt;&lt;a href="https://fo.wiktionary.org/wiki/mat" title="mat - färöiska" lang="fo" hreflang="fo" class="interlanguage-link-target"&gt;Føroyskt&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sm"&gt;&lt;a href="https://sm.wiktionary.org/wiki/mat" title="mat - samoanska" lang="sm" hreflang="sm" class="interlanguage-link-target"&gt;Gagana Samoa&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-gl"&gt;&lt;a href="https://gl.wiktionary.org/wiki/mat" title="mat - galiciska" lang="gl" hreflang="gl" class="interlanguage-link-target"&gt;Galego&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-hr"&gt;&lt;a href="https://hr.wiktionary.org/wiki/mat" title="mat - kroatiska" lang="hr" hreflang="hr" class="interlanguage-link-target"&gt;Hrvatski&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-io"&gt;&lt;a href="https://io.wiktionary.org/wiki/mat" title="mat - ido" lang="io" hreflang="io" class="interlanguage-link-target"&gt;Ido&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-it"&gt;&lt;a href="https://it.wiktionary.org/wiki/mat" title="mat - italienska" lang="it" hreflang="it" class="interlanguage-link-target"&gt;Italiano&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-jv"&gt;&lt;a href="https://jv.wiktionary.org/wiki/mat" title="mat - javanesiska" lang="jv" hreflang="jv" class="interlanguage-link-target"&gt;Jawa&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sw"&gt;&lt;a href="https://sw.wiktionary.org/wiki/mat" title="mat - swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"&gt;Kiswahili&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ku"&gt;&lt;a href="https://ku.wiktionary.org/wiki/mat" title="mat - kurdiska" lang="ku" hreflang="ku" class="interlanguage-link-target"&gt;Kurdî&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lv"&gt;&lt;a href="https://lv.wiktionary.org/wiki/mat" title="mat - lettiska" lang="lv" hreflang="lv" class="interlanguage-link-target"&gt;Latviešu&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lb"&gt;&lt;a href="https://lb.wiktionary.org/wiki/mat" title="mat - luxemburgiska" lang="lb" hreflang="lb" class="interlanguage-link-target"&gt;Lëtzebuergesch&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lt"&gt;&lt;a href="https://lt.wiktionary.org/wiki/mat" title="mat - litauiska" lang="lt" hreflang="lt" class="interlanguage-link-target"&gt;Lietuvių&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-li"&gt;&lt;a href="https://li.wiktionary.org/wiki/mat" title="mat - limburgiska" lang="li" hreflang="li" class="interlanguage-link-target"&gt;Limburgs&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-mg"&gt;&lt;a href="https://mg.wiktionary.org/wiki/mat" title="mat - malagassiska" lang="mg" hreflang="mg" class="interlanguage-link-target"&gt;Malagasy&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-my"&gt;&lt;a href="https://my.wiktionary.org/wiki/mat" title="mat - burmesiska" lang="my" hreflang="my" class="interlanguage-link-target"&gt;မြန်မာဘာသာ&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fj"&gt;&lt;a href="https://fj.wiktionary.org/wiki/mat" title="mat - fijianska" lang="fj" hreflang="fj" class="interlanguage-link-target"&gt;Na Vosa Vakaviti&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nah"&gt;&lt;a href="https://nah.wiktionary.org/wiki/mat" title="mat - Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target"&gt;Nāhuatl&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nl"&gt;&lt;a href="https://nl.wiktionary.org/wiki/mat" title="mat - nederländska" lang="nl" hreflang="nl" class="interlanguage-link-target"&gt;Nederlands&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-no"&gt;&lt;a href="https://no.wiktionary.org/wiki/mat" title="mat - norska" lang="no" hreflang="no" class="interlanguage-link-target"&gt;Norsk&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-uz"&gt;&lt;a href="https://uz.wiktionary.org/wiki/mat" title="mat - uzbekiska" lang="uz" hreflang="uz" class="interlanguage-link-target"&gt;Oʻzbekcha/ўзбекча&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nds"&gt;&lt;a href="https://nds.wiktionary.org/wiki/mat" title="mat - lågtyska" lang="nds" hreflang="nds" class="interlanguage-link-target"&gt;Plattdüütsch&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pl"&gt;&lt;a href="https://pl.wiktionary.org/wiki/mat" title="mat - polska" lang="pl" hreflang="pl" class="interlanguage-link-target"&gt;Polski&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pt"&gt;&lt;a href="https://pt.wiktionary.org/wiki/mat" title="mat - portugisiska" lang="pt" hreflang="pt" class="interlanguage-link-target"&gt;Português&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ro"&gt;&lt;a href="https://ro.wiktionary.org/wiki/mat" title="mat - rumänska" lang="ro" hreflang="ro" class="interlanguage-link-target"&gt;Română&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sq"&gt;&lt;a href="https://sq.wiktionary.org/wiki/mat" title="mat - albanska" lang="sq" hreflang="sq" class="interlanguage-link-target"&gt;Shqip&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-simple"&gt;&lt;a href="https://simple.wiktionary.org/wiki/mat" title="mat - Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"&gt;Simple English&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sh"&gt;&lt;a href="https://sh.wiktionary.org/wiki/mat" title="mat - serbokroatiska" lang="sh" hreflang="sh" class="interlanguage-link-target"&gt;Srpskohrvatski / српскохрватски&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fi"&gt;&lt;a href="https://fi.wiktionary.org/wiki/mat" title="mat - finska" lang="fi" hreflang="fi" class="interlanguage-link-target"&gt;Suomi&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-vi"&gt;&lt;a href="https://vi.wiktionary.org/wiki/mat" title="mat - vietnamesiska" lang="vi" hreflang="vi" class="interlanguage-link-target"&gt;Tiếng Việt&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-tr"&gt;&lt;a href="https://tr.wiktionary.org/wiki/mat" title="mat - turkiska" lang="tr" hreflang="tr" class="interlanguage-link-target"&gt;Türkçe&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-vo"&gt;&lt;a href="https://vo.wiktionary.org/wiki/mat" title="mat - volapük" lang="vo" hreflang="vo" class="interlanguage-link-target"&gt;Volapük&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-wo"&gt;&lt;a href="https://wo.wiktionary.org/wiki/mat" title="mat - wolof" lang="wo" hreflang="wo" class="interlanguage-link-target"&gt;Wolof&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-el"&gt;&lt;a href="https://el.wiktionary.org/wiki/mat" title="mat - grekiska" lang="el" hreflang="el" class="interlanguage-link-target"&gt;Ελληνικά&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ru"&gt;&lt;a href="https://ru.wiktionary.org/wiki/mat" title="mat - ryska" lang="ru" hreflang="ru" class="interlanguage-link-target"&gt;Русский&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-hy"&gt;&lt;a href="https://hy.wiktionary.org/wiki/mat" title="mat - armeniska" lang="hy" hreflang="hy" class="interlanguage-link-target"&gt;Հայերեն&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ur"&gt;&lt;a href="https://ur.wiktionary.org/wiki/mat" title="mat - urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"&gt;اردو&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ar"&gt;&lt;a href="https://ar.wiktionary.org/wiki/mat" title="mat - arabiska" lang="ar" hreflang="ar" class="interlanguage-link-target"&gt;العربية&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fa"&gt;&lt;a href="https://fa.wiktionary.org/wiki/mat" title="mat - persiska" lang="fa" hreflang="fa" class="interlanguage-link-target"&gt;فارسی&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ta"&gt;&lt;a href="https://ta.wiktionary.org/wiki/mat" title="mat - tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"&gt;தமிழ்&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-te"&gt;&lt;a href="https://te.wiktionary.org/wiki/mat" title="mat - telugu" lang="te" hreflang="te" class="interlanguage-link-target"&gt;తెలుగు&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-kn"&gt;&lt;a href="https://kn.wiktionary.org/wiki/mat" title="mat - kannada" lang="kn" hreflang="kn" class="interlanguage-link-target"&gt;ಕನ್ನಡ&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ml"&gt;&lt;a href="https://ml.wiktionary.org/wiki/mat" title="mat - malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"&gt;മലയാളം&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-th"&gt;&lt;a href="https://th.wiktionary.org/wiki/mat" title="mat - thailändska" lang="th" hreflang="th" class="interlanguage-link-target"&gt;ไทย&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lo"&gt;&lt;a href="https://lo.wiktionary.org/wiki/mat" title="mat - laotiska" lang="lo" hreflang="lo" class="interlanguage-link-target"&gt;ລາວ&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ka"&gt;&lt;a href="https://ka.wiktionary.org/wiki/mat" title="mat - georgiska" lang="ka" hreflang="ka" class="interlanguage-link-target"&gt;ქართული&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-chr"&gt;&lt;a href="https://chr.wiktionary.org/wiki/mat" title="mat - cherokesiska" lang="chr" hreflang="chr" class="interlanguage-link-target"&gt;ᏣᎳᎩ&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-zh"&gt;&lt;a href="https://zh.wiktionary.org/wiki/mat" title="mat - kinesiska" lang="zh" hreflang="zh" class="interlanguage-link-target"&gt;中文&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ja"&gt;&lt;a href="https://ja.wiktionary.org/wiki/mat" title="mat - japanska" lang="ja" hreflang="ja" class="interlanguage-link-target"&gt;日本語&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ko"&gt;&lt;a href="https://ko.wiktionary.org/wiki/mat" title="mat - koreanska" lang="ko" hreflang="ko" class="interlanguage-link-target"&gt;한국어&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;footer id="footer" class="mw-footer" role="contentinfo" &gt;
+	&lt;ul id="footer-info" &gt;
+	&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 21 oktober 2020 kl. 20.41.&lt;/li&gt;
+	&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-places" &gt;
+	&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-mobileview"&gt;&lt;a href="//sv.m.wiktionary.org/w/index.php?title=mat&amp;amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle"&gt;Mobil vy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-icons" class="noprint"&gt;
+	&lt;li id="footer-copyrightico"&gt;&lt;a href="https://wikimediafoundation.org/"&gt;&lt;img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-poweredbyico"&gt;&lt;a href="https://www.mediawiki.org/"&gt;&lt;img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;div style="clear: both;"&gt;&lt;/div&gt;
+&lt;/footer&gt;
+
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.593","ppvisitednodes":{"value":4208,"limit":1000000},"postexpandincludesize":{"value":24605,"limit":2097152},"templateargumentsize":{"value":7449,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  515.269      1 -total"," 17.93%   92.386     25 Mall:ö+"," 16.56%   85.322      1 Mall:sv-subst-n-oräkn"," 11.01%   56.724      1 Mall:sv-subst-n-ar","  9.86%   50.789     34 Mall:länk","  7.88%   40.629      3 Mall:tagg","  7.11%   36.628      1 Mall:wikipedia","  7.04%   36.272     14 Mall:g-cell","  6.98%   35.969      1 Mall:no-subst-oräkn","  6.57%   33.839      1 Mall:sv-subst-n-er"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":5053397,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20201021194130","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1409"});});&lt;/script&gt;
+&lt;/body&gt;&lt;/html&gt;</value>
+  </data>
 </root>

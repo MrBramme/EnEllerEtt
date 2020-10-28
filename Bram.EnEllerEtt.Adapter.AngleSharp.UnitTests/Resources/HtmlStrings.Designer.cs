@@ -87,5 +87,19 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests.Resources {
                 return ResourceManager.GetString("Dryck", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+        ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
+        ///&lt;head&gt;
+        ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
+        ///&lt;title&gt;mat - Wiktionary&lt;/title&gt;
+        ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:!1,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;25dc6445-7628-4b3e-9296-06fb680b94f6&quot;,&quot;wgCSPNonce&quot; [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Mat {
+            get {
+                return ResourceManager.GetString("Mat", resourceCulture);
+            }
+        }
     }
 }
