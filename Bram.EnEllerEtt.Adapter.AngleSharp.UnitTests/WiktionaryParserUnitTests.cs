@@ -25,14 +25,14 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             var expected = new WordResult
             {
                 WordType = WordType.Ett,
-                PluralGenitivBestämd = "barnens",
-                PluralGenitivObestämd = "barns",
-                PluralNominativBestämd = "barnen",
-                PluralNominativObestämd = "barn",
-                SingleGenitivBestämd = "barnets",
-                SingleGenitivObestämd = "barns",
-                SingleNominativBestämd = "barnet",
-                SingleNominativObestämd = "barn",
+                PluralGenitivBestamd = "barnens",
+                PluralGenitivObestamd = "barns",
+                PluralNominativBestamd = "barnen",
+                PluralNominativObestamd = "barn",
+                SingleGenitivBestamd = "barnets",
+                SingleGenitivObestamd = "barns",
+                SingleNominativBestamd = "barnet",
+                SingleNominativObestamd = "barn",
             };
 
             // When
@@ -49,14 +49,14 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             var expected = new WordResult
             {
                 WordType = WordType.En,
-                PluralGenitivBestämd = "dryckernas",
-                PluralGenitivObestämd = "dryckers",
-                PluralNominativBestämd = "dryckerna",
-                PluralNominativObestämd = "drycker",
-                SingleGenitivBestämd = "dryckens",
-                SingleGenitivObestämd = "drycks",
-                SingleNominativBestämd = "drycken",
-                SingleNominativObestämd = "dryck",
+                PluralGenitivBestamd = "dryckernas",
+                PluralGenitivObestamd = "dryckers",
+                PluralNominativBestamd = "dryckerna",
+                PluralNominativObestamd = "drycker",
+                SingleGenitivBestamd = "dryckens",
+                SingleGenitivObestamd = "drycks",
+                SingleNominativBestamd = "drycken",
+                SingleNominativObestamd = "dryck",
             };
 
             // When
@@ -73,14 +73,14 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             var expected = new WordResult
             {
                 WordType = WordType.En,
-                PluralGenitivBestämd = "matarnas",
-                PluralGenitivObestämd = "matars",
-                PluralNominativBestämd = "matarna",
-                PluralNominativObestämd = "matar",
-                SingleGenitivBestämd = "matens",
-                SingleGenitivObestämd = "mats",
-                SingleNominativBestämd = "maten",
-                SingleNominativObestämd = "mat",
+                PluralGenitivBestamd = "matarnas",
+                PluralGenitivObestamd = "matars",
+                PluralNominativBestamd = "matarna",
+                PluralNominativObestamd = "matar",
+                SingleGenitivBestamd = "matens",
+                SingleGenitivObestamd = "mats",
+                SingleNominativBestamd = "maten",
+                SingleNominativObestamd = "mat",
             };
 
             // When
