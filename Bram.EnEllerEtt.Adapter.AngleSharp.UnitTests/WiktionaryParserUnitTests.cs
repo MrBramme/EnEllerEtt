@@ -73,10 +73,10 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             var expected = new WordResult
             {
                 WordType = WordType.En,
-                PluralGenitivBestämd = "maternas",
-                PluralGenitivObestämd = "maters",
-                PluralNominativBestämd = "materna",
-                PluralNominativObestämd = "mater",
+                PluralGenitivBestämd = "matarnas",
+                PluralGenitivObestämd = "matars",
+                PluralNominativBestämd = "matarna",
+                PluralNominativObestämd = "matar",
                 SingleGenitivBestämd = "matens",
                 SingleGenitivObestämd = "mats",
                 SingleNominativBestämd = "maten",

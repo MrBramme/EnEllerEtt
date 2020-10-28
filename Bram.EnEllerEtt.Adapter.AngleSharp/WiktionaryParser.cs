@@ -16,7 +16,8 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
         {
             var document = await GetDocumentFromHtmlString(html, ct);
 
-            var grammarTable = document.All.First(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
+            var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
+            var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
             var typeOfWord = ParseTypeOfWord(grammarTable);
             var words = ParseWordConjugations(grammarTable);
