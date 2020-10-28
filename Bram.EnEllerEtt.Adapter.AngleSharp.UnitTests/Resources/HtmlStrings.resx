@@ -718,4 +718,286 @@ Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarv
 &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1320"});});&lt;/script&gt;
 &lt;/body&gt;&lt;/html&gt;</value>
   </data>
+  <data name="Dryck" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;dryck - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"62fb74ec-8909-4594-9aba-19b30e2f0190","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"dryck","wgTitle":"dryck","wgCurRevisionId":3401421,"wgRevisionId":3401421,"wgArticleId":3414,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"dryck","wgRelevantArticleId":3414,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{
+"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"donate":!0,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.minerva.options","skins.minerva.scripts","ext.centralauth.centralautologin","mobile.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;amp;only=styles&amp;amp;skin=minerva"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=minerva&amp;amp;target=mobile"&gt;&lt;/script&gt;
+&lt;meta name="generator" content="MediaWiki 1.36.0-wmf.14"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;meta name="theme-color" content="#eaecf0"/&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="manifest" href="/w/api.php?action=webapp-manifest"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=dryck&amp;amp;action=edit"/&gt;
+&lt;link rel="edit" title="Redigera" href="/w/index.php?title=dryck&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/dryck"/&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-dryck rootpage-dryck stable issues-group-B skin-minerva action-view skin--responsive"&gt;&lt;div id="mw-mf-viewport"&gt;
+	&lt;div id="mw-mf-page-center"&gt;
+		&lt;a class="mw-mf-page-center__mask" href="#"&gt;&lt;/a&gt;
+		&lt;header class="header-container header-chrome"&gt;
+			&lt;form class="header" action="/w/index.php" method="get"&gt;
+				&lt;nav class="navigation-drawer toggle-list view-border-box"&gt;
+					&lt;input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button"&gt;
+					&lt;label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Öppna huvudmenyn" data-event-name="ui.mainmenu"&gt;Öppna huvudmenyn&lt;/label&gt;
+					&lt;div id="mw-mf-page-left" class="menu toggle-list__list view-border-box"&gt;
+	&lt;ul id="p-navigation"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Huvudsida" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"&gt;&lt;span&gt;Huvudsida&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"&gt;&lt;span&gt;Slumpartikel&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="p-personal"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=dryck" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"&gt;&lt;span&gt;Logga in&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="pt-preferences"&gt;
+			&lt;li class="jsonly"&gt;
+			    &lt;a href="/w/index.php?title=Special:MobileOptions&amp;amp;returnto=dryck" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"&gt;&lt;span&gt;Inställningar&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="p-donation"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv&amp;amp;utm_key=minerva" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-heart " data-event-name="menu.donate"&gt;&lt;span&gt;Stöd Wiktionary&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul class="hlist"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Om" class="" data-event-name=""&gt;&lt;span&gt;Om Wiktionary&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" class="" data-event-name=""&gt;&lt;span&gt;Förbehåll&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+					&lt;label class="main-menu-mask" for="main-menu-input"&gt;&lt;/label&gt;
+				&lt;/nav&gt;
+				&lt;div class="branding-box"&gt;
+					&lt;a href="/wiki/Wiktionary:Huvudsida"&gt;
+						&lt;span&gt;&lt;img src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" width="107" height="19" alt="Wiktionary"/&gt;&lt;/span&gt;
+						
+					&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="search-box"&gt;
+					&lt;input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Sök på Wiktionary" aria-label="Sök på Wiktionary"
+						value=""&gt;
+				&lt;/div&gt;
+				&lt;nav class="minerva-user-navigation" aria-label="Användarnavigering"&gt;
+					&lt;div&gt;&lt;button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit"&gt;Sök&lt;/button&gt;&lt;/div&gt;
+					
+				&lt;/nav&gt;
+			&lt;/form&gt;
+		&lt;/header&gt;
+		&lt;main id="content" class="mw-body"&gt;
+			&lt;div class="banner-container"&gt;
+			&lt;div id="siteNotice"&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="pre-content heading-holder"&gt;
+				&lt;div class="page-heading"&gt;
+					&lt;h1 id="section_0"&gt;dryck&lt;/h1&gt;
+					&lt;div class="tagline"&gt;&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;nav class="page-actions-menu"&gt;
+	&lt;ul id="page-actions" class="page-actions-menu__list"&gt;
+		&lt;li id="language-selector" class="page-actions-menu__list-item"&gt;
+				&lt;a id="" href="/wiki/Special:Mobil_spr%C3%A5k/dryck" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Läs på ett annat språk"&gt;Läs på ett annat språk&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li id="page-actions-watch" class="page-actions-menu__list-item"&gt;
+				&lt;a id="ca-watch" href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=dryck" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Bevaka"&gt;Bevaka&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li id="page-actions-edit" class="page-actions-menu__list-item"&gt;
+				&lt;a id="ca-edit" href="/w/index.php?title=dryck&amp;amp;action=edit&amp;amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Redigera huvudavsnittet på denna sida"&gt;Redigera&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;!-- version 1.0.2 (change every time you update a partial) --&gt;
+
+				
+				
+				&lt;div class="minerva__subtitle"&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div id="bodyContent" class="content"&gt;&lt;div id="mw-content-text" lang="sv" dir="ltr" class="mw-content-ltr"&gt;&lt;script&gt;function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}&lt;/script&gt;&lt;div class="mw-parser-output"&gt;&lt;section class="mf-section-0" id="mf-section-0"&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=dryck&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-1 collapsible-block" id="mf-section-1"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=dryck&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Substantiv" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+
+ 
+
+&lt;table class="grammar template-sv-subst-n-oräkn" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;dryck&lt;/a&gt; 1.&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Oräknebart
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;dryck&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/drycken" title="drycken"&gt;drycken&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/drycks" title="drycks"&gt;drycks&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/dryckens" title="dryckens"&gt;dryckens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th colspan="3" class="min"&gt;Som förled i sammansättningar används &lt;b&gt;dryckes-&lt;/b&gt;.
+&lt;/th&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="grammar template-sv-subst-n-er" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;dryck&lt;/a&gt; 2.&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;dryck&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/drycken" title="drycken"&gt;drycken&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/drycker" title="drycker"&gt;drycker&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/dryckerna" title="dryckerna"&gt;dryckerna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/drycks" title="drycks"&gt;drycks&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/dryckens" title="dryckens"&gt;dryckens&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/dryckers" title="dryckers"&gt;dryckers&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/dryckernas" title="dryckernas"&gt;dryckernas&lt;/a&gt;&lt;/span&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th colspan="5" class="min"&gt;Som förled i sammansättningar används &lt;b&gt;dryckes-&lt;/b&gt;.
+&lt;/th&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;dryck&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/v%C3%A4tska" title="vätska"&gt;vätska&lt;/a&gt; som är drickbar; allmänt om det som går att &lt;a href="/wiki/dricka" title="dricka"&gt;dricka&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Mat och &lt;b&gt;dryck&lt;/b&gt; är förbjudna här.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;en sort eller en mängd dryck (1.)
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Min favorit&lt;b&gt;dryck&lt;/b&gt; är äppelsaft, vilken är din?&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;&lt;dl&gt;&lt;dd&gt;&lt;noscript&gt;&lt;img alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" decoding="async" title="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." width="222" height="18" data-file-width="222" data-file-height="18"&gt;&lt;/noscript&gt;&lt;span class="lazy-image-placeholder" style="width: 222px;height: 18px;" data-src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" data-alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." data-width="222" data-height="18"&gt; &lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Av fornsvenska &lt;i&gt;&lt;a href="/wiki/drykker" title="drykker"&gt;drykker&lt;/a&gt;&lt;/i&gt;, av fornnordiska &lt;i&gt;&lt;a href="/wiki/drykkr" class="mw-redirect" title="drykkr"&gt;drykkr&lt;/a&gt;&lt;/i&gt;, varav även isländska &lt;i&gt;&lt;a href="/wiki/drykkur" title="drykkur"&gt;drykkur&lt;/a&gt;&lt;/i&gt;, av urgermanska *&lt;i&gt;drunkaz-&lt;/i&gt;, varav även fornengelska &lt;i&gt;&lt;a href="/w/index.php?title=drync&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="drync (inte skapad ännu)"&gt;drync&lt;/a&gt;&lt;/i&gt;, varav engelska &lt;i&gt;&lt;a href="/wiki/drink" title="drink"&gt;drink&lt;/a&gt;&lt;/i&gt;.&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/dricka" title="dricka"&gt;dricka&lt;/a&gt;, &lt;a href="/w/index.php?title=dryckjom&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="dryckjom (inte skapad ännu)"&gt;dryckjom&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/wiki/alkoholdryck" title="alkoholdryck"&gt;alkoholdryck&lt;/a&gt;, &lt;a href="/wiki/burkdryck" title="burkdryck"&gt;burkdryck&lt;/a&gt;, &lt;a href="/wiki/l%C3%A4skedryck" title="läskedryck"&gt;läskedryck&lt;/a&gt;, &lt;a href="/wiki/rusdryck" title="rusdryck"&gt;rusdryck&lt;/a&gt;, &lt;a href="/wiki/spritdryck" title="spritdryck"&gt;spritdryck&lt;/a&gt;, &lt;a href="/wiki/dryckesk%C3%A4rl" title="dryckeskärl"&gt;dryckeskärl&lt;/a&gt;, &lt;a href="/wiki/dryckesvara" title="dryckesvara"&gt;dryckesvara&lt;/a&gt;, &lt;a href="/w/index.php?title=trolldryck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="trolldryck (inte skapad ännu)"&gt;trolldryck&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-fraser"&gt;&lt;em title="Begrepp som består av flera ord"&gt;Fraser:&lt;/em&gt; &lt;a href="/wiki/till_drycks" title="till drycks"&gt;till drycks&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;h4 class="in-block"&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=dryck&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;flytande föda&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;baskiska: &lt;span class="ö" data-lang="eu" data-title="edari"&gt;&lt;a href="/wiki/edari#Baskiska" title="edari"&gt;edari&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://eu.wiktionary.org/wiki/edari" class="extiw" title="eu:edari"&gt;(eu)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="beverage"&gt;&lt;a href="/wiki/beverage#Engelska" title="beverage"&gt;beverage&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/beverage" class="extiw" title="en:beverage"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="juoma"&gt;&lt;a href="/wiki/juoma#Finska" title="juoma"&gt;juoma&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fi.wiktionary.org/wiki/juoma" class="extiw" title="fi:juoma"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="breuvage" data-gender="m"&gt;&lt;a href="/wiki/breuvage#Franska" title="breuvage"&gt;breuvage&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/breuvage" class="extiw" title="fr:breuvage"&gt;(fr)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="fr" data-title="boisson" data-gender="m"&gt;&lt;a href="/wiki/boisson#Franska" title="boisson"&gt;boisson&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/boisson" class="extiw" title="fr:boisson"&gt;(fr)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;indonesiska: &lt;span class="ö" data-lang="id" data-title="minuman"&gt;&lt;a href="/wiki/minuman#Indonesiska" title="minuman"&gt;minuman&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://id.wiktionary.org/wiki/minuman" class="extiw" title="id:minuman"&gt;(id)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="drykkur" data-gender="m"&gt;&lt;a href="/wiki/drykkur#Isl%C3%A4ndska" title="drykkur"&gt;drykkur&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://is.wiktionary.org/wiki/drykkur" class="extiw" title="is:drykkur"&gt;(is)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="飲み物" data-tr="のみもの, nomimono"&gt;&lt;a href="/wiki/%E9%A3%B2%E3%81%BF%E7%89%A9#Japanska" title="飲み物"&gt;飲み物&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ja.wiktionary.org/wiki/%E9%A3%B2%E3%81%BF%E7%89%A9" class="extiw" title="ja:飲み物"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; (のみもの, nomimono)&lt;/li&gt;
+&lt;li&gt;malajiska: &lt;span class="ö" data-lang="ms" data-title="minuman"&gt;&lt;a href="/wiki/minuman#Malajiska" title="minuman"&gt;minuman&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="drank"&gt;&lt;a href="/wiki/drank#Nederl%C3%A4ndska" title="drank"&gt;drank&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://nl.wiktionary.org/wiki/drank" class="extiw" title="nl:drank"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nordsamiska: &lt;span class="ö" data-lang="se" data-title="jugus"&gt;&lt;a href="/wiki/jugus#Nordsamiska" title="jugus"&gt;jugus&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="напи́ток" data-gender="m"&gt;&lt;a href="/wiki/%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA#Ryska" title="напиток"&gt;напи́ток&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA" class="extiw" title="ru:напиток"&gt;(ru)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="ru" data-title="питьё" data-gender="n"&gt;&lt;a href="/wiki/%D0%BF%D0%B8%D1%82%D1%8C%D1%91#Ryska" title="питьё"&gt;питьё&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D1%82%D1%8C%D1%91" class="extiw" title="ru:питьё"&gt;(ru)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="bebida" data-gender="f"&gt;&lt;a href="/wiki/bebida#Spanska" title="bebida"&gt;bebida&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/bebida" class="extiw" title="es:bebida"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Getränk" data-gender="n"&gt;&lt;a href="/wiki/Getr%C3%A4nk#Tyska" title="Getränk"&gt;Getränk&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://de.wiktionary.org/wiki/Getr%C3%A4nk" class="extiw" title="de:Getränk"&gt;(de)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;sort eller mängd av flytande föda&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="beverage"&gt;&lt;a href="/wiki/beverage#Engelska" title="beverage"&gt;beverage&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/beverage" class="extiw" title="en:beverage"&gt;(en)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="en" data-title="drink"&gt;&lt;a href="/wiki/drink#Engelska" title="drink"&gt;drink&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/drink" class="extiw" title="en:drink"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="juoma"&gt;&lt;a href="/wiki/juoma#Finska" title="juoma"&gt;juoma&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fi.wiktionary.org/wiki/juoma" class="extiw" title="fi:juoma"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="breuvage" data-gender="m"&gt;&lt;a href="/wiki/breuvage#Franska" title="breuvage"&gt;breuvage&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/breuvage" class="extiw" title="fr:breuvage"&gt;(fr)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="fr" data-title="boisson" data-gender="m"&gt;&lt;a href="/wiki/boisson#Franska" title="boisson"&gt;boisson&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/boisson" class="extiw" title="fr:boisson"&gt;(fr)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="飲料" data-tr="''inryou''"&gt;&lt;a href="/wiki/%E9%A3%B2%E6%96%99#Japanska" title="飲料"&gt;飲料&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ja.wiktionary.org/wiki/%E9%A3%B2%E6%96%99" class="extiw" title="ja:飲料"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; (&lt;i&gt;inryou&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="bebida" data-gender="f"&gt;&lt;a href="/wiki/bebida#Spanska" title="bebida"&gt;bebida&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/bebida" class="extiw" title="es:bebida"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Getränk" data-gender="n"&gt;&lt;a href="/wiki/Getr%C3%A4nk#Tyska" title="Getränk"&gt;Getränk&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://de.wiktionary.org/wiki/Getr%C3%A4nk" class="extiw" title="de:Getränk"&gt;(de)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;&lt;i&gt;översättningar som behöver granskas mot betydelse&lt;/i&gt;&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;armeniska: &lt;span class="ö" data-lang="hy" data-title="խմիչք"&gt;&lt;a href="/wiki/%D5%AD%D5%B4%D5%AB%D5%B9%D6%84#Armeniska" title="խմիչք"&gt;խմիչք&lt;/a&gt;&lt;/span&gt; (chmitjk)&lt;/li&gt;
+&lt;li&gt;estniska: &lt;span class="ö" data-lang="et" data-title="jook"&gt;&lt;a href="/wiki/jook#Estniska" title="jook"&gt;jook&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://et.wiktionary.org/wiki/jook" class="extiw" title="et:jook"&gt;(et)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="napój" data-gender="m"&gt;&lt;a href="/wiki/nap%C3%B3j#Polska" title="napój"&gt;napój&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pl.wiktionary.org/wiki/nap%C3%B3j" class="extiw" title="pl:napój"&gt;(pl)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tjeckiska: &lt;span class="ö" data-lang="cs" data-title="nápoj" data-gender="m"&gt;&lt;a href="/w/index.php?title=n%C3%A1poj&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="nápoj (inte skapad ännu)"&gt;nápoj&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://cs.wiktionary.org/wiki/n%C3%A1poj" class="extiw" title="cs:nápoj"&gt;(cs)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+
+
+&lt;/section&gt;&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;&lt;/div&gt;&lt;div class="printfooter"&gt;
+Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=dryck&amp;amp;oldid=3401421"&gt;https://sv.wiktionary.org/w/index.php?title=dryck&amp;amp;oldid=3401421&lt;/a&gt;"&lt;/div&gt;
+&lt;/div&gt;
+			&lt;div class="post-content" id="page-secondary-actions"&gt;
+			
+			&lt;/div&gt;
+		&lt;/main&gt;
+		&lt;footer class="mw-footer minerva-footer" role="contentinfo"&gt;
+		&lt;div class="last-modified-bar"&gt;
+	&lt;div class="post-content last-modified-bar__content"&gt;
+		&lt;span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "&gt;&lt;/span&gt;
+		&lt;a class="last-modified-bar__text modified-enhancement" href="/wiki/Special:Historik/dryck"
+				data-user-name="Nebelung"
+				data-user-gender="male"
+				data-timestamp="1588471095"&gt;
+				&lt;span&gt;Senast redigerad den 3 maj 2020, kl 02.58&lt;/span&gt;
+		&lt;/a&gt;
+		&lt;span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"&gt;&lt;/span&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+		&lt;div class="post-content footer-content"&gt;
+			
+			&lt;h2&gt;&lt;img src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" width="107" height="19" alt="Wiktionary"/&gt;&lt;/h2&gt;
+			&lt;div class="license"&gt;Innehållet är tillgängligt under &lt;a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0&lt;/a&gt; om ingenting annat anges.&lt;/div&gt;
+			&lt;ul class="footer-info hlist hlist-separated"&gt;
+				&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 3 maj 2020 kl. 02.58.&lt;/li&gt;&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;ul class="footer-places hlist hlist-separated"&gt;
+				&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-terms-use"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;Användarvillkor&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-desktop-toggle"&gt;&lt;a id="mw-mf-display-toggle" href="//sv.wiktionary.org/w/index.php?title=dryck&amp;amp;mobileaction=toggle_view_desktop"&gt;Stationär dator&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mw-notification-area" data-mw="interface"&gt;&lt;/div&gt;
+&lt;!-- v:8.3.0 --&gt;
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.327","ppvisitednodes":{"value":2964,"limit":1000000},"postexpandincludesize":{"value":14208,"limit":2097152},"templateargumentsize":{"value":3384,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  289.938      1 -total"," 36.56%  106.014     24 Mall:ö+"," 35.90%  104.094      1 Mall:sv-subst-n-oräkn"," 14.70%   42.608     27 Mall:länk","  8.98%   26.039      4 Mall:länka","  8.37%   24.263     24 Mall:sidnamn","  7.99%   23.165     12 Mall:länka-b","  6.11%   17.707      1 Mall:sv-subst-n-er","  5.14%   14.889      1 Mall:tagg","  4.43%   12.842      3 Mall:ö"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":4088999,"limit":52428800}},"cachereport":{"origin":"mw2301","timestamp":"20201021163122","ttl":2592000,"transientcontent":false}}});});&lt;/script&gt;
+&lt;script&gt;(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i&lt;ns.length;i++){p=ns[i].nextSibling;if(p&amp;&amp;p.className&amp;&amp;p.className.indexOf('lazy-image-placeholder')&gt;-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1373"});});&lt;/script&gt;
+&lt;/body&gt;&lt;/html&gt;</value>
+  </data>
 </root>

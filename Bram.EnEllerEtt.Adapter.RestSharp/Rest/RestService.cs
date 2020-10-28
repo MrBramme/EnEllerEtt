@@ -19,7 +19,7 @@ namespace Bram.EnEllerEtt.Adapter.RestSharp.Rest
 
         public async Task<string> GetHtmlForWordAsync(string word, CancellationToken ct)
         {
-            var request = new RestRequest($"wiki/{word}", DataFormat.None);
+            var request = new RestRequest($"wiki/{word.ToLower()}", DataFormat.None);
             var response = await _client.ExecuteGetAsync(request, ct);
             if (response.StatusCode.Equals(HttpStatusCode.NotFound))
             {

@@ -41,5 +41,29 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             result.Should().BeEquivalentTo(expected);
         }
+
+        [Test]
+        public async Task ParseFromHtmlAsync_GivenDryckHtmlString_ReturnsCorrectResult()
+        {
+            // Given
+            var expected = new WordResult
+            {
+                WordType = WordType.En,
+                PluralGenitivBestämd = "dryckernas",
+                PluralGenitivObestämd = "dryckers",
+                PluralNominativBestämd = "dryckerna",
+                PluralNominativObestämd = "drycker",
+                SingleGenitivBestämd = "dryckens",
+                SingleGenitivObestämd = "drycks",
+                SingleNominativBestämd = "drycken",
+                SingleNominativObestämd = "dryck",
+            };
+
+            // When
+            var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Dryck, CancellationToken.None);
+
+            // Then
+            result.Should().BeEquivalentTo(expected);
+        }
     }
 }

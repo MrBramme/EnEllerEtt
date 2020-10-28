@@ -71,5 +71,24 @@ namespace Bram.EnEllerEtt.Adapter.RestSharp.UnitTests.Rest
             // Then
             act.Should().Throw<WordNotFoundException>().WithMessage($"Could not find word '{word}'");
         }
+
+        [Test]
+        public async Task GetHtmlForWordAsync_MakesWordLowerCase()
+        {
+            // Given
+            var word = "Barn";
+            var expectedWord = word.ToLower();
+            var expectedResponse = new RestResponse { Content = "expected" };
+            _restClientMock.Setup(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{expectedWord}")),
+                    It.IsAny<CancellationToken>()))
+                .ReturnsAsync(expectedResponse);
+
+            // When
+            var result = await _sut.GetHtmlForWordAsync(word, CancellationToken.None);
+
+            // Then
+            _restClientMock.Verify(x => x.ExecuteGetAsync(It.Is<RestRequest>(req => req.Resource.Equals($"wiki/{expectedWord}")), It.IsAny<CancellationToken>()), Times.Once);
+            result.Should().Be(expectedResponse.Content);
+        }
     }
 }
