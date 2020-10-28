@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -19,6 +19,30 @@
   <ItemGroup>
     <ProjectReference Include="..\Bram.EnEllerEtt.Adapter.AngleSharp\Bram.EnEllerEtt.Adapter.AngleSharp.csproj" />
     <ProjectReference Include="..\Bram.EnEllerEtt.Core.Interface\Bram.EnEllerEtt.Core.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="HtmlStrings.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>HtmlStrings.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\HtmlStrings.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>HtmlStrings.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="HtmlStrings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>HtmlStrings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\HtmlStrings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>HtmlStrings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

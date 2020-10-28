@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Barn" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;barn - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"160583df-0eae-406b-a757-c47047368577","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"barn","wgTitle":"barn","wgCurRevisionId":3426142,"wgRevisionId":3426142,"wgArticleId":855,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"barn","wgRelevantArticleId":855,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":
+"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"donate":!0,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.minerva.options","skins.minerva.scripts","ext.centralauth.centralautologin","mobile.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;amp;only=styles&amp;amp;skin=minerva"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=minerva&amp;amp;target=mobile"&gt;&lt;/script&gt;
+&lt;meta name="generator" content="MediaWiki 1.36.0-wmf.14"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;meta name="theme-color" content="#eaecf0"/&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="manifest" href="/w/api.php?action=webapp-manifest"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=barn&amp;amp;action=edit"/&gt;
+&lt;link rel="edit" title="Redigera" href="/w/index.php?title=barn&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/barn"/&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-barn rootpage-barn stable issues-group-B skin-minerva action-view skin--responsive"&gt;&lt;div id="mw-mf-viewport"&gt;
+	&lt;div id="mw-mf-page-center"&gt;
+		&lt;a class="mw-mf-page-center__mask" href="#"&gt;&lt;/a&gt;
+		&lt;header class="header-container header-chrome"&gt;
+			&lt;form class="header" action="/w/index.php" method="get"&gt;
+				&lt;nav class="navigation-drawer toggle-list view-border-box"&gt;
+					&lt;input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button"&gt;
+					&lt;label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Öppna huvudmenyn" data-event-name="ui.mainmenu"&gt;Öppna huvudmenyn&lt;/label&gt;
+					&lt;div id="mw-mf-page-left" class="menu toggle-list__list view-border-box"&gt;
+	&lt;ul id="p-navigation"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Huvudsida" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"&gt;&lt;span&gt;Huvudsida&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"&gt;&lt;span&gt;Slumpartikel&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="p-personal"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=barn" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"&gt;&lt;span&gt;Logga in&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="pt-preferences"&gt;
+			&lt;li class="jsonly"&gt;
+			    &lt;a href="/w/index.php?title=Special:MobileOptions&amp;amp;returnto=barn" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"&gt;&lt;span&gt;Inställningar&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul id="p-donation"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv&amp;amp;utm_key=minerva" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-heart " data-event-name="menu.donate"&gt;&lt;span&gt;Stöd Wiktionary&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul class="hlist"&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Om" class="" data-event-name=""&gt;&lt;span&gt;Om Wiktionary&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li class=""&gt;
+			    &lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" class="" data-event-name=""&gt;&lt;span&gt;Förbehåll&lt;/span&gt;&lt;/a&gt;
+			&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+					&lt;label class="main-menu-mask" for="main-menu-input"&gt;&lt;/label&gt;
+				&lt;/nav&gt;
+				&lt;div class="branding-box"&gt;
+					&lt;a href="/wiki/Wiktionary:Huvudsida"&gt;
+						&lt;span&gt;&lt;img src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" width="107" height="19" alt="Wiktionary"/&gt;&lt;/span&gt;
+						
+					&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="search-box"&gt;
+					&lt;input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Sök på Wiktionary" aria-label="Sök på Wiktionary"
+						value=""&gt;
+				&lt;/div&gt;
+				&lt;nav class="minerva-user-navigation" aria-label="Användarnavigering"&gt;
+					&lt;div&gt;&lt;button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit"&gt;Sök&lt;/button&gt;&lt;/div&gt;
+					
+				&lt;/nav&gt;
+			&lt;/form&gt;
+		&lt;/header&gt;
+		&lt;main id="content" class="mw-body"&gt;
+			&lt;div class="banner-container"&gt;
+			&lt;div id="siteNotice"&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="pre-content heading-holder"&gt;
+				&lt;div class="page-heading"&gt;
+					&lt;h1 id="section_0"&gt;barn&lt;/h1&gt;
+					&lt;div class="tagline"&gt;&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;nav class="page-actions-menu"&gt;
+	&lt;ul id="page-actions" class="page-actions-menu__list"&gt;
+		&lt;li id="language-selector" class="page-actions-menu__list-item"&gt;
+				&lt;a id="" href="/wiki/Special:Mobil_spr%C3%A5k/barn" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Läs på ett annat språk"&gt;Läs på ett annat språk&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li id="page-actions-watch" class="page-actions-menu__list-item"&gt;
+				&lt;a id="ca-watch" href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=barn" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Bevaka"&gt;Bevaka&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li id="page-actions-edit" class="page-actions-menu__list-item"&gt;
+				&lt;a id="ca-edit" href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Redigera huvudavsnittet på denna sida"&gt;Redigera&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;!-- version 1.0.2 (change every time you update a partial) --&gt;
+
+				
+				
+				&lt;div class="minerva__subtitle"&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div id="bodyContent" class="content"&gt;&lt;div id="mw-content-text" lang="sv" dir="ltr" class="mw-content-ltr"&gt;&lt;script&gt;function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}&lt;/script&gt;&lt;div class="mw-parser-output"&gt;&lt;section class="mf-section-0" id="mf-section-0"&gt;&lt;div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"&gt;&lt;input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"&gt;&lt;div class="toctitle" lang="sv" dir="ltr"&gt;&lt;h2 id="mw-toc-heading"&gt;Innehåll&lt;/h2&gt;&lt;span class="toctogglespan"&gt;&lt;label class="toctogglelabel" for="toctogglecheckbox"&gt;&lt;/label&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li class="toclevel-1 tocsection-1"&gt;&lt;a href="#Svenska"&gt;&lt;span class="tocnumber"&gt;1&lt;/span&gt; &lt;span class="toctext"&gt;Svenska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-2"&gt;&lt;a href="#Substantiv"&gt;&lt;span class="tocnumber"&gt;1.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-3 tocsection-3"&gt;&lt;a href="#%C3%96vers%C3%A4ttningar"&gt;&lt;span class="tocnumber"&gt;1.1.1&lt;/span&gt; &lt;span class="toctext"&gt;Översättningar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-4"&gt;&lt;a href="#Bokm%C3%A5l"&gt;&lt;span class="tocnumber"&gt;2&lt;/span&gt; &lt;span class="toctext"&gt;Bokmål&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-5"&gt;&lt;a href="#Substantiv_2"&gt;&lt;span class="tocnumber"&gt;2.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-6"&gt;&lt;a href="#Danska"&gt;&lt;span class="tocnumber"&gt;3&lt;/span&gt; &lt;span class="toctext"&gt;Danska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-7"&gt;&lt;a href="#Substantiv_3"&gt;&lt;span class="tocnumber"&gt;3.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-8"&gt;&lt;a href="#Engelska"&gt;&lt;span class="tocnumber"&gt;4&lt;/span&gt; &lt;span class="toctext"&gt;Engelska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-9"&gt;&lt;a href="#Substantiv_4"&gt;&lt;span class="tocnumber"&gt;4.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-10"&gt;&lt;a href="#Forndanska"&gt;&lt;span class="tocnumber"&gt;5&lt;/span&gt; &lt;span class="toctext"&gt;Forndanska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-11"&gt;&lt;a href="#Substantiv_5"&gt;&lt;span class="tocnumber"&gt;5.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-12"&gt;&lt;a href="#Fornnordiska"&gt;&lt;span class="tocnumber"&gt;6&lt;/span&gt; &lt;span class="toctext"&gt;Fornnordiska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-13"&gt;&lt;a href="#Substantiv_6"&gt;&lt;span class="tocnumber"&gt;6.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-14"&gt;&lt;a href="#Fornsvenska"&gt;&lt;span class="tocnumber"&gt;7&lt;/span&gt; &lt;span class="toctext"&gt;Fornsvenska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-15"&gt;&lt;a href="#Substantiv_7"&gt;&lt;span class="tocnumber"&gt;7.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-16"&gt;&lt;a href="#F%C3%A4r%C3%B6iska"&gt;&lt;span class="tocnumber"&gt;8&lt;/span&gt; &lt;span class="toctext"&gt;Färöiska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-17"&gt;&lt;a href="#Substantiv_8"&gt;&lt;span class="tocnumber"&gt;8.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-18"&gt;&lt;a href="#Isl%C3%A4ndska"&gt;&lt;span class="tocnumber"&gt;9&lt;/span&gt; &lt;span class="toctext"&gt;Isländska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-19"&gt;&lt;a href="#Substantiv_9"&gt;&lt;span class="tocnumber"&gt;9.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-20"&gt;&lt;a href="#Nynorska"&gt;&lt;span class="tocnumber"&gt;10&lt;/span&gt; &lt;span class="toctext"&gt;Nynorska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;&lt;li class="toclevel-2 tocsection-21"&gt;&lt;a href="#Substantiv_10"&gt;&lt;span class="tocnumber"&gt;10.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+
+&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-1 collapsible-block" id="mf-section-1"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Substantiv" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-sv-subst-t-0" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; 1-2&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;neutrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barnet" title="barnet"&gt;barnet&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barnen" title="barnen"&gt;barnen&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barns" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barnets" title="barnets"&gt;barnets&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barns" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/barnens" title="barnens"&gt;barnens&lt;/a&gt;&lt;/span&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th colspan="5" class="min"&gt;Som förled i sammansättningar används &lt;b&gt;barn- eller barna-&lt;/b&gt;. 
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5" class="note"&gt;&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Not:&lt;/th&gt;
+&lt;td&gt;
+&lt;p&gt;I bestämd form plural dialektalt även talspråkligt &lt;i&gt;&lt;a href="/wiki/barna" title="barna"&gt;barna&lt;/a&gt;(&lt;a href="/wiki/barnas" title="barnas"&gt;s&lt;/a&gt;)&lt;/i&gt;.
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/wiki/Wiktionary:Stilguide/Uttal" title="Wiktionary:Stilguide/Uttal"&gt;uttal&lt;/a&gt;:&lt;/b&gt; baːrn /&lt;span class="ipa"&gt;bɑːrn&lt;/span&gt;/&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/minder%C3%A5rig" title="minderårig"&gt;minderårig&lt;/a&gt; människa; människa under 13 år eller under 18 år (det finns olika definitioner); människa tillhörande lägsta ålderskategorin (till skillnad från t ex &lt;a href="/wiki/ungdom" title="ungdom"&gt;ungdom&lt;/a&gt;, &lt;a href="/wiki/ton%C3%A5ring" title="tonåring"&gt;tonåring&lt;/a&gt;, &lt;a href="/wiki/vuxen" title="vuxen"&gt;vuxen&lt;/a&gt;, &lt;a href="/wiki/%C3%A4ldre" title="äldre"&gt;äldre&lt;/a&gt;) (ibland även om djur)
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/unge" title="unge"&gt;unge&lt;/a&gt;, &lt;a href="/wiki/batting" title="batting"&gt;batting&lt;/a&gt;, &lt;a href="/wiki/fr%C3%B6" title="frö"&gt;frö&lt;/a&gt;, &lt;a href="/wiki/glop" title="glop"&gt;glop&lt;/a&gt;, &lt;a href="/wiki/glytt" title="glytt"&gt;glytt&lt;/a&gt;, &lt;a href="/wiki/kids" title="kids"&gt;kids&lt;/a&gt;  &lt;b title="plural" class="gender"&gt;&lt;i&gt;pl&lt;/i&gt;&lt;/b&gt;, &lt;a href="/wiki/kripp" title="kripp"&gt;kripp&lt;/a&gt; &lt;i&gt;(orsamål)&lt;/i&gt;, &lt;a href="/wiki/knodd" title="knodd"&gt;knodd&lt;/a&gt;, &lt;a href="/w/index.php?title=snoris&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="snoris (inte skapad ännu)"&gt;snoris&lt;/a&gt;, &lt;a href="/wiki/spoling" title="spoling"&gt;spoling&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-antonymer"&gt;&lt;em title="Motsatsord"&gt;Antonymer:&lt;/em&gt; &lt;a href="/wiki/vuxen" title="vuxen"&gt;vuxen&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/avkomling" title="avkomling"&gt;avkomling&lt;/a&gt; till &lt;a href="/wiki/f%C3%B6r%C3%A4lder" title="förälder"&gt;förälder&lt;/a&gt; oavsett ålder
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/unge" title="unge"&gt;unge&lt;/a&gt;, &lt;a href="/wiki/kids" title="kids"&gt;kids&lt;/a&gt;  &lt;b title="plural" class="gender"&gt;&lt;i&gt;pl&lt;/i&gt;&lt;/b&gt;, &lt;a href="/wiki/kripp" title="kripp"&gt;kripp&lt;/a&gt; &lt;i&gt;(orsamål)&lt;/i&gt;, &lt;a href="/wiki/knodd" title="knodd"&gt;knodd&lt;/a&gt;, &lt;a href="/w/index.php?title=telning&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="telning (inte skapad ännu)"&gt;telning&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-hyponymer"&gt;&lt;em title="Underordnade ord"&gt;Hyponymer:&lt;/em&gt; &lt;a href="/wiki/dotter" title="dotter"&gt;dotter&lt;/a&gt;, &lt;a href="/wiki/son" title="son"&gt;son&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-antonymer"&gt;&lt;em title="Motsatsord"&gt;Antonymer:&lt;/em&gt; &lt;a href="/wiki/f%C3%B6r%C3%A4lder" title="förälder"&gt;förälder&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;(fysik, oböjligt)&lt;/i&gt; &lt;a href="/wiki/m%C3%A5tt" title="mått"&gt;mått&lt;/a&gt; på &lt;a href="/wiki/yta" title="yta"&gt;yta&lt;/a&gt; och &lt;a href="/w/index.php?title=reaktionstv%C3%A4rsnitt&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="reaktionstvärsnitt (inte skapad ännu)"&gt;reaktionstvärsnitt&lt;/a&gt;, 1 barn (b) = 10&lt;sup&gt;−28&lt;/sup&gt; m²&lt;/li&gt;&lt;/ol&gt;&lt;dl&gt;&lt;dd&gt;&lt;noscript&gt;&lt;img alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" decoding="async" title="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." width="222" height="18" data-file-width="222" data-file-height="18"&gt;&lt;/noscript&gt;&lt;span class="lazy-image-placeholder" style="width: 222px;height: 18px;" data-src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" data-alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." data-width="222" data-height="18"&gt; &lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/barnslig" title="barnslig"&gt;barnslig&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/wiki/adoptivbarn" title="adoptivbarn"&gt;adoptivbarn&lt;/a&gt;, &lt;a href="/wiki/barnbarn" title="barnbarn"&gt;barnbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=bagarbarn&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="bagarbarn (inte skapad ännu)"&gt;bagarbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=barnadr%C3%A5p&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnadråp (inte skapad ännu)"&gt;barnadråp&lt;/a&gt;, &lt;a href="/w/index.php?title=barnaf%C3%B6dande&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnafödande (inte skapad ännu)"&gt;barnafödande&lt;/a&gt;, &lt;a href="/wiki/barnaga" title="barnaga"&gt;barnaga&lt;/a&gt;, &lt;a href="/wiki/barnarbete" title="barnarbete"&gt;barnarbete&lt;/a&gt;, &lt;a href="/wiki/barnarov" title="barnarov"&gt;barnarov&lt;/a&gt;, &lt;a href="/w/index.php?title=barnasinne&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnasinne (inte skapad ännu)"&gt;barnasinne&lt;/a&gt;, &lt;a href="/w/index.php?title=barnav%C3%A5rd&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnavård (inte skapad ännu)"&gt;barnavård&lt;/a&gt;, &lt;a href="/wiki/barncykel" title="barncykel"&gt;barncykel&lt;/a&gt;, &lt;a href="/wiki/barndom" title="barndom"&gt;barndom&lt;/a&gt;, &lt;a href="/wiki/barndomshem" title="barndomshem"&gt;barndomshem&lt;/a&gt;, &lt;a href="/wiki/barnfilm" title="barnfilm"&gt;barnfilm&lt;/a&gt;, &lt;a href="/wiki/barnflicka" title="barnflicka"&gt;barnflicka&lt;/a&gt;, &lt;a href="/wiki/barnhem" title="barnhem"&gt;barnhem&lt;/a&gt;, &lt;a href="/wiki/barnkalas" title="barnkalas"&gt;barnkalas&lt;/a&gt;, &lt;a href="/wiki/barnkammare" title="barnkammare"&gt;barnkammare&lt;/a&gt;, &lt;a href="/wiki/barnkl%C3%A4der" title="barnkläder"&gt;barnkläder&lt;/a&gt;, &lt;a href="/wiki/barnkrubba" title="barnkrubba"&gt;barnkrubba&lt;/a&gt;, &lt;a href="/w/index.php?title=barnkull&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnkull (inte skapad ännu)"&gt;barnkull&lt;/a&gt;, &lt;a href="/wiki/barnl%C3%A4kare" title="barnläkare"&gt;barnläkare&lt;/a&gt;, &lt;a href="/wiki/barnmorska" title="barnmorska"&gt;barnmorska&lt;/a&gt;, &lt;a href="/wiki/barnpornografi" title="barnpornografi"&gt;barnpornografi&lt;/a&gt;, &lt;a href="/wiki/barnporr" title="barnporr"&gt;barnporr&lt;/a&gt;, &lt;a href="/w/index.php?title=barnrumpa&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnrumpa (inte skapad ännu)"&gt;barnrumpa&lt;/a&gt;, &lt;a href="/wiki/barnsjukdom" title="barnsjukdom"&gt;barnsjukdom&lt;/a&gt;, &lt;a href="/wiki/barnsjukhus" title="barnsjukhus"&gt;barnsjukhus&lt;/a&gt;, &lt;a href="/wiki/barnsko" title="barnsko"&gt;barnsko&lt;/a&gt;, &lt;a href="/w/index.php?title=barnsoldat&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnsoldat (inte skapad ännu)"&gt;barnsoldat&lt;/a&gt;, &lt;a href="/wiki/barnspr%C3%A5k" title="barnspråk"&gt;barnspråk&lt;/a&gt;, &lt;a href="/wiki/barnstol" title="barnstol"&gt;barnstol&lt;/a&gt;, &lt;a href="/wiki/barns%C3%A4ker" title="barnsäker"&gt;barnsäker&lt;/a&gt;, &lt;a href="/wiki/barns%C3%A4ng" title="barnsäng"&gt;barnsäng&lt;/a&gt;, &lt;a href="/wiki/barntill%C3%A5ten" title="barntillåten"&gt;barntillåten&lt;/a&gt;, &lt;a href="/wiki/barntr%C3%A4dg%C3%A5rd" title="barnträdgård"&gt;barnträdgård&lt;/a&gt;, &lt;a href="/wiki/barnunge" title="barnunge"&gt;barnunge&lt;/a&gt;, &lt;a href="/wiki/barnvagn" title="barnvagn"&gt;barnvagn&lt;/a&gt;, &lt;a href="/wiki/barnv%C3%A4nligt" title="barnvänligt"&gt;barnvänligt&lt;/a&gt;, &lt;a href="/wiki/bonusbarn" title="bonusbarn"&gt;bonusbarn&lt;/a&gt;, &lt;a href="/wiki/brorsbarn" title="brorsbarn"&gt;brorsbarn&lt;/a&gt;, &lt;a href="/wiki/br%C3%B6stbarn" title="bröstbarn"&gt;bröstbarn&lt;/a&gt;, &lt;a href="/wiki/dagbarn" title="dagbarn"&gt;dagbarn&lt;/a&gt;, &lt;a href="/wiki/dagbarnv%C3%A5rdare" title="dagbarnvårdare"&gt;dagbarnvårdare&lt;/a&gt;, &lt;a href="/wiki/ensambarn" title="ensambarn"&gt;ensambarn&lt;/a&gt;, &lt;a href="/wiki/flickebarn" title="flickebarn"&gt;flickebarn&lt;/a&gt;, &lt;a href="/wiki/gatubarn" title="gatubarn"&gt;gatubarn&lt;/a&gt;, &lt;a href="/wiki/gossebarn" title="gossebarn"&gt;gossebarn&lt;/a&gt;,  &lt;a href="/wiki/mellanbarn" title="mellanbarn"&gt;mellanbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=nyckelbarn&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="nyckelbarn (inte skapad ännu)"&gt;nyckelbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=provr%C3%B6rsbarn&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="provrörsbarn (inte skapad ännu)"&gt;provrörsbarn&lt;/a&gt;, &lt;a href="/wiki/sk%C3%A4ggbarn" title="skäggbarn"&gt;skäggbarn&lt;/a&gt;, &lt;a href="/wiki/sp%C3%A4dbarn" title="spädbarn"&gt;spädbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=styvbarn&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="styvbarn (inte skapad ännu)"&gt;styvbarn&lt;/a&gt;, &lt;a href="/wiki/syskonbarn" title="syskonbarn"&gt;syskonbarn&lt;/a&gt;, &lt;a href="/wiki/systerbarn" title="systerbarn"&gt;systerbarn&lt;/a&gt;, &lt;a href="/wiki/underbarn" title="underbarn"&gt;underbarn&lt;/a&gt;, &lt;a href="/w/index.php?title=%C3%A4nglabarn&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="änglabarn (inte skapad ännu)"&gt;änglabarn&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-fraser"&gt;&lt;em title="Begrepp som består av flera ord"&gt;Fraser:&lt;/em&gt; &lt;a href="/w/index.php?title=barn_utom_%C3%A4ktenskap&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barn utom äktenskap (inte skapad ännu)"&gt;barn utom äktenskap&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Av fornsvenska &lt;i&gt;&lt;a href="/wiki/barn#Fornsvenska" title="barn"&gt;barn&lt;/a&gt;&lt;/i&gt;. Av gemensamt germanskt &lt;i&gt;*barna-&lt;/i&gt;, en participbildning till roten i &lt;i&gt;&lt;a href="/wiki/b%C3%A4ra" title="bära"&gt;bära&lt;/a&gt;&lt;/i&gt; i betydelsen "&lt;a href="/wiki/f%C3%B6da" title="föda"&gt;föda&lt;/a&gt;"; jämför participet &lt;i&gt;&lt;a href="/wiki/buren" title="buren"&gt;buren&lt;/a&gt;&lt;/i&gt; (för betydelsen särskilt &lt;i&gt;&lt;a href="/w/index.php?title=nyburen&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="nyburen (inte skapad ännu)"&gt;nyburen&lt;/a&gt;&lt;/i&gt;, "nyfödd" eller ibland "som nyss har kalvat"), engelska &lt;i&gt;&lt;a href="/wiki/born" title="born"&gt;born&lt;/a&gt;&lt;/i&gt;, "född", samt även en motsvarande bildning i de baltiska språken, som i lettiska &lt;i&gt;&lt;a href="/wiki/b%C4%93rns" title="bērns"&gt;bērns&lt;/a&gt;&lt;/i&gt;, "barn". I svenskan är betydelsen "avkomling" den ursprungliga, och "minderårig" har utvecklats därifrån.&lt;/dd&gt;&lt;/dl&gt;&lt;h4 class="in-block"&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;minderårig&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;albanska: &lt;span class="ö" data-lang="sq" data-title="fëmijë"&gt;&lt;a href="/wiki/f%C3%ABmij%C3%AB#Albanska" title="fëmijë"&gt;fëmijë&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;bislama: &lt;span class="ö" data-lang="bi" data-title="pikinini"&gt;&lt;a href="/wiki/pikinini#Bislama" title="pikinini"&gt;pikinini&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="barn"&gt;&lt;a href="/wiki/barn#Bokm%C3%A5l" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://no.wiktionary.org/wiki/barn" class="extiw" title="no:barn"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;bosniska: &lt;span class="ö" data-lang="bs" data-title="dijete" data-gender="n"&gt;&lt;a href="/wiki/dijete#Bosniska" title="dijete"&gt;dijete&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="bs" data-title="djeca"&gt;&lt;a href="/wiki/djeca#Bosniska" title="djeca"&gt;djeca&lt;/a&gt;&lt;/span&gt; &lt;small style="color:#333"&gt;&lt;i&gt;kollektivt.&lt;/i&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;bulgariska: &lt;span class="ö" data-lang="bg" data-title="дете" data-gender="n"&gt;&lt;a href="/wiki/%D0%B4%D0%B5%D1%82%D0%B5#Bulgariska" title="дете"&gt;дете&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://bg.wiktionary.org/wiki/%D0%B4%D0%B5%D1%82%D0%B5" class="extiw" title="bg:дете"&gt;(bg)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;danska: &lt;span class="ö" data-lang="da" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#Danska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://da.wiktionary.org/wiki/barn" class="extiw" title="da:barn"&gt;(da)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="child"&gt;&lt;a href="/wiki/child#Engelska" title="child"&gt;child&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/child" class="extiw" title="en:child"&gt;(en)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="en" data-title="kid"&gt;&lt;a href="/wiki/kid#Engelska" title="kid"&gt;kid&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/kid" class="extiw" title="en:kid"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;esperanto: &lt;span class="ö" data-lang="eo" data-title="infano"&gt;&lt;a href="/wiki/infano#Esperanto" title="infano"&gt;infano&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://eo.wiktionary.org/wiki/infano" class="extiw" title="eo:infano"&gt;(eo)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;estniska: &lt;span class="ö" data-lang="et" data-title="laps"&gt;&lt;a href="/wiki/laps#Estniska" title="laps"&gt;laps&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://et.wiktionary.org/wiki/laps" class="extiw" title="et:laps"&gt;(et)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="lapsi"&gt;&lt;a href="/wiki/lapsi#Finska" title="lapsi"&gt;lapsi&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fi.wiktionary.org/wiki/lapsi" class="extiw" title="fi:lapsi"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="enfant"&gt;&lt;a href="/wiki/enfant#Franska" title="enfant"&gt;enfant&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/enfant" class="extiw" title="fr:enfant"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;frisiska: &lt;span class="ö" data-lang="fy" data-title="bern" data-gender="n"&gt;&lt;a href="/wiki/bern#Frisiska" title="bern"&gt;bern&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fy.wiktionary.org/wiki/bern" class="extiw" title="fy:bern"&gt;(fy)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;färöiska: &lt;span class="ö" data-lang="fo" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#F%C3%A4r%C3%B6iska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fo.wiktionary.org/wiki/barn" class="extiw" title="fo:barn"&gt;(fo)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;georgiska: &lt;span class="ö" data-lang="ka" data-title="ბავშვი"&gt;&lt;a href="/w/index.php?title=%E1%83%91%E1%83%90%E1%83%95%E1%83%A8%E1%83%95%E1%83%98&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="ბავშვი (inte skapad ännu)"&gt;ბავშვი&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;hebreiska: &lt;span class="ö" data-lang="he" data-title="ילד"&gt;&lt;a href="/wiki/%D7%99%D7%9C%D7%93#Hebreiska" title="ילד"&gt;ילד&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://he.wiktionary.org/wiki/%D7%99%D7%9C%D7%93" class="extiw" title="he:ילד"&gt;(he)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;indonesiska: &lt;span class="ö" data-lang="id" data-title="anak"&gt;&lt;a href="/w/index.php?title=anak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="anak (inte skapad ännu)"&gt;anak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://id.wiktionary.org/wiki/anak" class="extiw" title="id:anak"&gt;(id)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="id" data-title="bocah"&gt;&lt;a href="/w/index.php?title=bocah&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="bocah (inte skapad ännu)"&gt;bocah&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://id.wiktionary.org/wiki/bocah" class="extiw" title="id:bocah"&gt;(id)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#Isl%C3%A4ndska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://is.wiktionary.org/wiki/barn" class="extiw" title="is:barn"&gt;(is)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="bambino"&gt;&lt;a href="/wiki/bambino#Italienska" title="bambino"&gt;bambino&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://it.wiktionary.org/wiki/bambino" class="extiw" title="it:bambino"&gt;(it)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="it" data-title="bambina"&gt;&lt;a href="/wiki/bambina#Italienska" title="bambina"&gt;bambina&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://it.wiktionary.org/wiki/bambina" class="extiw" title="it:bambina"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="子供"&gt;&lt;a href="/wiki/%E5%AD%90%E4%BE%9B#Japanska" title="子供"&gt;子供&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ja.wiktionary.org/wiki/%E5%AD%90%E4%BE%9B" class="extiw" title="ja:子供"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; &lt;i&gt;kodomo&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;jiddisch: &lt;span class="ö" data-lang="yi" data-title="קינד" data-gender="n" data-tr="kind"&gt;&lt;a href="/w/index.php?title=%D7%A7%D7%99%D7%A0%D7%93&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="קינד (inte skapad ännu)"&gt;&lt;span dir="rtl" class="hebr-script"&gt;קינד&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt; (kind)&lt;/li&gt;
+&lt;li&gt;kinesiska: &lt;span class="ö" data-lang="zh" data-title="孩子"&gt;&lt;a href="/wiki/%E5%AD%A9%E5%AD%90#Kinesiska" title="孩子"&gt;孩子&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://zh.wiktionary.org/wiki/%E5%AD%A9%E5%AD%90" class="extiw" title="zh:孩子"&gt;(zh)&lt;/a&gt;&lt;/sup&gt; &lt;i&gt;háizi&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;kurdiska: &lt;span class="ö" data-lang="ku" data-title="zarok"&gt;&lt;a href="/wiki/zarok#Kurdiska" title="zarok"&gt;zarok&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ku.wiktionary.org/wiki/zarok" class="extiw" title="ku:zarok"&gt;(ku)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ladino: &lt;span class="ö" data-lang="lad" data-title="chiko" data-gender="m"&gt;&lt;a href="/wiki/chiko#Ladino" title="chiko"&gt;chiko&lt;/a&gt;&lt;/span&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;lettiska: &lt;span class="ö" data-lang="lv" data-title="bērns"&gt;&lt;a href="/wiki/b%C4%93rns#Lettiska" title="bērns"&gt;bērns&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://lv.wiktionary.org/wiki/b%C4%93rns" class="extiw" title="lv:bērns"&gt;(lv)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;litauiska: &lt;span class="ö" data-lang="lt" data-title="vaikas"&gt;&lt;a href="/wiki/vaikas#Litauiska" title="vaikas"&gt;vaikas&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://lt.wiktionary.org/wiki/vaikas" class="extiw" title="lt:vaikas"&gt;(lt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;malajiska: &lt;span class="ö" data-lang="ms" data-title="anak"&gt;&lt;a href="/w/index.php?title=anak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="anak (inte skapad ännu)"&gt;anak&lt;/a&gt;&lt;/span&gt;, &lt;span class="ö" data-lang="ms" data-title="anak-anak" data-number="p"&gt;&lt;a href="/w/index.php?title=anak-anak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="anak-anak (inte skapad ännu)"&gt;anak-anak&lt;/a&gt;&lt;/span&gt; &lt;b title="plural" class="gender"&gt;&lt;i&gt;pl&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;meänkieli: &lt;span class="ö" data-lang="fit" data-title="kläppi"&gt;&lt;a href="/wiki/kl%C3%A4ppi#Me%C3%A4nkieli" title="kläppi"&gt;kläppi&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;ndonga: &lt;span class="ö" data-lang="ng" data-title="okanona"&gt;&lt;a href="/wiki/okanona#Ndonga" title="okanona"&gt;okanona&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="kind"&gt;&lt;a href="/wiki/kind#Nederl%C3%A4ndska" title="kind"&gt;kind&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://nl.wiktionary.org/wiki/kind" class="extiw" title="nl:kind"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nordsamiska: &lt;span class="ö" data-lang="se" data-title="mánná"&gt;&lt;a href="/wiki/m%C3%A1nn%C3%A1#Nordsamiska" title="mánná"&gt;mánná&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="dziecko" data-gender="n"&gt;&lt;a href="/wiki/dziecko#Polska" title="dziecko"&gt;dziecko&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pl.wiktionary.org/wiki/dziecko" class="extiw" title="pl:dziecko"&gt;(pl)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="criança" data-gender="f"&gt;&lt;a href="/wiki/crian%C3%A7a#Portugisiska" title="criança"&gt;criança&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pt.wiktionary.org/wiki/crian%C3%A7a" class="extiw" title="pt:criança"&gt;(pt)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="pt" data-title="menino" data-gender="m"&gt;&lt;a href="/w/index.php?title=menino&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="menino (inte skapad ännu)"&gt;menino&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pt.wiktionary.org/wiki/menino" class="extiw" title="pt:menino"&gt;(pt)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="pt" data-title="menina" data-gender="f"&gt;&lt;a href="/w/index.php?title=menina&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="menina (inte skapad ännu)"&gt;menina&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pt.wiktionary.org/wiki/menina" class="extiw" title="pt:menina"&gt;(pt)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="ребёнок"&gt;&lt;a href="/wiki/%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BE%D0%BA#Ryska" title="ребёнок"&gt;ребёнок&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BE%D0%BA" class="extiw" title="ru:ребёнок"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;,  &lt;span class="ö" data-lang="ru" data-title="дитя"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D1%8F#Ryska" title="дитя"&gt;дитя&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D0%B4%D0%B8%D1%82%D1%8F" class="extiw" title="ru:дитя"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="niño" data-gender="m"&gt;&lt;a href="/wiki/ni%C3%B1o#Spanska" title="niño"&gt;niño&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/ni%C3%B1o" class="extiw" title="es:niño"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="es" data-title="niña" data-gender="f"&gt;&lt;a href="/wiki/ni%C3%B1a#Spanska" title="niña"&gt;niña&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/ni%C3%B1a" class="extiw" title="es:niña"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="es" data-title="infante" data-gender="m"&gt;&lt;a href="/w/index.php?title=infante&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="infante (inte skapad ännu)"&gt;infante&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/infante" class="extiw" title="es:infante"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tjeckiska: &lt;span class="ö" data-lang="cs" data-title="dítě" data-gender="n"&gt;&lt;a href="/w/index.php?title=d%C3%ADt%C4%9B&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="dítě (inte skapad ännu)"&gt;dítě&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://cs.wiktionary.org/wiki/d%C3%ADt%C4%9B" class="extiw" title="cs:dítě"&gt;(cs)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tok pisin: &lt;span class="ö" data-lang="tpi" data-title="pikinini"&gt;&lt;a href="/wiki/pikinini#Tok_pisin" title="pikinini"&gt;pikinini&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="çocuk"&gt;&lt;a href="/w/index.php?title=%C3%A7ocuk&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="çocuk (inte skapad ännu)"&gt;çocuk&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://tr.wiktionary.org/wiki/%C3%A7ocuk" class="extiw" title="tr:çocuk"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Kind" data-gender="n"&gt;&lt;a href="/wiki/Kind#Tyska" title="Kind"&gt;Kind&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://de.wiktionary.org/wiki/Kind" class="extiw" title="de:Kind"&gt;(de)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;ukrainska: &lt;span class="ö" data-lang="uk" data-title="дитина" data-gender="f"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B0#Ukrainska" title="дитина"&gt;дитина&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://uk.wiktionary.org/wiki/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B0" class="extiw" title="uk:дитина"&gt;(uk)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="uk" data-title="дитя" data-gender="n"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D1%8F#Ukrainska" title="дитя"&gt;дитя&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;avkomling&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;albanska: &lt;span class="ö" data-lang="sq" data-title="fëmijë"&gt;&lt;a href="/wiki/f%C3%ABmij%C3%AB#Albanska" title="fëmijë"&gt;fëmijë&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="barn"&gt;&lt;a href="/wiki/barn#Bokm%C3%A5l" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://no.wiktionary.org/wiki/barn" class="extiw" title="no:barn"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;bottniska: &lt;span class="ö" data-lang="gmq-bot" data-title="báðn" data-gender="n"&gt;&lt;a href="/wiki/b%C3%A1%C3%B0n#Bottniska" title="báðn"&gt;báðn&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="gmq-bot" data-title="smáfołk" data-gender="n"&gt;&lt;a href="/wiki/sm%C3%A1fo%C5%82k#Bottniska" title="smáfołk"&gt;smáfołk&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;danska: &lt;span class="ö" data-lang="da" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#Danska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://da.wiktionary.org/wiki/barn" class="extiw" title="da:barn"&gt;(da)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="child"&gt;&lt;a href="/wiki/child#Engelska" title="child"&gt;child&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/child" class="extiw" title="en:child"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;esperanto: &lt;span class="ö" data-lang="eo" data-title="infano"&gt;&lt;a href="/wiki/infano#Esperanto" title="infano"&gt;infano&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://eo.wiktionary.org/wiki/infano" class="extiw" title="eo:infano"&gt;(eo)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;estniska: &lt;span class="ö" data-lang="et" data-title="laps"&gt;&lt;a href="/wiki/laps#Estniska" title="laps"&gt;laps&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://et.wiktionary.org/wiki/laps" class="extiw" title="et:laps"&gt;(et)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="lapsi"&gt;&lt;a href="/wiki/lapsi#Finska" title="lapsi"&gt;lapsi&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fi.wiktionary.org/wiki/lapsi" class="extiw" title="fi:lapsi"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="enfant"&gt;&lt;a href="/wiki/enfant#Franska" title="enfant"&gt;enfant&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/enfant" class="extiw" title="fr:enfant"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;frisiska: &lt;span class="ö" data-lang="fy" data-title="bern" data-gender="n"&gt;&lt;a href="/wiki/bern#Frisiska" title="bern"&gt;bern&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fy.wiktionary.org/wiki/bern" class="extiw" title="fy:bern"&gt;(fy)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;färöiska: &lt;span class="ö" data-lang="fo" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#F%C3%A4r%C3%B6iska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fo.wiktionary.org/wiki/barn" class="extiw" title="fo:barn"&gt;(fo)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;georgiska: &lt;span class="ö" data-lang="ka" data-title="ბავშვი"&gt;&lt;a href="/w/index.php?title=%E1%83%91%E1%83%90%E1%83%95%E1%83%A8%E1%83%95%E1%83%98&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="ბავშვი (inte skapad ännu)"&gt;ბავშვი&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;hebreiska: &lt;span class="ö" data-lang="he" data-title="ילד"&gt;&lt;a href="/wiki/%D7%99%D7%9C%D7%93#Hebreiska" title="ילד"&gt;ילד&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://he.wiktionary.org/wiki/%D7%99%D7%9C%D7%93" class="extiw" title="he:ילד"&gt;(he)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;indonesiska: &lt;span class="ö" data-lang="id" data-title="anak"&gt;&lt;a href="/w/index.php?title=anak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="anak (inte skapad ännu)"&gt;anak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://id.wiktionary.org/wiki/anak" class="extiw" title="id:anak"&gt;(id)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="id" data-title="bocah"&gt;&lt;a href="/w/index.php?title=bocah&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="bocah (inte skapad ännu)"&gt;bocah&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://id.wiktionary.org/wiki/bocah" class="extiw" title="id:bocah"&gt;(id)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="barn" data-gender="n"&gt;&lt;a href="/wiki/barn#Isl%C3%A4ndska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://is.wiktionary.org/wiki/barn" class="extiw" title="is:barn"&gt;(is)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="bambino"&gt;&lt;a href="/wiki/bambino#Italienska" title="bambino"&gt;bambino&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://it.wiktionary.org/wiki/bambino" class="extiw" title="it:bambino"&gt;(it)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="it" data-title="bambina"&gt;&lt;a href="/wiki/bambina#Italienska" title="bambina"&gt;bambina&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://it.wiktionary.org/wiki/bambina" class="extiw" title="it:bambina"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="子供"&gt;&lt;a href="/wiki/%E5%AD%90%E4%BE%9B#Japanska" title="子供"&gt;子供&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ja.wiktionary.org/wiki/%E5%AD%90%E4%BE%9B" class="extiw" title="ja:子供"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; (&lt;i&gt;kodomo&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;jiddisch: &lt;span class="ö" data-lang="yi" data-title="קינד" data-gender="n" data-tr="kind"&gt;&lt;a href="/w/index.php?title=%D7%A7%D7%99%D7%A0%D7%93&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="קינד (inte skapad ännu)"&gt;&lt;span dir="rtl" class="hebr-script"&gt;קינד&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt; (kind)&lt;/li&gt;
+&lt;li&gt;kinesiska: &lt;span class="ö" data-lang="zh" data-title="孩子"&gt;&lt;a href="/wiki/%E5%AD%A9%E5%AD%90#Kinesiska" title="孩子"&gt;孩子&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://zh.wiktionary.org/wiki/%E5%AD%A9%E5%AD%90" class="extiw" title="zh:孩子"&gt;(zh)&lt;/a&gt;&lt;/sup&gt; (&lt;i&gt;háizi&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;meänkieli: &lt;span class="ö" data-lang="fit" data-title="kläppi"&gt;&lt;a href="/wiki/kl%C3%A4ppi#Me%C3%A4nkieli" title="kläppi"&gt;kläppi&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="kind"&gt;&lt;a href="/wiki/kind#Nederl%C3%A4ndska" title="kind"&gt;kind&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://nl.wiktionary.org/wiki/kind" class="extiw" title="nl:kind"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nordsamiska: &lt;span class="ö" data-lang="se" data-title="mánná"&gt;&lt;a href="/wiki/m%C3%A1nn%C3%A1#Nordsamiska" title="mánná"&gt;mánná&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="dziecko" data-gender="n"&gt;&lt;a href="/wiki/dziecko#Polska" title="dziecko"&gt;dziecko&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pl.wiktionary.org/wiki/dziecko" class="extiw" title="pl:dziecko"&gt;(pl)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="filho" data-gender="m"&gt;&lt;a href="/w/index.php?title=filho&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="filho (inte skapad ännu)"&gt;filho&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pt.wiktionary.org/wiki/filho" class="extiw" title="pt:filho"&gt;(pt)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="pt" data-title="filha" data-gender="f"&gt;&lt;a href="/w/index.php?title=filha&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="filha (inte skapad ännu)"&gt;filha&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pt.wiktionary.org/wiki/filha" class="extiw" title="pt:filha"&gt;(pt)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="ребёнок"&gt;&lt;a href="/wiki/%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BE%D0%BA#Ryska" title="ребёнок"&gt;ребёнок&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BE%D0%BA" class="extiw" title="ru:ребёнок"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;,  &lt;span class="ö" data-lang="ru" data-title="дитя"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D1%8F#Ryska" title="дитя"&gt;дитя&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://ru.wiktionary.org/wiki/%D0%B4%D0%B8%D1%82%D1%8F" class="extiw" title="ru:дитя"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="hijo" data-gender="m"&gt;&lt;a href="/wiki/hijo#Spanska" title="hijo"&gt;hijo&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/hijo" class="extiw" title="es:hijo"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="es" data-title="hija" data-gender="f"&gt;&lt;a href="/wiki/hija#Spanska" title="hija"&gt;hija&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://es.wiktionary.org/wiki/hija" class="extiw" title="es:hija"&gt;(es)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tjeckiska: &lt;span class="ö" data-lang="cs" data-title="dítě" data-gender="n"&gt;&lt;a href="/w/index.php?title=d%C3%ADt%C4%9B&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="dítě (inte skapad ännu)"&gt;dítě&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://cs.wiktionary.org/wiki/d%C3%ADt%C4%9B" class="extiw" title="cs:dítě"&gt;(cs)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="çocuk"&gt;&lt;a href="/w/index.php?title=%C3%A7ocuk&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="çocuk (inte skapad ännu)"&gt;çocuk&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://tr.wiktionary.org/wiki/%C3%A7ocuk" class="extiw" title="tr:çocuk"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Kind" data-gender="n"&gt;&lt;a href="/wiki/Kind#Tyska" title="Kind"&gt;Kind&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://de.wiktionary.org/wiki/Kind" class="extiw" title="de:Kind"&gt;(de)&lt;/a&gt;&lt;/sup&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;ukrainska: &lt;span class="ö" data-lang="uk" data-title="дитина" data-gender="f"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B0#Ukrainska" title="дитина"&gt;дитина&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://uk.wiktionary.org/wiki/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B0" class="extiw" title="uk:дитина"&gt;(uk)&lt;/a&gt;&lt;/sup&gt; &lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="uk" data-title="дитя" data-gender="n"&gt;&lt;a href="/wiki/%D0%B4%D0%B8%D1%82%D1%8F#Ukrainska" title="дитя"&gt;дитя&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;vitryska: &lt;span class="ö" data-lang="be" data-title="дзіця" data-gender="n"&gt;&lt;a href="/wiki/%D0%B4%D0%B7%D1%96%D1%86%D1%8F#Vitryska" title="дзіця"&gt;дзіця&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="be" data-title="рабёнак" data-gender="m"&gt;&lt;a href="/wiki/%D1%80%D0%B0%D0%B1%D1%91%D0%BD%D0%B0%D0%BA#Vitryska" title="рабёнак"&gt;рабёнак&lt;/a&gt;&lt;/span&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;fysik: ytmått&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="barn"&gt;&lt;a href="/wiki/barn#Engelska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://en.wiktionary.org/wiki/barn" class="extiw" title="en:barn"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="barn" data-gender="m"&gt;&lt;a href="/wiki/barn#Franska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://fr.wiktionary.org/wiki/barn" class="extiw" title="fr:barn"&gt;(fr)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="barn" data-gender="m"&gt;&lt;a href="/wiki/barn#Polska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://pl.wiktionary.org/wiki/barn" class="extiw" title="pl:barn"&gt;(pl)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="барн" data-gender="m"&gt;&lt;a href="/w/index.php?title=%D0%B1%D0%B0%D1%80%D0%BD&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="барн (inte skapad ännu)"&gt;барн&lt;/a&gt;&lt;/span&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tjeckiska: &lt;span class="ö" data-lang="cs" data-title="barn" data-gender="m"&gt;&lt;a href="/wiki/barn#Tjeckiska" title="barn"&gt;barn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt; &lt;a href="https://cs.wiktionary.org/wiki/barn" class="extiw" title="cs:barn"&gt;(cs)&lt;/a&gt;&lt;/sup&gt; &lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Barn" data-gender="n"&gt;&lt;a href="/wiki/Barn#Tyska" title="Barn"&gt;Barn&lt;/a&gt;&lt;/span&gt; &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span id="Bokm.C3.A5l"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Bokmål"&gt;Bokmål&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=4" title="Redigera avsnitt Bokmål" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-2 collapsible-block" id="mf-section-2"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_2"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=5" title="Redigera avsnitt Substantiv" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-no-subst-n-0" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;neutrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnet#Bokm%C3%A5l" title="barnet"&gt;barnet&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barna#Bokm%C3%A5l" title="barna"&gt;barna&lt;/a&gt;&lt;/span&gt;, &lt;span class="infl"&gt;&lt;a href="/wiki/barnene#Bokm%C3%A5l" title="barnene"&gt;barnene&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#Bokm%C3%A5l" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnets#Bokm%C3%A5l" title="barnets"&gt;barnets&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#Bokm%C3%A5l" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnas#Bokm%C3%A5l" title="barnas"&gt;barnas&lt;/a&gt;&lt;/span&gt;, &lt;span class="infl"&gt;&lt;a href="/wiki/barnenes#Bokm%C3%A5l" title="barnenes"&gt;barnenes&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Danska"&gt;Danska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=6" title="Redigera avsnitt Danska" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-3 collapsible-block" id="mf-section-3"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_3"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=7" title="Redigera avsnitt Substantiv" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-da-subst-n-0" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;neutrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnet#Danska" title="barnet"&gt;barnet&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rn#Danska" title="børn"&gt;børn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnene#Danska" title="børnene"&gt;børnene&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#Danska" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnets#Danska" title="barnets"&gt;barnets&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rns#Danska" title="børns"&gt;børns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnenes#Danska" title="børnenes"&gt;børnenes&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/wiki/barndom" title="barndom"&gt;barndom&lt;/a&gt;, &lt;a href="/wiki/barneseng" title="barneseng"&gt;barneseng&lt;/a&gt;, &lt;a href="/wiki/b%C3%B8rnearbejde" title="børnearbejde"&gt;børnearbejde&lt;/a&gt;, &lt;a href="/wiki/b%C3%B8rnehave" title="børnehave"&gt;børnehave&lt;/a&gt;, &lt;a href="/w/index.php?title=b%C3%B8rnehaveklasse&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="børnehaveklasse (inte skapad ännu)"&gt;børnehaveklasse&lt;/a&gt;, &lt;a href="/w/index.php?title=b%C3%B8rnehavevirksomhed&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="børnehavevirksomhed (inte skapad ännu)"&gt;børnehavevirksomhed&lt;/a&gt;, &lt;a href="/wiki/b%C3%B8rnel%C3%A6ge" title="børnelæge"&gt;børnelæge&lt;/a&gt;, &lt;a href="/w/index.php?title=b%C3%B8rnemishandling&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="børnemishandling (inte skapad ännu)"&gt;børnemishandling&lt;/a&gt;, &lt;a href="/w/index.php?title=b%C3%B8rneopdragelse&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="børneopdragelse (inte skapad ännu)"&gt;børneopdragelse&lt;/a&gt;, &lt;a href="/wiki/b%C3%B8rnevenlig" title="børnevenlig"&gt;børnevenlig&lt;/a&gt;&lt;/dd&gt;
+
+&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Engelska"&gt;Engelska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=8" title="Redigera avsnitt Engelska" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-4 collapsible-block" id="mf-section-4"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_4"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=9" title="Redigera avsnitt Substantiv" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-en-subst" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th&gt;Singular
+&lt;/th&gt;
+&lt;th&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#Engelska" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barn%27s#Engelska" title="barn's"&gt;barn's&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns%27#Engelska" title="barns'"&gt;barns'&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/wiki/Wiktionary:Stilguide/Uttal/Engelska" title="Wiktionary:Stilguide/Uttal/Engelska"&gt;uttal&lt;/a&gt;:&lt;/b&gt; /&lt;span class="ipa"&gt;bɑrn&lt;/span&gt;/&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/lada" title="lada"&gt;lada&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;The &lt;b&gt;barn&lt;/b&gt; was on fire, but we were asleep.&lt;/i&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;&lt;b&gt;Ladan&lt;/b&gt; brann, men vi sov.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;; ett &lt;a href="/wiki/ytm%C3%A5tt" title="ytmått"&gt;ytmått&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Forndanska"&gt;Forndanska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=10" title="Redigera avsnitt Forndanska" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-5 collapsible-block" id="mf-section-5"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_5"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=11" title="Redigera avsnitt Substantiv" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Av fornnordiska &lt;i&gt;&lt;a href="/wiki/barn#Fornnordiska" title="barn"&gt;barn&lt;/a&gt;&lt;/i&gt;.&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-grammatik" id="grammatik"&gt;&lt;em&gt;Grammatik:&lt;/em&gt; Bfsg. &lt;i&gt;barnæt&lt;/i&gt;, ofpl. &lt;i&gt;børn&lt;/i&gt;.&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Fornnordiska"&gt;Fornnordiska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=12" title="Redigera avsnitt Fornnordiska" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-6 collapsible-block" id="mf-section-6"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_6"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=13" title="Redigera avsnitt Substantiv" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Fornsvenska"&gt;Fornsvenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=14" title="Redigera avsnitt Fornsvenska" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-7 collapsible-block" id="mf-section-7"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_7"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=15" title="Redigera avsnitt Substantiv" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span id="F.C3.A4r.C3.B6iska"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Färöiska"&gt;Färöiska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=16" title="Redigera avsnitt Färöiska" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-8 collapsible-block" id="mf-section-8"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_8"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=17" title="Redigera avsnitt Substantiv" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;neutrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni%C3%B0#F%C3%A4r%C3%B6iska" title="barnið"&gt;barnið&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rn#F%C3%A4r%C3%B6iska" title="børn"&gt;børn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnini#F%C3%A4r%C3%B6iska" title="børnini"&gt;børnini&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Ackusativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni%C3%B0#F%C3%A4r%C3%B6iska" title="barnið"&gt;barnið&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rn#F%C3%A4r%C3%B6iska" title="børn"&gt;børn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnini#F%C3%A4r%C3%B6iska" title="børnini"&gt;børnini&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Dativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni#F%C3%A4r%C3%B6iska" title="barni"&gt;barni&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barninum#F%C3%A4r%C3%B6iska" title="barninum"&gt;barninum&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnum#F%C3%A4r%C3%B6iska" title="børnum"&gt;børnum&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B8rnunum#F%C3%A4r%C3%B6iska" title="børnunum"&gt;børnunum&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#F%C3%A4r%C3%B6iska" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnsins#F%C3%A4r%C3%B6iska" title="barnsins"&gt;barnsins&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barna#F%C3%A4r%C3%B6iska" title="barna"&gt;barna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnanna#F%C3%A4r%C3%B6iska" title="barnanna"&gt;barnanna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/w/index.php?title=Wiktionary:Stilguide/Uttal/F%C3%A4r%C3%B6iska&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="Wiktionary:Stilguide/Uttal/Färöiska (inte skapad ännu)"&gt;uttal&lt;/a&gt;:&lt;/b&gt; /&lt;span class="ipa"&gt;bad̥n&lt;/span&gt;/&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/barna#F%C3%A4r%C3%B6iska" title="barna"&gt;barna&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/wiki/barnabarn" title="barnabarn"&gt;barnabarn&lt;/a&gt;, &lt;a href="/w/index.php?title=barnagar%C3%B0ur&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnagarður (inte skapad ännu)"&gt;barnagarður&lt;/a&gt;, &lt;a href="/w/index.php?title=barnask%C3%BAli&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnaskúli (inte skapad ännu)"&gt;barnaskúli&lt;/a&gt;, &lt;a href="/wiki/barnatr%C3%BAgv" title="barnatrúgv"&gt;barnatrúgv&lt;/a&gt;, &lt;a href="/w/index.php?title=barnauppaling&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnauppaling (inte skapad ännu)"&gt;barnauppaling&lt;/a&gt;, &lt;a href="/w/index.php?title=barnd%C3%B3ms%C3%A1r&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barndómsár (inte skapad ännu)"&gt;barndómsár&lt;/a&gt;, &lt;a href="/wiki/barnd%C3%B3mur" title="barndómur"&gt;barndómur&lt;/a&gt;, &lt;a href="/w/index.php?title=barnleysur&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnleysur (inte skapad ännu)"&gt;barnleysur&lt;/a&gt;, &lt;a href="/w/index.php?title=barnsligur&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="barnsligur (inte skapad ännu)"&gt;barnsligur&lt;/a&gt;, &lt;a href="/wiki/barnt%C3%B8ka" title="barntøka"&gt;barntøka&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span id="Isl.C3.A4ndska"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Isländska"&gt;Isländska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=18" title="Redigera avsnitt Isländska" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-9 collapsible-block" id="mf-section-9"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_9"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=19" title="Redigera avsnitt Substantiv" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-is-subst-n-0" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;neutrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni%C3%B0#Isl%C3%A4ndska" title="barnið"&gt;barnið&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rn#Isl%C3%A4ndska" title="börn"&gt;börn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rnin#Isl%C3%A4ndska" title="börnin"&gt;börnin&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Ackusativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni%C3%B0#Isl%C3%A4ndska" title="barnið"&gt;barnið&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rn#Isl%C3%A4ndska" title="börn"&gt;börn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rnin#Isl%C3%A4ndska" title="börnin"&gt;börnin&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Dativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barni#Isl%C3%A4ndska" title="barni"&gt;barni&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barninu#Isl%C3%A4ndska" title="barninu"&gt;barninu&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rnum#Isl%C3%A4ndska" title="börnum"&gt;börnum&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/b%C3%B6rnunum#Isl%C3%A4ndska" title="börnunum"&gt;börnunum&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barns#Isl%C3%A4ndska" title="barns"&gt;barns&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnsins#Isl%C3%A4ndska" title="barnsins"&gt;barnsins&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barna#Isl%C3%A4ndska" title="barna"&gt;barna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnanna#Isl%C3%A4ndska" title="barnanna"&gt;barnanna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/w/index.php?title=Wiktionary:Stilguide/Uttal/Isl%C3%A4ndska&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="Wiktionary:Stilguide/Uttal/Isländska (inte skapad ännu)"&gt;uttal&lt;/a&gt;:&lt;/b&gt; /&lt;span class="ipa"&gt;ˈpartn̥&lt;/span&gt;/&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"&gt;&lt;div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"&gt;&lt;/div&gt;&lt;span class="mw-headline" id="Nynorska"&gt;Nynorska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=20" title="Redigera avsnitt Nynorska" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;section class="mf-section-10 collapsible-block" id="mf-section-10"&gt;
+&lt;h3 class="in-block"&gt;&lt;span class="mw-headline" id="Substantiv_10"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;a href="/w/index.php?title=barn&amp;amp;action=edit&amp;amp;section=21" title="Redigera avsnitt Substantiv" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right"&gt;Redigera&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-nn-subst" cellspacing="0" width="10"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="main"&gt;Böjningar av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt; &lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class="main"&gt;
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barnet#Nynorska" title="barnet"&gt;barnet&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a class="mw-selflink selflink"&gt;barn&lt;/a&gt;&lt;/span&gt;, &lt;span class="infl"&gt;&lt;a href="/wiki/born#Nynorska" title="born"&gt;born&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="infl"&gt;&lt;a href="/wiki/barna#Nynorska" title="barna"&gt;barna&lt;/a&gt;&lt;/span&gt;, &lt;span class="infl"&gt;&lt;a href="/wiki/borna#Nynorska" title="borna"&gt;borna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;barn&lt;/b&gt;  &lt;b title="neutrum" class="gender"&gt;&lt;i&gt;n&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="#Svenska"&gt;barn&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/section&gt;&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;&lt;/div&gt;&lt;div class="printfooter"&gt;
+Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=barn&amp;amp;oldid=3426142"&gt;https://sv.wiktionary.org/w/index.php?title=barn&amp;amp;oldid=3426142&lt;/a&gt;"&lt;/div&gt;
+&lt;/div&gt;
+			&lt;div class="post-content" id="page-secondary-actions"&gt;
+			
+			&lt;/div&gt;
+		&lt;/main&gt;
+		&lt;footer class="mw-footer minerva-footer" role="contentinfo"&gt;
+		&lt;div class="last-modified-bar"&gt;
+	&lt;div class="post-content last-modified-bar__content"&gt;
+		&lt;span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "&gt;&lt;/span&gt;
+		&lt;a class="last-modified-bar__text modified-enhancement" href="/wiki/Special:Historik/barn"
+				data-user-name="Svenji"
+				data-user-gender="unknown"
+				data-timestamp="1598349292"&gt;
+				&lt;span&gt;Senast redigerad den 25 augusti 2020, kl 10.54&lt;/span&gt;
+		&lt;/a&gt;
+		&lt;span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"&gt;&lt;/span&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+		&lt;div class="post-content footer-content"&gt;
+			
+			&lt;h2&gt;&lt;img src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" width="107" height="19" alt="Wiktionary"/&gt;&lt;/h2&gt;
+			&lt;div class="license"&gt;Innehållet är tillgängligt under &lt;a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0&lt;/a&gt; om ingenting annat anges.&lt;/div&gt;
+			&lt;ul class="footer-info hlist hlist-separated"&gt;
+				&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 25 augusti 2020 kl. 10.54.&lt;/li&gt;&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;ul class="footer-places hlist hlist-separated"&gt;
+				&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-terms-use"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;Användarvillkor&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-desktop-toggle"&gt;&lt;a id="mw-mf-display-toggle" href="//sv.wiktionary.org/w/index.php?title=barn&amp;amp;mobileaction=toggle_view_desktop"&gt;Stationär dator&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mw-notification-area" data-mw="interface"&gt;&lt;/div&gt;
+&lt;!-- v:8.3.0 --&gt;
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.880","walltime":"0.993","ppvisitednodes":{"value":10376,"limit":1000000},"postexpandincludesize":{"value":55300,"limit":2097152},"templateargumentsize":{"value":14222,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  886.098      1 -total"," 30.77%  272.651     69 Mall:ö+"," 19.88%  176.135    101 Mall:länk"," 12.60%  111.684      1 Mall:sv-subst-t-0"," 11.55%  102.344     26 Mall:ö"," 11.14%   98.752     56 Mall:g-cell","  9.03%   79.989     69 Mall:sidnamn","  8.96%   79.428      8 Mall:tagg","  5.09%   45.094      1 Mall:no-subst-n-0","  4.41%   39.121     11 Mall:länka"]},"scribunto":{"limitreport-timeusage":{"value":"0.456","limit":"10.000"},"limitreport-memusage":{"value":4634756,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20201011130626","ttl":2592000,"transientcontent":false}}});});&lt;/script&gt;
+&lt;script&gt;(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i&lt;ns.length;i++){p=ns[i].nextSibling;if(p&amp;&amp;p.className&amp;&amp;p.className.indexOf('lazy-image-placeholder')&gt;-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1320"});});&lt;/script&gt;
+&lt;/body&gt;&lt;/html&gt;</value>
+  </data>
+</root>
