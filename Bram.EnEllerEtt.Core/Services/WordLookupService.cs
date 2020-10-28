@@ -1,5 +1,4 @@
-﻿using Bram.EnEllerEtt.Core.Interface;
-using Bram.EnEllerEtt.Core.Interface.Adapters;
+﻿using Bram.EnEllerEtt.Core.Interface.Adapters;
 using Bram.EnEllerEtt.Core.Interface.Models;
 using Bram.EnEllerEtt.Core.Interface.Services;
 using System.Threading;
@@ -7,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Bram.EnEllerEtt.Core.Services
 {
-    public class WordLookupLookupService : IWordLookupService
+    public class WordLookupService : IWordLookupService
     {
         private readonly IRestService _restService;
         private readonly IWiktionaryParser _wiktionaryParser;
 
-        public WordLookupLookupService(IRestService restService, IWiktionaryParser wiktionaryParser)
+        public WordLookupService(IRestService restService, IWiktionaryParser wiktionaryParser)
         {
             _restService = restService;
             _wiktionaryParser = wiktionaryParser;

@@ -27,7 +27,7 @@ namespace Bram.EnEllerEtt.Boundary
                 .AddTransient<IRestService, RestService>()
                 .AddTransient<IWiktionaryParser, WiktionaryParser>()
                 // Core
-                .AddTransient<IWordLookupService, WordLookupLookupService>()
+                .AddTransient<IWordLookupService, WordLookupService>()
                 .BuildServiceProvider();
         }
     }
