@@ -13,14 +13,14 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
                 var result = new WordResult
                 {
                     WordType = WordTypeMapper.FromString(type),
-                    SingleNominativObestämd = conjugations[0],
-                    SingleNominativBestämd = conjugations[1],
-                    PluralNominativObestämd = conjugations[2],
-                    PluralNominativBestämd = conjugations[3],
-                    SingleGenitivObestämd = conjugations[4],
-                    SingleGenitivBestämd = conjugations[5],
-                    PluralGenitivObestämd = conjugations[6],
-                    PluralGenitivBestämd = conjugations[7],
+                    SingleNominativObestamd = conjugations[0],
+                    SingleNominativBestamd = conjugations[1],
+                    PluralNominativObestamd = conjugations[2],
+                    PluralNominativBestamd = conjugations[3],
+                    SingleGenitivObestamd = conjugations[4],
+                    SingleGenitivBestamd = conjugations[5],
+                    PluralGenitivObestamd = conjugations[6],
+                    PluralGenitivBestamd = conjugations[7],
                 };
                 return result;
             }
