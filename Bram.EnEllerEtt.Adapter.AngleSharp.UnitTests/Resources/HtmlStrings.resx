@@ -1979,6 +1979,500 @@ Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarv
 &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.593","ppvisitednodes":{"value":4208,"limit":1000000},"postexpandincludesize":{"value":24605,"limit":2097152},"templateargumentsize":{"value":7449,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  515.269      1 -total"," 17.93%   92.386     25 Mall:ö+"," 16.56%   85.322      1 Mall:sv-subst-n-oräkn"," 11.01%   56.724      1 Mall:sv-subst-n-ar","  9.86%   50.789     34 Mall:länk","  7.88%   40.629      3 Mall:tagg","  7.11%   36.628      1 Mall:wikipedia","  7.04%   36.272     14 Mall:g-cell","  6.98%   35.969      1 Mall:no-subst-oräkn","  6.57%   33.839      1 Mall:sv-subst-n-er"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":5053397,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20201021194130","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1409"});});&lt;/script&gt;
 &lt;/body&gt;&lt;/html&gt;</value>
   </data>
+  <data name="Prata" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;prata - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"56743b98-1ba1-4a00-a003-317b40fa81cd","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"prata","wgTitle":"prata","wgCurRevisionId":3466847,"wgRevisionId":3466847,"wgArticleId":21628,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiktionary:Saknad betydelse","Svenska/Alla uppslag","Portugisiska/Alla uppslag","Wiktionary:Saknad betydelse/Svenska","Svenska/Verb","Svenska/Första konjugationens verb","Svenska/Vardagligt","Bokmål/Verbformer","Portugisiska/Substantiv"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"prata","wgRelevantArticleId":21628,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgNoticeProject":"wiktionary","wgULSCurrentAutonym":"svenska","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready",
+"ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.translation_editor","ext.gadget.translation_editor_add_section","ext.gadget.editorwarnings","ext.gadget.green_links","ext.gadget.redirect_cross-reference","ext.gadget.WikipediaSearchResult","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=vector"&gt;&lt;/script&gt;
+&lt;meta name="ResourceLoaderDynamicStyles" content=""/&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=site.styles&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;meta name="generator" content="MediaWiki 1.38.0-wmf.9"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;meta name="format-detection" content="telephone=no"/&gt;
+&lt;meta property="og:title" content="prata - Wiktionary"/&gt;
+&lt;meta property="og:type" content="website"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wiktionary.org/wiki/prata"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=prata&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/prata"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-prata rootpage-prata skin-vector action-view skin-vector-legacy"&gt;&lt;div id="mw-page-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="mw-head-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="content" class="mw-body" role="main"&gt;
+	&lt;a id="top"&gt;&lt;/a&gt;
+	&lt;div id="siteNotice"&gt;&lt;!-- CentralNotice --&gt;&lt;/div&gt;
+	&lt;div class="mw-indicators"&gt;
+	&lt;/div&gt;
+	&lt;h1 id="firstHeading" class="firstHeading" &gt;prata&lt;/h1&gt;
+	&lt;div id="bodyContent" class="vector-body"&gt;
+		&lt;div id="siteSub" class="noprint"&gt;Definition från Wiktionary, den fria ordlistan.&lt;/div&gt;
+		&lt;div id="contentSub"&gt;&lt;/div&gt;
+		&lt;div id="contentSub2"&gt;&lt;/div&gt;
+		
+		&lt;div id="jump-to-nav"&gt;&lt;/div&gt;
+		&lt;a class="mw-jump-link" href="#mw-head"&gt;Hoppa till navigering&lt;/a&gt;
+		&lt;a class="mw-jump-link" href="#searchInput"&gt;Hoppa till sök&lt;/a&gt;
+		&lt;div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="sv" dir="ltr"&gt;&lt;div class="mw-parser-output"&gt;&lt;p&gt;&lt;span class="template-saknad_betydelse"&gt;&lt;a href="/wiki/Kategori:Wiktionary:Saknad_betydelse" title="en prata på svenska: substantiv"&gt;&lt;img alt="en prata på svenska: substantiv" src="//upload.wikimedia.org/wikipedia/commons/1/16/Icons-mini-comment_new.gif" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"&gt;&lt;input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /&gt;&lt;div class="toctitle" lang="sv" dir="ltr"&gt;&lt;h2 id="mw-toc-heading"&gt;Innehåll&lt;/h2&gt;&lt;span class="toctogglespan"&gt;&lt;label class="toctogglelabel" for="toctogglecheckbox"&gt;&lt;/label&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-1 tocsection-1"&gt;&lt;a href="#Svenska"&gt;&lt;span class="tocnumber"&gt;1&lt;/span&gt; &lt;span class="toctext"&gt;Svenska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-2"&gt;&lt;a href="#Verb"&gt;&lt;span class="tocnumber"&gt;1.1&lt;/span&gt; &lt;span class="toctext"&gt;Verb&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-3 tocsection-3"&gt;&lt;a href="#Översättningar"&gt;&lt;span class="tocnumber"&gt;1.1.1&lt;/span&gt; &lt;span class="toctext"&gt;Översättningar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-4"&gt;&lt;a href="#Bokmål"&gt;&lt;span class="tocnumber"&gt;2&lt;/span&gt; &lt;span class="toctext"&gt;Bokmål&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-5"&gt;&lt;a href="#Verb_2"&gt;&lt;span class="tocnumber"&gt;2.1&lt;/span&gt; &lt;span class="toctext"&gt;Verb&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-6"&gt;&lt;a href="#Portugisiska"&gt;&lt;span class="tocnumber"&gt;3&lt;/span&gt; &lt;span class="toctext"&gt;Portugisiska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-7"&gt;&lt;a href="#Substantiv"&gt;&lt;span class="tocnumber"&gt;3.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Verb"&gt;Verb&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Verb"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+
+&amp;#32;
+
+&lt;table class="grammar template-sv-verb-ar" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;prata&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th&gt;Aktiv
+&lt;/th&gt;
+&lt;th&gt;Passiv
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Infinitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;prata&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratas" title="pratas"&gt;pratas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratar" title="pratar"&gt;pratar&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratas" title="pratas"&gt;pratas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Preteritum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratade" title="pratade"&gt;pratade&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratades" title="pratades"&gt;pratades&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Supinum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratat" title="pratat"&gt;pratat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/pratats" title="pratats"&gt;pratats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Imperativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a class="mw-selflink selflink"&gt;prata&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;–
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="3"&gt;Particip
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;span class="prespart-"&gt;&lt;a href="/wiki/pratande" title="pratande"&gt;pratande&lt;/a&gt;, &lt;a href="/wiki/pratandes" title="pratandes"&gt;pratandes&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Perfekt
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;b&gt;(&lt;/b&gt;&lt;span class="perfpart-"&gt;&lt;a href="/wiki/pratad" title="pratad"&gt;pratad&lt;/a&gt;&lt;/span&gt;&lt;b&gt;)&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="3"&gt;
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;
+&lt;td colspan="3" class="note"&gt;&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;th&gt;Not:&lt;/th&gt;
+&lt;td&gt;
+&lt;div&gt;Perfektparticip existerar med tillhörande partikel.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;prata&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;producera &lt;a href="/wiki/ljud" title="ljud"&gt;ljud&lt;/a&gt; av &lt;a href="/wiki/ord" title="ord"&gt;ord&lt;/a&gt;, ofta i &lt;a href="/wiki/kommunikation" title="kommunikation"&gt;kommunikationssyfte&lt;/a&gt; mellan &lt;a href="/wiki/m%C3%A4nniska" title="människa"&gt;människor&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;– Jag vill &lt;b&gt;prata&lt;/b&gt; med dig en stund. – Vad vill du &lt;b&gt;prata&lt;/b&gt; om?&lt;/i&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/tala" title="tala"&gt;tala&lt;/a&gt;, &lt;a href="/wiki/spr%C3%A5ka" title="språka"&gt;språka&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;(&lt;a href="/wiki/Appendix:Stilniv%C3%A5er#Vardagligt" title="Appendix:Stilnivåer"&gt;vardagligt&lt;/a&gt;)&lt;/i&gt;  kunna tala &lt;i&gt;ett visst specifierat språk&lt;/i&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Jag &lt;b&gt;pratar&lt;/b&gt; svenska, engelska och lite spanska.&lt;/i&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/tala" title="tala"&gt;tala&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;img alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" decoding="async" title="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." width="222" height="18" data-file-width="222" data-file-height="18" /&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/prat" title="prat"&gt;prat&lt;/a&gt;, &lt;a href="/wiki/pratig" title="pratig"&gt;pratig&lt;/a&gt;, &lt;a href="/wiki/pratsam" title="pratsam"&gt;pratsam&lt;/a&gt;, &lt;a href="/wiki/sm%C3%A5prata" title="småprata"&gt;småprata&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-fraser"&gt;&lt;em title="Begrepp som består av flera ord"&gt;Fraser:&lt;/em&gt; &lt;a href="/wiki/prata_av_sig" class="mw-redirect" title="prata av sig"&gt;prata av sig&lt;/a&gt;, &lt;a href="/w/index.php?title=prata_p%C3%A5&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="prata på (inte skapad ännu)"&gt;prata på&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;
+&lt;h4&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;producera ljud av ord&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="prate"&gt;&lt;a href="/wiki/prate#Bokmål" title="prate"&gt;prate&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://no.wiktionary.org/wiki/prate" class="extiw" title="no:prate"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;bosniska: &lt;span class="ö" data-lang="bs" data-title="govoriti"&gt;&lt;a href="/wiki/govoriti#Bosniska" title="govoriti"&gt;govoriti&lt;/a&gt;&lt;/span&gt;, &lt;span class="ö" data-lang="bs" data-title="pričati"&gt;&lt;a href="/wiki/pri%C4%8Dati#Bosniska" title="pričati"&gt;pričati&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="talk"&gt;&lt;a href="/wiki/talk#Engelska" title="talk"&gt;talk&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/talk" class="extiw" title="en:talk"&gt;(en)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="en" data-title="speak"&gt;&lt;a href="/wiki/speak#Engelska" title="speak"&gt;speak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/speak" class="extiw" title="en:speak"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="puhua"&gt;&lt;a href="/wiki/puhua#Finska" title="puhua"&gt;puhua&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fi.wiktionary.org/wiki/puhua" class="extiw" title="fi:puhua"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="parler"&gt;&lt;a href="/wiki/parler#Franska" title="parler"&gt;parler&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/parler" class="extiw" title="fr:parler"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="parlare"&gt;&lt;a href="/wiki/parlare#Italienska" title="parlare"&gt;parlare&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://it.wiktionary.org/wiki/parlare" class="extiw" title="it:parlare"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;kvänska: &lt;span class="ö" data-lang="fkv" data-title="praatata"&gt;&lt;a href="/wiki/praatata#Kvänska" title="praatata"&gt;praatata&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="praten"&gt;&lt;a href="/w/index.php?title=praten&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="praten (inte skapad ännu)"&gt;praten&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://nl.wiktionary.org/wiki/praten" class="extiw" title="nl:praten"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nordsamiska: &lt;span class="ö" data-lang="se" data-title="hállat"&gt;&lt;a href="/wiki/h%C3%A1llat#Nordsamiska" title="hállat"&gt;hállat&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://se.wiktionary.org/wiki/h%C3%A1llat" class="extiw" title="se:hállat"&gt;(se)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="se" data-title="hupmat"&gt;&lt;a href="/wiki/hupmat#Nordsamiska" title="hupmat"&gt;hupmat&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://se.wiktionary.org/wiki/hupmat" class="extiw" title="se:hupmat"&gt;(se)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="se" data-title="hoallat"&gt;&lt;a href="/wiki/hoallat#Nordsamiska" title="hoallat"&gt;hoallat&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://se.wiktionary.org/wiki/hoallat" class="extiw" title="se:hoallat"&gt;(se)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nynorska: &lt;span class="ö" data-lang="nn" data-title="prate"&gt;&lt;a href="/wiki/prate#Nynorska" title="prate"&gt;prate&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="mówić"&gt;&lt;a href="/wiki/m%C3%B3wi%C4%87#Polska" title="mówić"&gt;mówić&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/m%C3%B3wi%C4%87" class="extiw" title="pl:mówić"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="falar"&gt;&lt;a href="/wiki/falar#Portugisiska" title="falar"&gt;falar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/falar" class="extiw" title="pt:falar"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="говорить"&gt;&lt;a href="/wiki/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C#Ryska" title="говорить"&gt;говорить&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C" class="extiw" title="ru:говорить"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="ru" data-title="разговаривать"&gt;&lt;a href="/wiki/%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D1%8C#Ryska" title="разговаривать"&gt;разговаривать&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D1%8C" class="extiw" title="ru:разговаривать"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="hablar"&gt;&lt;a href="/wiki/hablar#Spanska" title="hablar"&gt;hablar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://es.wiktionary.org/wiki/hablar" class="extiw" title="es:hablar"&gt;(es)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="es" data-title="decir"&gt;&lt;a href="/wiki/decir#Spanska" title="decir"&gt;decir&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://es.wiktionary.org/wiki/decir" class="extiw" title="es:decir"&gt;(es)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="konuşmak"&gt;&lt;a href="/w/index.php?title=konu%C5%9Fmak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="konuşmak (inte skapad ännu)"&gt;konuşmak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://tr.wiktionary.org/wiki/konu%C5%9Fmak" class="extiw" title="tr:konuşmak"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="sprechen"&gt;&lt;a href="/wiki/sprechen#Tyska" title="sprechen"&gt;sprechen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/sprechen" class="extiw" title="de:sprechen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="de" data-title="reden"&gt;&lt;a href="/wiki/reden#Tyska" title="reden"&gt;reden&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/reden" class="extiw" title="de:reden"&gt;(de)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="de" data-title="plaudern"&gt;&lt;a href="/wiki/plaudern#Tyska" title="plaudern"&gt;plaudern&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/plaudern" class="extiw" title="de:plaudern"&gt;(de)&lt;/a&gt;&lt;/sup&gt;, &lt;i&gt;sich&lt;/i&gt; &lt;span class="ö" data-lang="de" data-title="unterhalten"&gt;&lt;a href="/wiki/unterhalten#Tyska" title="unterhalten"&gt;unterhalten&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/unterhalten" class="extiw" title="de:unterhalten"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;kunna tala&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="snakke"&gt;&lt;a href="/wiki/snakke#Bokmål" title="snakke"&gt;snakke&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://no.wiktionary.org/wiki/snakke" class="extiw" title="no:snakke"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;bosniska: &lt;span class="ö" data-lang="bs" data-title="govoriti"&gt;&lt;a href="/wiki/govoriti#Bosniska" title="govoriti"&gt;govoriti&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="speak"&gt;&lt;a href="/wiki/speak#Engelska" title="speak"&gt;speak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/speak" class="extiw" title="en:speak"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="parler"&gt;&lt;a href="/wiki/parler#Franska" title="parler"&gt;parler&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/parler" class="extiw" title="fr:parler"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nordsamiska: &lt;span class="ö" data-lang="se" data-title="hállat"&gt;&lt;a href="/wiki/h%C3%A1llat#Nordsamiska" title="hállat"&gt;hállat&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://se.wiktionary.org/wiki/h%C3%A1llat" class="extiw" title="se:hállat"&gt;(se)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nynorska: &lt;span class="ö" data-lang="nn" data-title="snakke"&gt;&lt;a href="/wiki/snakke#Nynorska" title="snakke"&gt;snakke&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;nederländska &lt;span class="ö" data-lang="nl" data-title="spreken"&gt;&lt;a href="/w/index.php?title=spreken&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="spreken (inte skapad ännu)"&gt;spreken&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="falar"&gt;&lt;a href="/wiki/falar#Portugisiska" title="falar"&gt;falar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/falar" class="extiw" title="pt:falar"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="pt" data-title="conversar"&gt;&lt;a href="/w/index.php?title=conversar&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="conversar (inte skapad ännu)"&gt;conversar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/conversar" class="extiw" title="pt:conversar"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="hablar"&gt;&lt;a href="/wiki/hablar#Spanska" title="hablar"&gt;hablar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://es.wiktionary.org/wiki/hablar" class="extiw" title="es:hablar"&gt;(es)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="konuşmak"&gt;&lt;a href="/w/index.php?title=konu%C5%9Fmak&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="konuşmak (inte skapad ännu)"&gt;konuşmak&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://tr.wiktionary.org/wiki/konu%C5%9Fmak" class="extiw" title="tr:konuşmak"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="tr" data-title="bilmek"&gt;&lt;a href="/w/index.php?title=bilmek&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="bilmek (inte skapad ännu)"&gt;bilmek&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://tr.wiktionary.org/wiki/bilmek" class="extiw" title="tr:bilmek"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="sprechen"&gt;&lt;a href="/wiki/sprechen#Tyska" title="sprechen"&gt;sprechen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/sprechen" class="extiw" title="de:sprechen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;span id="Bokm.C3.A5l"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Bokmål"&gt;Bokmål&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=4" title="Redigera avsnitt Bokmål"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Verb_2"&gt;Verb&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=5" title="Redigera avsnitt Verb"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;prata&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;i style="color:#6B5A40"&gt;böjningsform av&lt;/i&gt; &lt;a href="/wiki/prate#Bokmål" title="prate"&gt;prate&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h2&gt;&lt;span class="mw-headline" id="Portugisiska"&gt;Portugisiska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=6" title="Redigera avsnitt Portugisiska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit&amp;amp;section=7" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;prata&lt;/b&gt; &amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/silver" title="silver"&gt;silver&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- 
+NewPP limit report
+Parsed by mw1306
+Cached time: 20211114191604
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.329 seconds
+Real time usage: 0.396 seconds
+Preprocessor visited node count: 3764/1000000
+Post‐expand include size: 13705/2097152 bytes
+Template argument size: 3214/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 4028522/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  344.176      1 -total
+ 30.56%  105.176     31 Mall:ö+
+ 27.42%   94.359      1 Mall:sv-verb-ar
+ 16.17%   55.664     38 Mall:länk
+ 11.96%   41.166      1 Mall:saknad_betydelse
+  9.17%   31.551     31 Mall:sidnamn
+  6.16%   21.191      1 Mall:tagg
+  5.20%   17.895      7 Mall:länka
+  5.06%   17.424      1 Mall:böjning
+  4.97%   17.106      7 Mall:ö
+--&gt;
+
+&lt;!-- Saved in parser cache with key svwiktionary:pcache:idhash:21628-0!canonical and timestamp 20211114191604 and revision id 3466847. Serialized with JSON.
+ --&gt;
+
+&lt;!-- 
+NewPP limit report
+Parsed by mw1306
+Cached time: 20211114191604
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.329 seconds
+Real time usage: 0.396 seconds
+Preprocessor visited node count: 3764/1000000
+Post‐expand include size: 13705/2097152 bytes
+Template argument size: 3214/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 4028522/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  344.176      1 -total
+ 30.56%  105.176     31 Mall:ö+
+ 27.42%   94.359      1 Mall:sv-verb-ar
+ 16.17%   55.664     38 Mall:länk
+ 11.96%   41.166      1 Mall:saknad_betydelse
+  9.17%   31.551     31 Mall:sidnamn
+  6.16%   21.191      1 Mall:tagg
+  5.20%   17.895      7 Mall:länka
+  5.06%   17.424      1 Mall:böjning
+  4.97%   17.106      7 Mall:ö
+--&gt;
+&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;
+&lt;div class="printfooter"&gt;Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=prata&amp;amp;oldid=3466847"&gt;https://sv.wiktionary.org/w/index.php?title=prata&amp;amp;oldid=3466847&lt;/a&gt;"&lt;/div&gt;&lt;/div&gt;
+		&lt;div id="catlinks" class="catlinks" data-mw="interface"&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;&lt;a href="/wiki/Special:Kategorier" title="Special:Kategorier"&gt;Kategorier&lt;/a&gt;: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Wiktionary:Saknad_betydelse/Svenska" title="Kategori:Wiktionary:Saknad betydelse/Svenska"&gt;Wiktionary:Saknad betydelse/Svenska&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Verb" title="Kategori:Svenska/Verb"&gt;Svenska/Verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/F%C3%B6rsta_konjugationens_verb" title="Kategori:Svenska/Första konjugationens verb"&gt;Svenska/Första konjugationens verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Vardagligt" title="Kategori:Svenska/Vardagligt"&gt;Svenska/Vardagligt&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Bokm%C3%A5l/Verbformer" title="Kategori:Bokmål/Verbformer"&gt;Bokmål/Verbformer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Portugisiska/Substantiv" title="Kategori:Portugisiska/Substantiv"&gt;Portugisiska/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden"&gt;Dolda kategorier: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Wiktionary:Saknad_betydelse" title="Kategori:Wiktionary:Saknad betydelse"&gt;Wiktionary:Saknad betydelse&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Alla_uppslag" title="Kategori:Svenska/Alla uppslag"&gt;Svenska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Portugisiska/Alla_uppslag" title="Kategori:Portugisiska/Alla uppslag"&gt;Portugisiska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="mw-navigation"&gt;
+	&lt;h2&gt;Navigeringsmeny&lt;/h2&gt;
+	&lt;div id="mw-head"&gt;
+		&lt;nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-personal-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Personliga verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="pt-anonuserpage" class="mw-list-item"&gt;&lt;span&gt;Inte inloggad&lt;/span&gt;&lt;/li&gt;&lt;li id="pt-anontalk" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Min_diskussion" title="Diskussion om redigeringar från det här IP-numret [n]" accesskey="n"&gt;&lt;span&gt;Diskussion för detta IP&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-anoncontribs" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Mina_bidrag" title="En lista över redigeringar från denna IP-adress [y]" accesskey="y"&gt;&lt;span&gt;Bidrag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-createaccount" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Skapa_konto&amp;amp;returnto=prata" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt"&gt;&lt;span&gt;Skapa konto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-login" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=prata" title="Du uppmuntras att logga in, men det är inget krav [o]" accesskey="o"&gt;&lt;span&gt;Logga in&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;div id="left-navigation"&gt;
+			&lt;nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Namnrymder&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-nstab-main" class="selected mw-list-item"&gt;&lt;a href="/wiki/prata" title="Visa innehållssidan [c]" accesskey="c"&gt;&lt;span&gt;Uppslag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-talk" class="new mw-list-item"&gt;&lt;a href="/w/index.php?title=Diskussion:prata&amp;amp;action=edit&amp;amp;redlink=1" rel="discussion" title="Diskussion om innehållssidan (inte skapad ännu) [t]" accesskey="t"&gt;&lt;span&gt;Diskussion&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" /&gt;
+	&lt;h3 id="p-variants-label" aria-label="Ändra språkvariant" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Varianter&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;/div&gt;
+		&lt;div id="right-navigation"&gt;
+			&lt;nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-views-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Visningar&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-view" class="selected mw-list-item"&gt;&lt;a href="/wiki/prata"&gt;&lt;span&gt;Läs&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-edit" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=edit" title="Redigera denna sida [e]" accesskey="e"&gt;&lt;span&gt;Redigera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-history" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=history" title="Tidigare versioner av sidan [h]" accesskey="h"&gt;&lt;span&gt;Visa historik&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Fler alternativ"
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" /&gt;
+	&lt;h3 id="p-cactions-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Mer&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;div id="p-search" role="search" class=" vector-search-box"&gt;
+	&lt;div&gt;
+			&lt;h3 &gt;
+				&lt;label for="searchInput"&gt;Sök&lt;/label&gt;
+			&lt;/h3&gt;
+		&lt;form action="/w/index.php" id="searchform"
+			class="vector-search-box-form"&gt;
+			&lt;div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation"&gt;
+				&lt;input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Sök på Wiktionary" aria-label="Sök på Wiktionary" autocapitalize="none" title="Sök på Wiktionary [f]" accesskey="f" id="searchInput"
+				/&gt;
+				&lt;input type="hidden" name="title" value="Special:Sök"/&gt;
+				&lt;input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Sök efter sidor som innehåller denna text" value="Sök" /&gt;
+				&lt;input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Gå till sidan med exakt detta namn om den finns" value="Gå till" /&gt;
+			&lt;/div&gt;
+		&lt;/form&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+&lt;div id="mw-panel"&gt;
+	&lt;div id="p-logo" role="banner"&gt;
+		&lt;a class="mw-wiki-logo" href="/wiki/Wiktionary:Huvudsida"
+			title="Besök huvudsidan"&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-navigation-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Navigering&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-mainpage-description" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Huvudsida" title="Besök huvudsidan [z]" accesskey="z"&gt;&lt;span&gt;Huvudsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-appendix" class="mw-list-item"&gt;&lt;a href="/wiki/Appendix:Index" title="Lista över appendix"&gt;&lt;span&gt;Appendix&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-kategorier" class="mw-list-item"&gt;&lt;a href="/wiki/Kategori:Index" title="Bläddra bland kategorier"&gt;&lt;span&gt;Kategorier&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-randompage" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Slumpsida" title="Gå till en slumpmässigt vald sida [x]" accesskey="x"&gt;&lt;span&gt;Slumpsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-sitesupport" class="mw-list-item"&gt;&lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv" title="Stöd oss"&gt;&lt;span&gt;Stöd Wiktionary&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-deltagande" class="mw-portlet mw-portlet-deltagande vector-menu vector-menu-portal portal" aria-labelledby="p-deltagande-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-deltagande-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Deltagande&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-portal" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Deltagarportalen" title="Om projektet, vad du kan göra, var man kan hitta saker"&gt;&lt;span&gt;Deltagarportalen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-bybrunnen" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Bybrunnen" title="Central diskussions- och nyhetssida [b]" accesskey="b"&gt;&lt;span&gt;Bybrunnen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-stilguide" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Stilguide" title="Information om sidornas struktur och innehåll"&gt;&lt;span&gt;Stilguide&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-recentchanges" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_%C3%A4ndringar" title="Lista över de senaste ändringarna på wikin [r]" accesskey="r"&gt;&lt;span&gt;Senaste ändringarna&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-projekt" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Projekt" title="Projekt för att förbättra kvalitet och omfång för Wiktionarys uppslag"&gt;&lt;span&gt;Projekt&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-mallar" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Mallar" title="Lista över mallar och beskrivning av hur de används"&gt;&lt;span&gt;Mallar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-upload-commons" class="mw-list-item"&gt;&lt;a href="/wiki/Hj%C3%A4lp:Ladda_upp_filer" title="Ladda upp bilder och andra mediafiler"&gt;&lt;span&gt;Ladda upp fil&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-tb-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="t-whatlinkshere" class="mw-list-item"&gt;&lt;a href="/wiki/Special:L%C3%A4nkar_hit/prata" title="Lista över alla wikisidor som länkar hit [j]" accesskey="j"&gt;&lt;span&gt;Vad som länkar hit&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-recentchangeslinked" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_relaterade_%C3%A4ndringar/prata" rel="nofollow" title="Visa senaste ändringarna av sidor som den här sidan länkar till [k]" accesskey="k"&gt;&lt;span&gt;Relaterade ändringar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-specialpages" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Specialsidor" title="Lista över alla specialsidor [q]" accesskey="q"&gt;&lt;span&gt;Specialsidor&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-permalink" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=prata&amp;amp;oldid=3466847" title="Permanent länk till den här versionen av sidan"&gt;&lt;span&gt;Permanent länk&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-info" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=prata&amp;amp;action=info" title="Mer information om denna sida"&gt;&lt;span&gt;Sidinformation&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-cite" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Citera&amp;amp;page=prata&amp;amp;id=3466847&amp;amp;wpFormIdentifier=titleform" title="Information om hur den här artikeln kan användas som referens"&gt;&lt;span&gt;Använd som referens&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Skriv ut/exportera&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="coll-create_a_book" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Bok&amp;amp;bookcmd=book_creator&amp;amp;referer=prata"&gt;&lt;span&gt;Skapa en bok&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="coll-download-as-rl" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:DownloadAsPdf&amp;amp;page=prata&amp;amp;action=show-download-screen"&gt;&lt;span&gt;Ladda ner som PDF&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-print" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=prata&amp;amp;printable=yes" title="Utskriftsvänlig version av den här sidan [p]" accesskey="p"&gt;&lt;span&gt;Utskriftsvänlig version&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-lang-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;På andra språk&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li class="interlanguage-link interwiki-ast mw-list-item"&gt;&lt;a href="https://ast.wiktionary.org/wiki/prata" title="prata - asturiska" lang="ast" hreflang="ast" class="interlanguage-link-target"&gt;&lt;span&gt;Asturianu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-az mw-list-item"&gt;&lt;a href="https://az.wiktionary.org/wiki/prata" title="prata - azerbajdzjanska" lang="az" hreflang="az" class="interlanguage-link-target"&gt;&lt;span&gt;Azərbaycanca&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-id mw-list-item"&gt;&lt;a href="https://id.wiktionary.org/wiki/prata" title="prata - indonesiska" lang="id" hreflang="id" class="interlanguage-link-target"&gt;&lt;span&gt;Bahasa Indonesia&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-bs mw-list-item"&gt;&lt;a href="https://bs.wiktionary.org/wiki/prata" title="prata - bosniska" lang="bs" hreflang="bs" class="interlanguage-link-target"&gt;&lt;span&gt;Bosanski&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-br mw-list-item"&gt;&lt;a href="https://br.wiktionary.org/wiki/prata" title="prata - bretonska" lang="br" hreflang="br" class="interlanguage-link-target"&gt;&lt;span&gt;Brezhoneg&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ca mw-list-item"&gt;&lt;a href="https://ca.wiktionary.org/wiki/prata" title="prata - katalanska" lang="ca" hreflang="ca" class="interlanguage-link-target"&gt;&lt;span&gt;Català&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-cs mw-list-item"&gt;&lt;a href="https://cs.wiktionary.org/wiki/prata" title="prata - tjeckiska" lang="cs" hreflang="cs" class="interlanguage-link-target"&gt;&lt;span&gt;Čeština&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-cy mw-list-item"&gt;&lt;a href="https://cy.wiktionary.org/wiki/prata" title="prata - walesiska" lang="cy" hreflang="cy" class="interlanguage-link-target"&gt;&lt;span&gt;Cymraeg&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-da mw-list-item"&gt;&lt;a href="https://da.wiktionary.org/wiki/prata" title="prata - danska" lang="da" hreflang="da" class="interlanguage-link-target"&gt;&lt;span&gt;Dansk&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-de mw-list-item"&gt;&lt;a href="https://de.wiktionary.org/wiki/prata" title="prata - tyska" lang="de" hreflang="de" class="interlanguage-link-target"&gt;&lt;span&gt;Deutsch&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-et mw-list-item"&gt;&lt;a href="https://et.wiktionary.org/wiki/prata" title="prata - estniska" lang="et" hreflang="et" class="interlanguage-link-target"&gt;&lt;span&gt;Eesti&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-en mw-list-item"&gt;&lt;a href="https://en.wiktionary.org/wiki/prata" title="prata - engelska" lang="en" hreflang="en" class="interlanguage-link-target"&gt;&lt;span&gt;English&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-es mw-list-item"&gt;&lt;a href="https://es.wiktionary.org/wiki/prata" title="prata - spanska" lang="es" hreflang="es" class="interlanguage-link-target"&gt;&lt;span&gt;Español&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eo mw-list-item"&gt;&lt;a href="https://eo.wiktionary.org/wiki/prata" title="prata - esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"&gt;&lt;span&gt;Esperanto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eu mw-list-item"&gt;&lt;a href="https://eu.wiktionary.org/wiki/prata" title="prata - baskiska" lang="eu" hreflang="eu" class="interlanguage-link-target"&gt;&lt;span&gt;Euskara&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fr mw-list-item"&gt;&lt;a href="https://fr.wiktionary.org/wiki/prata" title="prata - franska" lang="fr" hreflang="fr" class="interlanguage-link-target"&gt;&lt;span&gt;Français&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-gl mw-list-item"&gt;&lt;a href="https://gl.wiktionary.org/wiki/prata" title="prata - galiciska" lang="gl" hreflang="gl" class="interlanguage-link-target"&gt;&lt;span&gt;Galego&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-io mw-list-item"&gt;&lt;a href="https://io.wiktionary.org/wiki/prata" title="prata - ido" lang="io" hreflang="io" class="interlanguage-link-target"&gt;&lt;span&gt;Ido&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-it mw-list-item"&gt;&lt;a href="https://it.wiktionary.org/wiki/prata" title="prata - italienska" lang="it" hreflang="it" class="interlanguage-link-target"&gt;&lt;span&gt;Italiano&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-jv mw-list-item"&gt;&lt;a href="https://jv.wiktionary.org/wiki/prata" title="prata - javanesiska" lang="jv" hreflang="jv" class="interlanguage-link-target"&gt;&lt;span&gt;Jawa&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ku mw-list-item"&gt;&lt;a href="https://ku.wiktionary.org/wiki/prata" title="prata - kurdiska" lang="ku" hreflang="ku" class="interlanguage-link-target"&gt;&lt;span&gt;Kurdî&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lv mw-list-item"&gt;&lt;a href="https://lv.wiktionary.org/wiki/prata" title="prata - lettiska" lang="lv" hreflang="lv" class="interlanguage-link-target"&gt;&lt;span&gt;Latviešu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lt mw-list-item"&gt;&lt;a href="https://lt.wiktionary.org/wiki/prata" title="prata - litauiska" lang="lt" hreflang="lt" class="interlanguage-link-target"&gt;&lt;span&gt;Lietuvių&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-li mw-list-item"&gt;&lt;a href="https://li.wiktionary.org/wiki/prata" title="prata - limburgiska" lang="li" hreflang="li" class="interlanguage-link-target"&gt;&lt;span&gt;Limburgs&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-hu mw-list-item"&gt;&lt;a href="https://hu.wiktionary.org/wiki/prata" title="prata - ungerska" lang="hu" hreflang="hu" class="interlanguage-link-target"&gt;&lt;span&gt;Magyar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-mg mw-list-item"&gt;&lt;a href="https://mg.wiktionary.org/wiki/prata" title="prata - malagassiska" lang="mg" hreflang="mg" class="interlanguage-link-target"&gt;&lt;span&gt;Malagasy&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fj mw-list-item"&gt;&lt;a href="https://fj.wiktionary.org/wiki/prata" title="prata - fijianska" lang="fj" hreflang="fj" class="interlanguage-link-target"&gt;&lt;span&gt;Na Vosa Vakaviti&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nl mw-list-item"&gt;&lt;a href="https://nl.wiktionary.org/wiki/prata" title="prata - nederländska" lang="nl" hreflang="nl" class="interlanguage-link-target"&gt;&lt;span&gt;Nederlands&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nn mw-list-item"&gt;&lt;a href="https://nn.wiktionary.org/wiki/prata" title="prata - nynorska" lang="nn" hreflang="nn" class="interlanguage-link-target"&gt;&lt;span&gt;Norsk nynorsk&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-uz mw-list-item"&gt;&lt;a href="https://uz.wiktionary.org/wiki/prata" title="prata - uzbekiska" lang="uz" hreflang="uz" class="interlanguage-link-target"&gt;&lt;span&gt;Oʻzbekcha/ўзбекча&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pl mw-list-item"&gt;&lt;a href="https://pl.wiktionary.org/wiki/prata" title="prata - polska" lang="pl" hreflang="pl" class="interlanguage-link-target"&gt;&lt;span&gt;Polski&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pt mw-list-item"&gt;&lt;a href="https://pt.wiktionary.org/wiki/prata" title="prata - portugisiska" lang="pt" hreflang="pt" class="interlanguage-link-target"&gt;&lt;span&gt;Português&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ro mw-list-item"&gt;&lt;a href="https://ro.wiktionary.org/wiki/prata" title="prata - rumänska" lang="ro" hreflang="ro" class="interlanguage-link-target"&gt;&lt;span&gt;Română&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fi mw-list-item"&gt;&lt;a href="https://fi.wiktionary.org/wiki/prata" title="prata - finska" lang="fi" hreflang="fi" class="interlanguage-link-target"&gt;&lt;span&gt;Suomi&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-tr mw-list-item"&gt;&lt;a href="https://tr.wiktionary.org/wiki/prata" title="prata - turkiska" lang="tr" hreflang="tr" class="interlanguage-link-target"&gt;&lt;span&gt;Türkçe&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-vo mw-list-item"&gt;&lt;a href="https://vo.wiktionary.org/wiki/prata" title="prata - volapük" lang="vo" hreflang="vo" class="interlanguage-link-target"&gt;&lt;span&gt;Volapük&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-be mw-list-item"&gt;&lt;a href="https://be.wiktionary.org/wiki/prata" title="prata - vitryska" lang="be" hreflang="be" class="interlanguage-link-target"&gt;&lt;span&gt;Беларуская&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ru mw-list-item"&gt;&lt;a href="https://ru.wiktionary.org/wiki/prata" title="prata - ryska" lang="ru" hreflang="ru" class="interlanguage-link-target"&gt;&lt;span&gt;Русский&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sr mw-list-item"&gt;&lt;a href="https://sr.wiktionary.org/wiki/prata" title="prata - serbiska" lang="sr" hreflang="sr" class="interlanguage-link-target"&gt;&lt;span&gt;Српски / srpski&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-hy mw-list-item"&gt;&lt;a href="https://hy.wiktionary.org/wiki/prata" title="prata - armeniska" lang="hy" hreflang="hy" class="interlanguage-link-target"&gt;&lt;span&gt;Հայերեն&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-kn mw-list-item"&gt;&lt;a href="https://kn.wiktionary.org/wiki/prata" title="prata - kannada" lang="kn" hreflang="kn" class="interlanguage-link-target"&gt;&lt;span&gt;ಕನ್ನಡ&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lo mw-list-item"&gt;&lt;a href="https://lo.wiktionary.org/wiki/prata" title="prata - laotiska" lang="lo" hreflang="lo" class="interlanguage-link-target"&gt;&lt;span&gt;ລາວ&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ka mw-list-item"&gt;&lt;a href="https://ka.wiktionary.org/wiki/prata" title="prata - georgiska" lang="ka" hreflang="ka" class="interlanguage-link-target"&gt;&lt;span&gt;ქართული&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-zh mw-list-item"&gt;&lt;a href="https://zh.wiktionary.org/wiki/prata" title="prata - kinesiska" lang="zh" hreflang="zh" class="interlanguage-link-target"&gt;&lt;span&gt;中文&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ja mw-list-item"&gt;&lt;a href="https://ja.wiktionary.org/wiki/prata" title="prata - japanska" lang="ja" hreflang="ja" class="interlanguage-link-target"&gt;&lt;span&gt;日本語&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ko mw-list-item"&gt;&lt;a href="https://ko.wiktionary.org/wiki/prata" title="prata - koreanska" lang="ko" hreflang="ko" class="interlanguage-link-target"&gt;&lt;span&gt;한국어&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;footer id="footer" class="mw-footer" role="contentinfo" &gt;
+	&lt;ul id="footer-info"&gt;
+	&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 30 december 2020 kl. 20.44.&lt;/li&gt;
+	&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-places"&gt;
+	&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-mobileview"&gt;&lt;a href="//sv.m.wiktionary.org/w/index.php?title=prata&amp;amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle"&gt;Mobil vy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-icons" class="noprint"&gt;
+	&lt;li id="footer-copyrightico"&gt;&lt;a href="https://wikimediafoundation.org/"&gt;&lt;img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-poweredbyico"&gt;&lt;a href="https://www.mediawiki.org/"&gt;&lt;img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/footer&gt;
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.329","walltime":"0.396","ppvisitednodes":{"value":3764,"limit":1000000},"postexpandincludesize":{"value":13705,"limit":2097152},"templateargumentsize":{"value":3214,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  344.176      1 -total"," 30.56%  105.176     31 Mall:ö+"," 27.42%   94.359      1 Mall:sv-verb-ar"," 16.17%   55.664     38 Mall:länk"," 11.96%   41.166      1 Mall:saknad_betydelse","  9.17%   31.551     31 Mall:sidnamn","  6.16%   21.191      1 Mall:tagg","  5.20%   17.895      7 Mall:länka","  5.06%   17.424      1 Mall:böjning","  4.97%   17.106      7 Mall:ö"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":4028522,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20211114191604","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1411"});});&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
   <data name="Springa" xml:space="preserve">
     <value>&lt;!DOCTYPE html&gt;
 &lt;html class="client-nojs" lang="sv" dir="ltr"&gt;

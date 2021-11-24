@@ -160,5 +160,29 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             result.Should().BeEquivalentTo(expected);
         }
+
+        [Test]
+        public async Task ParseFromHtmlAsync_GivenPrataHtmlString_ReturnsCorrectResult()
+        {
+            // Given
+            var expected = new WordResult
+            {
+                Substantive = null,
+                Verb = new VerbResult
+                {
+                    Infinitiv = "prata",
+                    Presens = "pratar",
+                    Preteritum = "pratade",
+                    Supinum = "pratat",
+                    Imperativ = "prata"
+                }
+            };
+
+            // When
+            var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Prata, CancellationToken.None);
+
+            // Then
+            result.Should().BeEquivalentTo(expected);
+        }
     }
 }

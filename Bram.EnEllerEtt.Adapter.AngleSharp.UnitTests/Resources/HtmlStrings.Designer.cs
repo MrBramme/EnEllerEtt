@@ -121,6 +121,20 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests.Resources {
         ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
         ///&lt;head&gt;
         ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
+        ///&lt;title&gt;prata - Wiktionary&lt;/title&gt;
+        ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:false,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;56743b98-1ba1-4a00-a003-317b40fa81cd&quot;,&quot;wgCSPN [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Prata {
+            get {
+                return ResourceManager.GetString("Prata", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+        ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
+        ///&lt;head&gt;
+        ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
         ///&lt;title&gt;springa - Wiktionary&lt;/title&gt;
         ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:false,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;58f32d0f-f2ff-493f-a989-3ed34dbf17dc&quot;,&quot;wgCS [rest of string was truncated]&quot;;.
         /// </summary>

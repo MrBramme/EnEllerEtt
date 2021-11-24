@@ -19,13 +19,16 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
             var isSubstantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
             if (isSubstantiv)
             {
-                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-subst")));
-                var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
+                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-subst"))).ToList();
+                if (grammarTables.Any())
+                {
+                    var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
-                var typeOfWord = ParseTypeOfWord(grammarTable);
-                var words = ParseWordList(grammarTable);
+                    var typeOfWord = ParseTypeOfWord(grammarTable);
+                    var words = ParseWordList(grammarTable);
 
-                result.Substantive = SubstantiveResultMapper.ToSubstantiveResult(typeOfWord, words.ToArray());
+                    result.Substantive = SubstantiveResultMapper.ToSubstantiveResult(typeOfWord, words.ToArray());
+                }
             }
             var isVerb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
             if (isVerb)
