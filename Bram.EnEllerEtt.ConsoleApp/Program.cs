@@ -44,7 +44,7 @@ namespace Bram.EnEllerEtt.ConsoleApp
                 try
                 {
                     var result = await wordLookupService.GetResultForWordAsync(word, CancellationToken.None);
-                    Console.WriteLine(result.Substantive.ToString());
+                    Console.WriteLine(result.ToString());
                     Console.WriteLine();
                 }
                 catch (Exception e)

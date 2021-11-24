@@ -2,9 +2,9 @@
 
 namespace Bram.EnEllerEtt.Core.Interface.Exceptions
 {
-    public class WordResultMapperException : Exception
+    public class VerbResultMapperException : Exception
     {
-        public WordResultMapperException(string message, Exception innerException)
+        public VerbResultMapperException(string message, Exception innerException)
             : base(message, innerException)
         {
         }

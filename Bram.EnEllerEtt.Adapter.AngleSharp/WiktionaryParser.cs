@@ -2,9 +2,7 @@
 using AngleSharp.Dom;
 using Bram.EnEllerEtt.Adapter.AngleSharp.Mapper;
 using Bram.EnEllerEtt.Core.Interface.Adapters;
-using Bram.EnEllerEtt.Core.Interface.Exceptions;
 using Bram.EnEllerEtt.Core.Interface.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -17,7 +15,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
         public async Task<WordResult> ParseFromHtmlAsync(string html, CancellationToken ct)
         {
             var document = await GetDocumentFromHtmlString(html, ct);
-
+            var result = new WordResult();
             var isSubstantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
             if (isSubstantiv)
             {
@@ -25,21 +23,21 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
                 var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
                 var typeOfWord = ParseTypeOfWord(grammarTable);
-                var words = ParseWordConjugations(grammarTable);
+                var words = ParseWordList(grammarTable);
 
-                return WordResultMapper.ToWordResult(typeOfWord, words.ToArray());
+                result.Substantive = SubstantiveResultMapper.ToSubstantiveResult(typeOfWord, words.ToArray());
             }
             var isVerb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
             if (isVerb)
             {
-                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-verb")));
-                throw new NotImplementedException();
+                var grammarTable = document.All.First(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-verb")));
+                var words = ParseWordList(grammarTable);
+                result.Verb = VerbResultMapper.ToVerbResult(words.ToArray());
             }
-            throw new WordNotFoundException("Could not parse HTML content");
-
+            return result;
         }
 
-        private static IEnumerable<string> ParseWordConjugations(IElement grammarTable)
+        private static IEnumerable<string> ParseWordList(IElement grammarTable)
         {
             var cssSelectorForWords = "table>tbody>tr>td>span>a";
             var words = grammarTable.QuerySelectorAll(cssSelectorForWords).Select(c => c.TextContent);

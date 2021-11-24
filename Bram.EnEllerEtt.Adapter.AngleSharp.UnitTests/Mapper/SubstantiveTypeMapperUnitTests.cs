@@ -6,7 +6,7 @@ using System;
 
 namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
 {
-    public class WordTypeMapperUnitTests
+    public class SubstantiveTypeMapperUnitTests
     {
         [TestCase("utrum", SubstantiveType.En)]
         [TestCase("UTRUM", SubstantiveType.En)]

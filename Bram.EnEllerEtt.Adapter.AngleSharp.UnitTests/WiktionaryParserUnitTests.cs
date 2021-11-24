@@ -98,5 +98,16 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             result.Should().BeEquivalentTo(expected);
         }
+
+        [Test]
+        public async Task test()
+        {
+            // Given
+
+            // When
+            var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Gäspa, CancellationToken.None);
+
+            // Then
+        }
     }
 }
