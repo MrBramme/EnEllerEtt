@@ -2,7 +2,9 @@
 using AngleSharp.Dom;
 using Bram.EnEllerEtt.Adapter.AngleSharp.Mapper;
 using Bram.EnEllerEtt.Core.Interface.Adapters;
+using Bram.EnEllerEtt.Core.Interface.Exceptions;
 using Bram.EnEllerEtt.Core.Interface.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -16,16 +18,24 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
         {
             var document = await GetDocumentFromHtmlString(html, ct);
 
-            var substantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
-            var verb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
+            var isSubstantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
+            if (isSubstantiv)
+            {
+                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
+                var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
-            var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
-            var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
+                var typeOfWord = ParseTypeOfWord(grammarTable);
+                var words = ParseWordConjugations(grammarTable);
 
-            var typeOfWord = ParseTypeOfWord(grammarTable);
-            var words = ParseWordConjugations(grammarTable);
+                return WordResultMapper.ToWordResult(typeOfWord, words.ToArray());
+            }
+            var isVerb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
+            if (isVerb)
+            {
+                throw new NotImplementedException();
+            }
+            throw new WordNotFoundException("Could not parse HTML content");
 
-            return WordResultMapper.ToWordResult(typeOfWord, words.ToArray());
         }
 
         private static IEnumerable<string> ParseWordConjugations(IElement grammarTable)
