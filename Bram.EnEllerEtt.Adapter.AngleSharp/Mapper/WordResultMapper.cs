@@ -6,13 +6,13 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
 {
     public static class WordResultMapper
     {
-        public static WordResult ToWordResult(string type, string[] conjugations)
+        public static WordResult ToWordResult(string substantivType, string[] conjugations)
         {
             try
             {
                 var result = new WordResult
                 {
-                    WordType = WordTypeMapper.FromString(type),
+                    SubstantiveType = SubstantiveTypeMapper.FromString(substantivType),
                     SingleNominativObestamd = conjugations[0],
                     SingleNominativBestamd = conjugations[1],
                     PluralNominativObestamd = conjugations[2],

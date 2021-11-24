@@ -2,7 +2,7 @@
 {
     public class WordResult
     {
-        public WordType WordType { get; set; }
+        public SubstantiveType SubstantiveType { get; set; }
         public string SingleNominativObestamd { get; set; }
         public string SingleNominativBestamd { get; set; }
         public string PluralNominativObestamd { get; set; }

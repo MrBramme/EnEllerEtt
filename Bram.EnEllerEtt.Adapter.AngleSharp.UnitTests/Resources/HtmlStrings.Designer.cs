@@ -93,12 +93,40 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests.Resources {
         ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
         ///&lt;head&gt;
         ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
+        ///&lt;title&gt;gäspa - Wiktionary&lt;/title&gt;
+        ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:false,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;e821990a-2960-4b96-8a8f-c1d9824c6e3a&quot;,&quot;wgCSPN [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Gäspa {
+            get {
+                return ResourceManager.GetString("Gäspa", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+        ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
+        ///&lt;head&gt;
+        ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
         ///&lt;title&gt;mat - Wiktionary&lt;/title&gt;
         ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:!1,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;25dc6445-7628-4b3e-9296-06fb680b94f6&quot;,&quot;wgCSPNonce&quot; [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Mat {
             get {
                 return ResourceManager.GetString("Mat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+        ///&lt;html class=&quot;client-nojs&quot; lang=&quot;sv&quot; dir=&quot;ltr&quot;&gt;
+        ///&lt;head&gt;
+        ///&lt;meta charset=&quot;UTF-8&quot;/&gt;
+        ///&lt;title&gt;springa - Wiktionary&lt;/title&gt;
+        ///&lt;script&gt;document.documentElement.className=&quot;client-js&quot;;RLCONF={&quot;wgBreakFrames&quot;:false,&quot;wgSeparatorTransformTable&quot;:[&quot;,\t.&quot;,&quot; \t,&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;dmy&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;januari&quot;,&quot;februari&quot;,&quot;mars&quot;,&quot;april&quot;,&quot;maj&quot;,&quot;juni&quot;,&quot;juli&quot;,&quot;augusti&quot;,&quot;september&quot;,&quot;oktober&quot;,&quot;november&quot;,&quot;december&quot;],&quot;wgRequestId&quot;:&quot;58f32d0f-f2ff-493f-a989-3ed34dbf17dc&quot;,&quot;wgCS [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Springa {
+            get {
+                return ResourceManager.GetString("Springa", resourceCulture);
             }
         }
     }

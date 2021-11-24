@@ -1000,6 +1000,454 @@ Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarv
 &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1373"});});&lt;/script&gt;
 &lt;/body&gt;&lt;/html&gt;</value>
   </data>
+  <data name="Gäspa" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;gäspa - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"e821990a-2960-4b96-8a8f-c1d9824c6e3a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"gäspa","wgTitle":"gäspa","wgCurRevisionId":3611319,"wgRevisionId":3611319,"wgArticleId":22725,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Svenska/Alla uppslag","Wiktionary:uttal/Använder mallen","Svenska/Verb som saknar perfektparticip","Svenska/Verb","Svenska/Första konjugationens verb","Svenska/Fysiologi"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"gäspa","wgRelevantArticleId":22725,
+"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":1000,"wgNoticeProject":"wiktionary","wgULSCurrentAutonym":"svenska","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site",
+"mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.translation_editor","ext.gadget.translation_editor_add_section","ext.gadget.editorwarnings","ext.gadget.green_links","ext.gadget.redirect_cross-reference","ext.gadget.WikipediaSearchResult","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=vector"&gt;&lt;/script&gt;
+&lt;meta name="ResourceLoaderDynamicStyles" content=""/&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=site.styles&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;meta name="generator" content="MediaWiki 1.38.0-wmf.9"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;meta name="format-detection" content="telephone=no"/&gt;
+&lt;meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/ed/Rat%2C_yawning.jpg"/&gt;
+&lt;meta property="og:image:width" content="1200"/&gt;
+&lt;meta property="og:image:height" content="658"/&gt;
+&lt;meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rat%2C_yawning.jpg/800px-Rat%2C_yawning.jpg"/&gt;
+&lt;meta property="og:image:width" content="800"/&gt;
+&lt;meta property="og:image:height" content="439"/&gt;
+&lt;meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rat%2C_yawning.jpg/640px-Rat%2C_yawning.jpg"/&gt;
+&lt;meta property="og:image:width" content="640"/&gt;
+&lt;meta property="og:image:height" content="351"/&gt;
+&lt;meta property="og:title" content="gäspa - Wiktionary"/&gt;
+&lt;meta property="og:type" content="website"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wiktionary.org/wiki/g%C3%A4spa"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=g%C3%A4spa&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/g%C3%A4spa"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-gäspa rootpage-gäspa skin-vector action-view skin-vector-legacy"&gt;&lt;div id="mw-page-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="mw-head-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="content" class="mw-body" role="main"&gt;
+	&lt;a id="top"&gt;&lt;/a&gt;
+	&lt;div id="siteNotice"&gt;&lt;!-- CentralNotice --&gt;&lt;/div&gt;
+	&lt;div class="mw-indicators"&gt;
+	&lt;/div&gt;
+	&lt;h1 id="firstHeading" class="firstHeading" &gt;gäspa&lt;/h1&gt;
+	&lt;div id="bodyContent" class="vector-body"&gt;
+		&lt;div id="siteSub" class="noprint"&gt;Definition från Wiktionary, den fria ordlistan.&lt;/div&gt;
+		&lt;div id="contentSub"&gt;&lt;/div&gt;
+		&lt;div id="contentSub2"&gt;&lt;/div&gt;
+		
+		&lt;div id="jump-to-nav"&gt;&lt;/div&gt;
+		&lt;a class="mw-jump-link" href="#mw-head"&gt;Hoppa till navigering&lt;/a&gt;
+		&lt;a class="mw-jump-link" href="#searchInput"&gt;Hoppa till sök&lt;/a&gt;
+		&lt;div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="sv" dir="ltr"&gt;&lt;div class="mw-parser-output"&gt;&lt;div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #F9F9F5; width: 250px; padding:4px; spacing: 0px; text-align: left; float: right;"&gt;
+&lt;div style="float: left;"&gt;&lt;div class="floatnone"&gt;&lt;a href="/wiki/Fil:Wikipedia-logo-v2.svg" class="image"&gt;&lt;img alt="Wikipedia-logo-v2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" decoding="async" width="40" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style="margin-left: 60px;"&gt;&lt;a href="https://sv.wikipedia.org/wiki/Main_Page" class="extiw" title="w:Main Page"&gt;Wikipedia&lt;/a&gt; har en artikel om:&lt;br /&gt; &lt;span style="font-size:1.1em"&gt;&lt;i&gt;&lt;b&gt;&lt;a href="https://sv.wikipedia.org/wiki/G%C3%A4spa" class="extiw" title="w:Gäspa"&gt;gäspa&lt;/a&gt;&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Verb"&gt;Verb&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Verb"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-sv-verb-ar" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;gäspa&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th&gt;Aktiv
+&lt;/th&gt;
+&lt;th&gt;Passiv
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Infinitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;gäspa&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spas" title="gäspas"&gt;gäspas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spar" title="gäspar"&gt;gäspar&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spas" title="gäspas"&gt;gäspas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Preteritum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spade" title="gäspade"&gt;gäspade&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spades" title="gäspades"&gt;gäspades&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Supinum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spat" title="gäspat"&gt;gäspat&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/g%C3%A4spats" title="gäspats"&gt;gäspats&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Imperativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a class="mw-selflink selflink"&gt;gäspa&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;–
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="3"&gt;Particip
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;span class="prespart-"&gt;&lt;a href="/wiki/g%C3%A4spande" title="gäspande"&gt;gäspande&lt;/a&gt;, &lt;a href="/wiki/g%C3%A4spandes" title="gäspandes"&gt;gäspandes&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Perfekt
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;span class="perfpart-"&gt;–&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="3"&gt;
+&lt;/th&gt;&lt;/tr&gt;
+
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;gäspa&lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="/wiki/Wiktionary:Stilguide/Uttal" title="Wiktionary:Stilguide/Uttal"&gt;uttal&lt;/a&gt;:&lt;/b&gt;&amp;#160;'jäs:,pa&lt;/li&gt;&lt;/ul&gt;
+&lt;ol&gt;&lt;li&gt;&lt;i&gt;(fysiologi)&lt;/i&gt;  (&lt;i&gt;om djur&lt;/i&gt;) &lt;a href="/wiki/%C3%B6ppna" title="öppna"&gt;öppna&lt;/a&gt; &lt;a href="/wiki/mun" title="mun"&gt;munnen&lt;/a&gt; fullständigt och &lt;a href="/wiki/andas" title="andas"&gt;andas&lt;/a&gt; in (vanligtvis på grund av trötthet)
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Hon &lt;b&gt;gäspade&lt;/b&gt; hela kvällen.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:222px;"&gt;&lt;a href="/wiki/Fil:Rat,_yawning.jpg" class="image"&gt;&lt;img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rat%2C_yawning.jpg/220px-Rat%2C_yawning.jpg" decoding="async" width="220" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rat%2C_yawning.jpg/330px-Rat%2C_yawning.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rat%2C_yawning.jpg/440px-Rat%2C_yawning.jpg 2x" data-file-width="1083" data-file-height="594" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/Fil:Rat,_yawning.jpg" class="internal" title="Förstora"&gt;&lt;/a&gt;&lt;/div&gt;&amp;#32;gäspande tamråtta&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;öppna munnen och andas in&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;armeniska: &lt;span class="ö" data-lang="hy" data-title="հորանջել"&gt;&lt;a href="/w/index.php?title=%D5%B0%D5%B8%D6%80%D5%A1%D5%B6%D5%BB%D5%A5%D5%AC&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="հորանջել (inte skapad ännu)"&gt;հորանջել&lt;/a&gt;&lt;/span&gt; (horandzjel)&lt;/li&gt;
+&lt;li&gt;bokmål: &lt;span class="ö" data-lang="no" data-title="gjespe"&gt;&lt;a href="/wiki/gjespe#Bokmål" title="gjespe"&gt;gjespe&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://no.wiktionary.org/wiki/gjespe" class="extiw" title="no:gjespe"&gt;(no)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;bosniska: &lt;span class="ö" data-lang="bs" data-title="zijevati"&gt;&lt;a href="/w/index.php?title=zijevati&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="zijevati (inte skapad ännu)"&gt;zijevati&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;danska: &lt;span class="ö" data-lang="da" data-title="gabe"&gt;&lt;a href="/w/index.php?title=gabe&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="gabe (inte skapad ännu)"&gt;gabe&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="yawn"&gt;&lt;a href="/wiki/yawn#Engelska" title="yawn"&gt;yawn&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/yawn" class="extiw" title="en:yawn"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;esperanto: &lt;span class="ö" data-lang="eo" data-title="oscedi"&gt;&lt;a href="/w/index.php?title=oscedi&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="oscedi (inte skapad ännu)"&gt;oscedi&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="haukotella"&gt;&lt;a href="/wiki/haukotella#Finska" title="haukotella"&gt;haukotella&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="bâiller"&gt;&lt;a href="/wiki/b%C3%A2iller#Franska" title="bâiller"&gt;bâiller&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/b%C3%A2iller" class="extiw" title="fr:bâiller"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;grekiska: &lt;span class="ö" data-lang="el" data-title="χασμουριέμαι"&gt;&lt;a href="/w/index.php?title=%CF%87%CE%B1%CF%83%CE%BC%CE%BF%CF%85%CF%81%CE%B9%CE%AD%CE%BC%CE%B1%CE%B9&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="χασμουριέμαι (inte skapad ännu)"&gt;χασμουριέμαι&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://el.wiktionary.org/wiki/%CF%87%CE%B1%CF%83%CE%BC%CE%BF%CF%85%CF%81%CE%B9%CE%AD%CE%BC%CE%B1%CE%B9" class="extiw" title="el:χασμουριέμαι"&gt;(el)&lt;/a&gt;&lt;/sup&gt; (chasmouriémai)&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="geispa"&gt;&lt;a href="/wiki/geispa#Isländska" title="geispa"&gt;geispa&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://is.wiktionary.org/wiki/geispa" class="extiw" title="is:geispa"&gt;(is)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="sbadigliare"&gt;&lt;a href="/w/index.php?title=sbadigliare&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="sbadigliare (inte skapad ännu)"&gt;sbadigliare&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://it.wiktionary.org/wiki/sbadigliare" class="extiw" title="it:sbadigliare"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;katalanska: &lt;span class="ö" data-lang="ca" data-title="badallar"&gt;&lt;a href="/w/index.php?title=badallar&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="badallar (inte skapad ännu)"&gt;badallar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ca.wiktionary.org/wiki/badallar" class="extiw" title="ca:badallar"&gt;(ca)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="geeuwen"&gt;&lt;a href="/w/index.php?title=geeuwen&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="geeuwen (inte skapad ännu)"&gt;geeuwen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://nl.wiktionary.org/wiki/geeuwen" class="extiw" title="nl:geeuwen"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nynorska: &lt;span class="ö" data-lang="nn" data-title="gjespe"&gt;&lt;a href="/wiki/gjespe#Nynorska" title="gjespe"&gt;gjespe&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="ziewać"&gt;&lt;a href="/wiki/ziewa%C4%87#Polska" title="ziewać"&gt;ziewać&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/ziewa%C4%87" class="extiw" title="pl:ziewać"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="bocejar"&gt;&lt;a href="/w/index.php?title=bocejar&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="bocejar (inte skapad ännu)"&gt;bocejar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/bocejar" class="extiw" title="pt:bocejar"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;spanska: &lt;span class="ö" data-lang="es" data-title="bostezar"&gt;&lt;a href="/wiki/bostezar#Spanska" title="bostezar"&gt;bostezar&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://es.wiktionary.org/wiki/bostezar" class="extiw" title="es:bostezar"&gt;(es)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;thai: &lt;span class="ö" data-lang="th" data-title="หาว"&gt;&lt;a href="/w/index.php?title=%E0%B8%AB%E0%B8%B2%E0%B8%A7&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="หาว (inte skapad ännu)"&gt;หาว&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://th.wiktionary.org/wiki/%E0%B8%AB%E0%B8%B2%E0%B8%A7" class="extiw" title="th:หาว"&gt;(th)&lt;/a&gt;&lt;/sup&gt; (hăao)&lt;/li&gt;
+&lt;li&gt;turkiska: &lt;span class="ö" data-lang="tr" data-title="esnemek"&gt;&lt;a href="/w/index.php?title=esnemek&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="esnemek (inte skapad ännu)"&gt;esnemek&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://tr.wiktionary.org/wiki/esnemek" class="extiw" title="tr:esnemek"&gt;(tr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="gähnen"&gt;&lt;a href="/wiki/g%C3%A4hnen#Tyska" title="gähnen"&gt;gähnen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/g%C3%A4hnen" class="extiw" title="de:gähnen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ungerska: &lt;span class="ö" data-lang="hu" data-title="ásít"&gt;&lt;a href="/w/index.php?title=%C3%A1s%C3%ADt&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="ásít (inte skapad ännu)"&gt;ásít&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://hu.wiktionary.org/wiki/%C3%A1s%C3%ADt" class="extiw" title="hu:ásít"&gt;(hu)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20211114191920
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.279 seconds
+Real time usage: 0.341 seconds
+Preprocessor visited node count: 2194/1000000
+Post‐expand include size: 9015/2097152 bytes
+Template argument size: 1926/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3166347/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.846      1 -total
+ 35.07%  106.203      1 Mall:sv-verb-ar
+ 25.39%   76.888     15 Mall:ö+
+ 16.70%   50.561     21 Mall:länk
+ 12.74%   38.572      1 Mall:wikipedia
+ 12.00%   36.347      3 Mall:giltigt_sidnamn
+ 11.63%   35.218      1 Mall:systerprojekt
+ 10.73%   32.488      6 Mall:ö
+  8.20%   24.839     15 Mall:sidnamn
+  7.45%   22.555      1 Mall:tagg
+--&gt;
+
+&lt;!-- Saved in parser cache with key svwiktionary:pcache:idhash:22725-0!canonical and timestamp 20211114191920 and revision id 3611319. Serialized with JSON.
+ --&gt;
+
+&lt;!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20211114191920
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.279 seconds
+Real time usage: 0.341 seconds
+Preprocessor visited node count: 2194/1000000
+Post‐expand include size: 9015/2097152 bytes
+Template argument size: 1926/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3166347/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.846      1 -total
+ 35.07%  106.203      1 Mall:sv-verb-ar
+ 25.39%   76.888     15 Mall:ö+
+ 16.70%   50.561     21 Mall:länk
+ 12.74%   38.572      1 Mall:wikipedia
+ 12.00%   36.347      3 Mall:giltigt_sidnamn
+ 11.63%   35.218      1 Mall:systerprojekt
+ 10.73%   32.488      6 Mall:ö
+  8.20%   24.839     15 Mall:sidnamn
+  7.45%   22.555      1 Mall:tagg
+--&gt;
+&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;
+&lt;div class="printfooter"&gt;Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=gäspa&amp;amp;oldid=3611319"&gt;https://sv.wiktionary.org/w/index.php?title=gäspa&amp;amp;oldid=3611319&lt;/a&gt;"&lt;/div&gt;&lt;/div&gt;
+		&lt;div id="catlinks" class="catlinks" data-mw="interface"&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;&lt;a href="/wiki/Special:Kategorier" title="Special:Kategorier"&gt;Kategorier&lt;/a&gt;: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Verb_som_saknar_perfektparticip" title="Kategori:Svenska/Verb som saknar perfektparticip"&gt;Svenska/Verb som saknar perfektparticip&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Verb" title="Kategori:Svenska/Verb"&gt;Svenska/Verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/F%C3%B6rsta_konjugationens_verb" title="Kategori:Svenska/Första konjugationens verb"&gt;Svenska/Första konjugationens verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Fysiologi" title="Kategori:Svenska/Fysiologi"&gt;Svenska/Fysiologi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden"&gt;Dolda kategorier: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Alla_uppslag" title="Kategori:Svenska/Alla uppslag"&gt;Svenska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Wiktionary:uttal/Anv%C3%A4nder_mallen" title="Kategori:Wiktionary:uttal/Använder mallen"&gt;Wiktionary:uttal/Använder mallen&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="mw-navigation"&gt;
+	&lt;h2&gt;Navigeringsmeny&lt;/h2&gt;
+	&lt;div id="mw-head"&gt;
+		&lt;nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-personal-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Personliga verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="pt-anonuserpage" class="mw-list-item"&gt;&lt;span&gt;Inte inloggad&lt;/span&gt;&lt;/li&gt;&lt;li id="pt-anontalk" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Min_diskussion" title="Diskussion om redigeringar från det här IP-numret [n]" accesskey="n"&gt;&lt;span&gt;Diskussion för detta IP&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-anoncontribs" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Mina_bidrag" title="En lista över redigeringar från denna IP-adress [y]" accesskey="y"&gt;&lt;span&gt;Bidrag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-createaccount" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Skapa_konto&amp;amp;returnto=g%C3%A4spa" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt"&gt;&lt;span&gt;Skapa konto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-login" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=g%C3%A4spa" title="Du uppmuntras att logga in, men det är inget krav [o]" accesskey="o"&gt;&lt;span&gt;Logga in&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;div id="left-navigation"&gt;
+			&lt;nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Namnrymder&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-nstab-main" class="selected mw-list-item"&gt;&lt;a href="/wiki/g%C3%A4spa" title="Visa innehållssidan [c]" accesskey="c"&gt;&lt;span&gt;Uppslag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-talk" class="new mw-list-item"&gt;&lt;a href="/w/index.php?title=Diskussion:g%C3%A4spa&amp;amp;action=edit&amp;amp;redlink=1" rel="discussion" title="Diskussion om innehållssidan (inte skapad ännu) [t]" accesskey="t"&gt;&lt;span&gt;Diskussion&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" /&gt;
+	&lt;h3 id="p-variants-label" aria-label="Ändra språkvariant" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Varianter&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;/div&gt;
+		&lt;div id="right-navigation"&gt;
+			&lt;nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-views-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Visningar&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-view" class="selected mw-list-item"&gt;&lt;a href="/wiki/g%C3%A4spa"&gt;&lt;span&gt;Läs&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-edit" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=edit" title="Redigera denna sida [e]" accesskey="e"&gt;&lt;span&gt;Redigera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-history" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=history" title="Tidigare versioner av sidan [h]" accesskey="h"&gt;&lt;span&gt;Visa historik&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Fler alternativ"
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" /&gt;
+	&lt;h3 id="p-cactions-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Mer&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;div id="p-search" role="search" class=" vector-search-box"&gt;
+	&lt;div&gt;
+			&lt;h3 &gt;
+				&lt;label for="searchInput"&gt;Sök&lt;/label&gt;
+			&lt;/h3&gt;
+		&lt;form action="/w/index.php" id="searchform"
+			class="vector-search-box-form"&gt;
+			&lt;div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation"&gt;
+				&lt;input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Sök på Wiktionary" aria-label="Sök på Wiktionary" autocapitalize="none" title="Sök på Wiktionary [f]" accesskey="f" id="searchInput"
+				/&gt;
+				&lt;input type="hidden" name="title" value="Special:Sök"/&gt;
+				&lt;input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Sök efter sidor som innehåller denna text" value="Sök" /&gt;
+				&lt;input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Gå till sidan med exakt detta namn om den finns" value="Gå till" /&gt;
+			&lt;/div&gt;
+		&lt;/form&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+&lt;div id="mw-panel"&gt;
+	&lt;div id="p-logo" role="banner"&gt;
+		&lt;a class="mw-wiki-logo" href="/wiki/Wiktionary:Huvudsida"
+			title="Besök huvudsidan"&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-navigation-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Navigering&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-mainpage-description" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Huvudsida" title="Besök huvudsidan [z]" accesskey="z"&gt;&lt;span&gt;Huvudsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-appendix" class="mw-list-item"&gt;&lt;a href="/wiki/Appendix:Index" title="Lista över appendix"&gt;&lt;span&gt;Appendix&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-kategorier" class="mw-list-item"&gt;&lt;a href="/wiki/Kategori:Index" title="Bläddra bland kategorier"&gt;&lt;span&gt;Kategorier&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-randompage" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Slumpsida" title="Gå till en slumpmässigt vald sida [x]" accesskey="x"&gt;&lt;span&gt;Slumpsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-sitesupport" class="mw-list-item"&gt;&lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv" title="Stöd oss"&gt;&lt;span&gt;Stöd Wiktionary&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-deltagande" class="mw-portlet mw-portlet-deltagande vector-menu vector-menu-portal portal" aria-labelledby="p-deltagande-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-deltagande-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Deltagande&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-portal" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Deltagarportalen" title="Om projektet, vad du kan göra, var man kan hitta saker"&gt;&lt;span&gt;Deltagarportalen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-bybrunnen" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Bybrunnen" title="Central diskussions- och nyhetssida [b]" accesskey="b"&gt;&lt;span&gt;Bybrunnen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-stilguide" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Stilguide" title="Information om sidornas struktur och innehåll"&gt;&lt;span&gt;Stilguide&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-recentchanges" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_%C3%A4ndringar" title="Lista över de senaste ändringarna på wikin [r]" accesskey="r"&gt;&lt;span&gt;Senaste ändringarna&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-projekt" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Projekt" title="Projekt för att förbättra kvalitet och omfång för Wiktionarys uppslag"&gt;&lt;span&gt;Projekt&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-mallar" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Mallar" title="Lista över mallar och beskrivning av hur de används"&gt;&lt;span&gt;Mallar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-upload-commons" class="mw-list-item"&gt;&lt;a href="/wiki/Hj%C3%A4lp:Ladda_upp_filer" title="Ladda upp bilder och andra mediafiler"&gt;&lt;span&gt;Ladda upp fil&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-tb-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="t-whatlinkshere" class="mw-list-item"&gt;&lt;a href="/wiki/Special:L%C3%A4nkar_hit/g%C3%A4spa" title="Lista över alla wikisidor som länkar hit [j]" accesskey="j"&gt;&lt;span&gt;Vad som länkar hit&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-recentchangeslinked" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_relaterade_%C3%A4ndringar/g%C3%A4spa" rel="nofollow" title="Visa senaste ändringarna av sidor som den här sidan länkar till [k]" accesskey="k"&gt;&lt;span&gt;Relaterade ändringar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-specialpages" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Specialsidor" title="Lista över alla specialsidor [q]" accesskey="q"&gt;&lt;span&gt;Specialsidor&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-permalink" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;oldid=3611319" title="Permanent länk till den här versionen av sidan"&gt;&lt;span&gt;Permanent länk&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-info" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;action=info" title="Mer information om denna sida"&gt;&lt;span&gt;Sidinformation&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-cite" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Citera&amp;amp;page=g%C3%A4spa&amp;amp;id=3611319&amp;amp;wpFormIdentifier=titleform" title="Information om hur den här artikeln kan användas som referens"&gt;&lt;span&gt;Använd som referens&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Skriv ut/exportera&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="coll-create_a_book" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Bok&amp;amp;bookcmd=book_creator&amp;amp;referer=g%C3%A4spa"&gt;&lt;span&gt;Skapa en bok&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="coll-download-as-rl" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:DownloadAsPdf&amp;amp;page=g%C3%A4spa&amp;amp;action=show-download-screen"&gt;&lt;span&gt;Ladda ner som PDF&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-print" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=g%C3%A4spa&amp;amp;printable=yes" title="Utskriftsvänlig version av den här sidan [p]" accesskey="p"&gt;&lt;span&gt;Utskriftsvänlig version&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-lang-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;På andra språk&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li class="interlanguage-link interwiki-en mw-list-item"&gt;&lt;a href="https://en.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - engelska" lang="en" hreflang="en" class="interlanguage-link-target"&gt;&lt;span&gt;English&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eo mw-list-item"&gt;&lt;a href="https://eo.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"&gt;&lt;span&gt;Esperanto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fr mw-list-item"&gt;&lt;a href="https://fr.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - franska" lang="fr" hreflang="fr" class="interlanguage-link-target"&gt;&lt;span&gt;Français&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pl mw-list-item"&gt;&lt;a href="https://pl.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - polska" lang="pl" hreflang="pl" class="interlanguage-link-target"&gt;&lt;span&gt;Polski&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fi mw-list-item"&gt;&lt;a href="https://fi.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - finska" lang="fi" hreflang="fi" class="interlanguage-link-target"&gt;&lt;span&gt;Suomi&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-el mw-list-item"&gt;&lt;a href="https://el.wiktionary.org/wiki/g%C3%A4spa" title="gäspa - grekiska" lang="el" hreflang="el" class="interlanguage-link-target"&gt;&lt;span&gt;Ελληνικά&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;footer id="footer" class="mw-footer" role="contentinfo" &gt;
+	&lt;ul id="footer-info"&gt;
+	&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 13 september 2021 kl. 03.23.&lt;/li&gt;
+	&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-places"&gt;
+	&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-mobileview"&gt;&lt;a href="//sv.m.wiktionary.org/w/index.php?title=g%C3%A4spa&amp;amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle"&gt;Mobil vy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-icons" class="noprint"&gt;
+	&lt;li id="footer-copyrightico"&gt;&lt;a href="https://wikimediafoundation.org/"&gt;&lt;img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-poweredbyico"&gt;&lt;a href="https://www.mediawiki.org/"&gt;&lt;img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/footer&gt;
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.279","walltime":"0.341","ppvisitednodes":{"value":2194,"limit":1000000},"postexpandincludesize":{"value":9015,"limit":2097152},"templateargumentsize":{"value":1926,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  302.846      1 -total"," 35.07%  106.203      1 Mall:sv-verb-ar"," 25.39%   76.888     15 Mall:ö+"," 16.70%   50.561     21 Mall:länk"," 12.74%   38.572      1 Mall:wikipedia"," 12.00%   36.347      3 Mall:giltigt_sidnamn"," 11.63%   35.218      1 Mall:systerprojekt"," 10.73%   32.488      6 Mall:ö","  8.20%   24.839     15 Mall:sidnamn","  7.45%   22.555      1 Mall:tagg"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":3166347,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20211114191920","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1405"});});&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
   <data name="Mat" xml:space="preserve">
     <value>&lt;!DOCTYPE html&gt;
 &lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
@@ -1530,5 +1978,587 @@ Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarv
 
 &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.593","ppvisitednodes":{"value":4208,"limit":1000000},"postexpandincludesize":{"value":24605,"limit":2097152},"templateargumentsize":{"value":7449,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  515.269      1 -total"," 17.93%   92.386     25 Mall:ö+"," 16.56%   85.322      1 Mall:sv-subst-n-oräkn"," 11.01%   56.724      1 Mall:sv-subst-n-ar","  9.86%   50.789     34 Mall:länk","  7.88%   40.629      3 Mall:tagg","  7.11%   36.628      1 Mall:wikipedia","  7.04%   36.272     14 Mall:g-cell","  6.98%   35.969      1 Mall:no-subst-oräkn","  6.57%   33.839      1 Mall:sv-subst-n-er"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":5053397,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20201021194130","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1409"});});&lt;/script&gt;
 &lt;/body&gt;&lt;/html&gt;</value>
+  </data>
+  <data name="Springa" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html class="client-nojs" lang="sv" dir="ltr"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"/&gt;
+&lt;title&gt;springa - Wiktionary&lt;/title&gt;
+&lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"58f32d0f-f2ff-493f-a989-3ed34dbf17dc","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"springa","wgTitle":"springa","wgCurRevisionId":3623791,"wgRevisionId":3623791,"wgArticleId":21737,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiktionary:Diskuteras","Svenska/Alla uppslag","Isländska/Alla uppslag","Svenska/Substantiv","Svenska/Verb","Svenska/Andra konjugationens verb","Svenska/Starka verb","Svenska/Fjärde avljudsklassens verb","Svenska/Härledningar från fornsvenska","Isländska/Verb"],"wgPageContentLanguage":"sv",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"springa","wgRelevantArticleId":21737,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":"wiktionary","wgULSCurrentAutonym":"svenska","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.translation_editor","ext.gadget.translation_editor_add_section","ext.gadget.editorwarnings","ext.gadget.green_links","ext.gadget.redirect_cross-reference","ext.gadget.WikipediaSearchResult","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];&lt;/script&gt;
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});&lt;/script&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;script async="" src="/w/load.php?lang=sv&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;raw=1&amp;amp;skin=vector"&gt;&lt;/script&gt;
+&lt;meta name="ResourceLoaderDynamicStyles" content=""/&gt;
+&lt;link rel="stylesheet" href="/w/load.php?lang=sv&amp;amp;modules=site.styles&amp;amp;only=styles&amp;amp;skin=vector"/&gt;
+&lt;meta name="generator" content="MediaWiki 1.38.0-wmf.9"/&gt;
+&lt;meta name="referrer" content="origin"/&gt;
+&lt;meta name="referrer" content="origin-when-crossorigin"/&gt;
+&lt;meta name="referrer" content="origin-when-cross-origin"/&gt;
+&lt;meta name="format-detection" content="telephone=no"/&gt;
+&lt;meta property="og:title" content="springa - Wiktionary"/&gt;
+&lt;meta property="og:type" content="website"/&gt;
+&lt;link rel="preconnect" href="//upload.wikimedia.org"/&gt;
+&lt;link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wiktionary.org/wiki/springa"/&gt;
+&lt;link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=springa&amp;amp;action=edit"/&gt;
+&lt;link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/&gt;
+&lt;link rel="shortcut icon" href="/static/favicon/piece.ico"/&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (sv)"/&gt;
+&lt;link rel="EditURI" type="application/rsd+xml" href="//sv.wiktionary.org/w/api.php?action=rsd"/&gt;
+&lt;link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/&gt;
+&lt;link rel="canonical" href="https://sv.wiktionary.org/wiki/springa"/&gt;
+&lt;link rel="dns-prefetch" href="//meta.wikimedia.org" /&gt;
+&lt;link rel="dns-prefetch" href="//login.wikimedia.org"/&gt;
+&lt;/head&gt;
+&lt;body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-springa rootpage-springa skin-vector action-view skin-vector-legacy"&gt;&lt;div id="mw-page-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="mw-head-base" class="noprint"&gt;&lt;/div&gt;
+&lt;div id="content" class="mw-body" role="main"&gt;
+	&lt;a id="top"&gt;&lt;/a&gt;
+	&lt;div id="siteNotice"&gt;&lt;!-- CentralNotice --&gt;&lt;/div&gt;
+	&lt;div class="mw-indicators"&gt;
+	&lt;/div&gt;
+	&lt;h1 id="firstHeading" class="firstHeading" &gt;springa&lt;/h1&gt;
+	&lt;div id="bodyContent" class="vector-body"&gt;
+		&lt;div id="siteSub" class="noprint"&gt;Definition från Wiktionary, den fria ordlistan.&lt;/div&gt;
+		&lt;div id="contentSub"&gt;&lt;/div&gt;
+		&lt;div id="contentSub2"&gt;&lt;/div&gt;
+		
+		&lt;div id="jump-to-nav"&gt;&lt;/div&gt;
+		&lt;a class="mw-jump-link" href="#mw-head"&gt;Hoppa till navigering&lt;/a&gt;
+		&lt;a class="mw-jump-link" href="#searchInput"&gt;Hoppa till sök&lt;/a&gt;
+		&lt;div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="sv" dir="ltr"&gt;&lt;div class="mw-parser-output"&gt;&lt;div class="message_header"&gt;&lt;b&gt;Kvalitetskontroll – diskussion&lt;/b&gt; &lt;a href="/wiki/Kategori:Wiktionary:Diskuteras" title="Kategori:Wiktionary:Diskuteras"&gt;&amp;#8594;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="message_content"&gt;&lt;i&gt;På diskussionssidan finns en pågående eller oavslutad diskussion som rör detta uppslag.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Motivering&lt;/i&gt;: angående definitionen av verbet springa&lt;/div&gt;
+&lt;div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"&gt;&lt;input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /&gt;&lt;div class="toctitle" lang="sv" dir="ltr"&gt;&lt;h2 id="mw-toc-heading"&gt;Innehåll&lt;/h2&gt;&lt;span class="toctogglespan"&gt;&lt;label class="toctogglelabel" for="toctogglecheckbox"&gt;&lt;/label&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-1 tocsection-1"&gt;&lt;a href="#Svenska"&gt;&lt;span class="tocnumber"&gt;1&lt;/span&gt; &lt;span class="toctext"&gt;Svenska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-2"&gt;&lt;a href="#Substantiv"&gt;&lt;span class="tocnumber"&gt;1.1&lt;/span&gt; &lt;span class="toctext"&gt;Substantiv&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-3 tocsection-3"&gt;&lt;a href="#Översättningar"&gt;&lt;span class="tocnumber"&gt;1.1.1&lt;/span&gt; &lt;span class="toctext"&gt;Översättningar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-2 tocsection-4"&gt;&lt;a href="#Verb"&gt;&lt;span class="tocnumber"&gt;1.2&lt;/span&gt; &lt;span class="toctext"&gt;Verb&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-3 tocsection-5"&gt;&lt;a href="#Fraser"&gt;&lt;span class="tocnumber"&gt;1.2.1&lt;/span&gt; &lt;span class="toctext"&gt;Fraser&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class="toclevel-3 tocsection-6"&gt;&lt;a href="#Översättningar_2"&gt;&lt;span class="tocnumber"&gt;1.2.2&lt;/span&gt; &lt;span class="toctext"&gt;Översättningar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class="toclevel-3 tocsection-7"&gt;&lt;a href="#Jämför"&gt;&lt;span class="tocnumber"&gt;1.2.3&lt;/span&gt; &lt;span class="toctext"&gt;Jämför&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class="toclevel-1 tocsection-8"&gt;&lt;a href="#Isländska"&gt;&lt;span class="tocnumber"&gt;2&lt;/span&gt; &lt;span class="toctext"&gt;Isländska&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li class="toclevel-2 tocsection-9"&gt;&lt;a href="#Verb_2"&gt;&lt;span class="tocnumber"&gt;2.1&lt;/span&gt; &lt;span class="toctext"&gt;Verb&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;&lt;span class="mw-headline" id="Svenska"&gt;Svenska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=1" title="Redigera avsnitt Svenska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Substantiv"&gt;Substantiv&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=2" title="Redigera avsnitt Substantiv"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-sv-subst-n-or" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;springa&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Singular
+&lt;/th&gt;
+&lt;th colspan="2" class="min"&gt;Plural
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="main"&gt;utrum
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;
+&lt;th&gt;Obestämd
+&lt;/th&gt;
+&lt;th&gt;Bestämd
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Nominativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;springa&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springan" title="springan"&gt;springan&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springor" title="springor"&gt;springor&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springorna" title="springorna"&gt;springorna&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springas" title="springas"&gt;springas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springans" title="springans"&gt;springans&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springors" title="springors"&gt;springors&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springornas" title="springornas"&gt;springornas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;springa&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;liten, smal &lt;a href="/wiki/%C3%B6ppning" title="öppning"&gt;öppning&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-sammansättningar"&gt;&lt;em title="Ord som består av flera andra ord"&gt;Sammansättningar:&lt;/em&gt; &lt;a href="/w/index.php?title=d%C3%B6rrspringa&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="dörrspringa (inte skapad ännu)"&gt;dörrspringa&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;(därav härlett)&lt;/i&gt;  det kvinnliga &lt;a href="/wiki/k%C3%B6nsorgan" title="könsorgan"&gt;könsorganet&lt;/a&gt; (&lt;a href="/wiki/vagina" title="vagina"&gt;vagina&lt;/a&gt;, &lt;a href="/wiki/vulva" title="vulva"&gt;vulva&lt;/a&gt;)&lt;/li&gt;&lt;/ol&gt;
+&lt;h4&gt;&lt;span id=".C3.96vers.C3.A4ttningar"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=3" title="Redigera avsnitt Översättningar"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;liten, smal öppning&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="crack"&gt;&lt;a href="/wiki/crack#Engelska" title="crack"&gt;crack&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/crack" class="extiw" title="en:crack"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="fente" data-gender="f"&gt;&lt;a href="/w/index.php?title=fente&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="fente (inte skapad ännu)"&gt;fente&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/fente" class="extiw" title="fr:fente"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;litauiska: &lt;span class="ö" data-lang="lt" data-title="įtrūkimas" data-gender="m"&gt;&lt;a href="/w/index.php?title=%C4%AFtr%C5%ABkimas&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="įtrūkimas (inte skapad ännu)"&gt;įtrūkimas&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="szczelina"&gt;&lt;a href="/w/index.php?title=szczelina&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="szczelina (inte skapad ännu)"&gt;szczelina&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/szczelina" class="extiw" title="pl:szczelina"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="pl" data-title="szpara"&gt;&lt;a href="/w/index.php?title=szpara&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="szpara (inte skapad ännu)"&gt;szpara&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="fresta" data-gender="f"&gt;&lt;a href="/wiki/fresta#Portugisiska" title="fresta"&gt;fresta&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/fresta" class="extiw" title="pt:fresta"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="Sprung" data-gender="m"&gt;&lt;a href="/wiki/Sprung#Tyska" title="Sprung"&gt;Sprung&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/Sprung" class="extiw" title="de:Sprung"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="maskulinum" class="gender"&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="de" data-title="Spalte" data-gender="f"&gt;&lt;a href="/wiki/Spalte#Tyska" title="Spalte"&gt;Spalte&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/Spalte" class="extiw" title="de:Spalte"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;det kvinnliga könsorganet&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="vagina"&gt;&lt;a href="/wiki/vagina#Engelska" title="vagina"&gt;vagina&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/vagina" class="extiw" title="en:vagina"&gt;(en)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="en" data-title="vulva"&gt;&lt;a href="/wiki/vulva#Engelska" title="vulva"&gt;vulva&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/vulva" class="extiw" title="en:vulva"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="fente" data-gender="f"&gt;&lt;a href="/w/index.php?title=fente&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="fente (inte skapad ännu)"&gt;fente&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/fente" class="extiw" title="fr:fente"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="femininum" class="gender"&gt;&lt;i&gt;f&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Verb"&gt;Verb&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=4" title="Redigera avsnitt Verb"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;table class="grammar template-sv-verb-er" cellspacing="0" width="10"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th class="main"&gt;Böjningar&amp;#160;av &lt;i&gt;&lt;a class="mw-selflink selflink"&gt;springa&lt;/a&gt;&amp;#160;&lt;/i&gt;
+&lt;/th&gt;
+&lt;th&gt;Aktiv
+&lt;/th&gt;
+&lt;th&gt;Passiv
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Infinitiv
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-0"&gt;&lt;a class="mw-selflink selflink"&gt;springa&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springas" title="springas"&gt;springas&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springer" title="springer"&gt;springer&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/springs" title="springs"&gt;springs&lt;/a&gt; (&lt;span class="b-"&gt;&lt;a href="/wiki/springes" title="springes"&gt;springes&lt;/a&gt;&lt;/span&gt;)&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Preteritum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/sprang" title="sprang"&gt;sprang&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/sprangs" title="sprangs"&gt;sprangs&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Supinum
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/sprungit" title="sprungit"&gt;sprungit&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/sprungits" title="sprungits"&gt;sprungits&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Imperativ
+&lt;/th&gt;
+&lt;td&gt;&lt;span class="b-"&gt;&lt;a href="/wiki/spring" title="spring"&gt;spring&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;td&gt;–
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="3"&gt;Particip
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Presens
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;span class="prespart-"&gt;&lt;a href="/wiki/springande" title="springande"&gt;springande&lt;/a&gt;, &lt;a href="/wiki/springandes" title="springandes"&gt;springandes&lt;/a&gt;&lt;/span&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th class="min"&gt;Perfekt
+&lt;/th&gt;
+&lt;td colspan="2" class="min"&gt;&lt;span class="perfpart-"&gt;&lt;a href="/wiki/sprungen#Adjektiv" title="sprungen"&gt;sprungen&lt;/a&gt;&lt;/span&gt;
+&lt;p&gt;&amp;#32;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3" class="note"&gt;&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;th&gt;Not:&lt;/th&gt;
+&lt;td&gt;
+&lt;p&gt;även konjunktivformen &lt;a href="/wiki/sprunge" title="sprunge"&gt;sprunge&lt;/a&gt; förekommer
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;springa&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;utföra viss typ av snabba benrörelser som vanligtvis innebär förflyttning i förhållandevis hög hastighet
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Elin &lt;b&gt;sprang&lt;/b&gt; till affären för att köpa en tidning.&lt;/i&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-synonymer"&gt;&lt;em title="Ord med samma betydelse"&gt;Synonymer:&lt;/em&gt; &lt;a href="/wiki/kuta" title="kuta"&gt;kuta&lt;/a&gt;, &lt;a href="/wiki/l%C3%B6pa" title="löpa"&gt;löpa&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/hoppa" title="hoppa"&gt;hoppa&lt;/a&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Han &lt;b&gt;sprang&lt;/b&gt; i kläderna.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;med &lt;a href="/wiki/kraft" title="kraft"&gt;kraft&lt;/a&gt; gå sönder eller bryta fram
+&lt;dl&gt;&lt;dd&gt;&lt;b&gt;1856:&lt;/b&gt; &lt;i&gt;&lt;a href="https://sv.wikipedia.org/wiki/Hertha" class="extiw" title="w:Hertha"&gt;Hertha&lt;/a&gt;&lt;/i&gt;, &lt;a href="https://sv.wikipedia.org/wiki/Fredrika_Bremer" class="extiw" title="w:Fredrika Bremer"&gt;Fredrika Bremer&lt;/a&gt;:
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt; En klar källa &lt;b&gt;sprang&lt;/b&gt; sorlande upp nära vid det höga trädets fot. &lt;/i&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;  &lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;i&gt;Bomben &lt;b&gt;sprang&lt;/b&gt; i luften så att bitarna slungades ut över fältet.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;img alt="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." src="//upload.wikimedia.org/wikipedia/commons/8/83/Hor_barileto_avgraensare_i_222_18_px_trans.png" decoding="async" title="Indragna rader ovanför strecket gäller en särskild definition. Eventuella rader närmast nedan kan gälla en eller flera av definitionerna ovan." width="222" height="18" data-file-width="222" data-file-height="18" /&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-etymologi"&gt;&lt;em title="Ordets ursprung"&gt;Etymologi:&lt;/em&gt; Av&amp;#160;fornsvenska &lt;i&gt;&lt;a href="/wiki/springa#Fornsvenska" title="springa"&gt;springa&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="/w/index.php?title=sprynga&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="sprynga (inte skapad ännu)"&gt;sprynga&lt;/a&gt;&lt;/i&gt;.&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-grammatik" id="grammatik"&gt;&lt;em&gt;Grammatik:&lt;/em&gt; I äldre svenska förekommer även pluralformen &lt;i&gt;&lt;a href="/wiki/sprungo" title="sprungo"&gt;sprungo&lt;/a&gt;&lt;/i&gt;.&lt;/dd&gt;
+&lt;dd&gt;&lt;/dd&gt;&lt;dd class="semantic-relation template-besläktade_ord"&gt;&lt;em title="Relaterade ord med samma ursprung (men som har andra prefix eller suffix, eller är av annan ordklass)"&gt;Besläktade ord:&lt;/em&gt; &lt;a href="/wiki/spr%C3%A5ng" title="språng"&gt;språng&lt;/a&gt;&lt;/dd&gt;&lt;/dl&gt;
+&lt;h4&gt;&lt;span class="mw-headline" id="Fraser"&gt;Fraser&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=5" title="Redigera avsnitt Fraser"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="/w/index.php?title=springa_in&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="springa in (inte skapad ännu)"&gt;springa in&lt;/a&gt; (transitivt: en bana, nya skor)&lt;/li&gt;
+&lt;li&gt;&lt;a href="/w/index.php?title=springa_in_i&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="springa in i (inte skapad ännu)"&gt;springa in i&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/w/index.php?title=springa_p%C3%A5&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="springa på (inte skapad ännu)"&gt;springa på&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h4&gt;&lt;span id=".C3.96vers.C3.A4ttningar_2"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Översättningar_2"&gt;Översättningar&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=6" title="Redigera avsnitt Översättningar"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div class="NavFrame översättningar"&gt;
+&lt;div class="NavHead"&gt;utföra viss typ av snabba benrörelser som vanligtvis innebär förflyttning&lt;/div&gt;
+&lt;div class="NavContent"&gt;
+&lt;div class="ö-content"&gt;
+&lt;ul&gt;&lt;li&gt;azerbajdzjanska: &lt;span class="ö" data-lang="az" data-title="qaçmaq"&gt;&lt;a href="/wiki/qa%C3%A7maq#Azerbajdzjanska" title="qaçmaq"&gt;qaçmaq&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://az.wiktionary.org/wiki/qa%C3%A7maq" class="extiw" title="az:qaçmaq"&gt;(az)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;belarusiska: &lt;span class="ö" data-lang="be" data-title="бе́гчы" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D0%B5%D0%B3%D1%87%D1%8B#Belarusiska" title="бегчы"&gt;бе́гчы&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="be" data-title="пабе́гчы" data-aspect="pf"&gt;&lt;a href="/w/index.php?title=%D0%BF%D0%B0%D0%B1%D0%B5%D0%B3%D1%87%D1%8B&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="пабегчы (inte skapad ännu)"&gt;пабе́гчы&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;bestämda&lt;/small&gt;, &lt;span class="ö" data-lang="be" data-title="бе́гаць" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D0%B5%D0%B3%D0%B0%D1%86%D1%8C#Belarusiska" title="бегаць"&gt;бе́гаць&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="be" data-title="пабе́гаць" data-aspect="pf"&gt;&lt;a href="/w/index.php?title=%D0%BF%D0%B0%D0%B1%D0%B5%D0%B3%D0%B0%D1%86%D1%8C&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="пабегаць (inte skapad ännu)"&gt;пабе́гаць&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;obestämda&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;danska: &lt;span class="ö" data-lang="da" data-title="løbe"&gt;&lt;a href="/wiki/l%C3%B8be#Danska" title="løbe"&gt;løbe&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://da.wiktionary.org/wiki/l%C3%B8be" class="extiw" title="da:løbe"&gt;(da)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;engelska: &lt;span class="ö" data-lang="en" data-title="run"&gt;&lt;a href="/wiki/run#Engelska" title="run"&gt;run&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://en.wiktionary.org/wiki/run" class="extiw" title="en:run"&gt;(en)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;finska: &lt;span class="ö" data-lang="fi" data-title="juosta"&gt;&lt;a href="/wiki/juosta#Finska" title="juosta"&gt;juosta&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fi.wiktionary.org/wiki/juosta" class="extiw" title="fi:juosta"&gt;(fi)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;franska: &lt;span class="ö" data-lang="fr" data-title="courir"&gt;&lt;a href="/wiki/courir#Franska" title="courir"&gt;courir&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://fr.wiktionary.org/wiki/courir" class="extiw" title="fr:courir"&gt;(fr)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;isländska: &lt;span class="ö" data-lang="is" data-title="hlaupa"&gt;&lt;a href="/wiki/hlaupa#Isländska" title="hlaupa"&gt;hlaupa&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://is.wiktionary.org/wiki/hlaupa" class="extiw" title="is:hlaupa"&gt;(is)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;italienska: &lt;span class="ö" data-lang="it" data-title="correre"&gt;&lt;a href="/wiki/correre#Italienska" title="correre"&gt;correre&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://it.wiktionary.org/wiki/correre" class="extiw" title="it:correre"&gt;(it)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;japanska: &lt;span class="ö" data-lang="ja" data-title="走る"&gt;&lt;a href="/wiki/%E8%B5%B0%E3%82%8B#Japanska" title="走る"&gt;走る&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E8%B5%B0%E3%82%8B" class="extiw" title="ja:走る"&gt;(ja)&lt;/a&gt;&lt;/sup&gt; (&lt;span class="ö" data-lang="ja" data-title="はしる"&gt;&lt;a href="/w/index.php?title=%E3%81%AF%E3%81%97%E3%82%8B&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="はしる (inte skapad ännu)"&gt;はしる&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ja.wiktionary.org/wiki/%E3%81%AF%E3%81%97%E3%82%8B" class="extiw" title="ja:はしる"&gt;(ja)&lt;/a&gt;&lt;/sup&gt;, &lt;i&gt;hashiru&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt;litauiska: &lt;span class="ö" data-lang="lt" data-title="bėgti"&gt;&lt;a href="/wiki/b%C4%97gti#Litauiska" title="bėgti"&gt;bėgti&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://lt.wiktionary.org/wiki/b%C4%97gti" class="extiw" title="lt:bėgti"&gt;(lt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;malajiska: &lt;span class="ö" data-lang="ms" data-title="lari"&gt;&lt;a href="/wiki/lari#Malajiska" title="lari"&gt;lari&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ms.wiktionary.org/wiki/lari" class="extiw" title="ms:lari"&gt;(ms)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;nederländska: &lt;span class="ö" data-lang="nl" data-title="rennen"&gt;&lt;a href="/wiki/rennen#Nederländska" title="rennen"&gt;rennen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://nl.wiktionary.org/wiki/rennen" class="extiw" title="nl:rennen"&gt;(nl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;polska: &lt;span class="ö" data-lang="pl" data-title="biec"&gt;&lt;a href="/w/index.php?title=biec&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="biec (inte skapad ännu)"&gt;biec&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pl.wiktionary.org/wiki/biec" class="extiw" title="pl:biec"&gt;(pl)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;portugisiska: &lt;span class="ö" data-lang="pt" data-title="correr"&gt;&lt;a href="/wiki/correr#Portugisiska" title="correr"&gt;correr&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://pt.wiktionary.org/wiki/correr" class="extiw" title="pt:correr"&gt;(pt)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ryska: &lt;span class="ö" data-lang="ru" data-title="бежа́ть" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C#Ryska" title="бежать"&gt;бежа́ть&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C" class="extiw" title="ru:бежать"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="ru" data-title="побежа́ть" data-aspect="pf"&gt;&lt;a href="/w/index.php?title=%D0%BF%D0%BE%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="побежать (inte skapad ännu)"&gt;побежа́ть&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C" class="extiw" title="ru:побежать"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;bestämda&lt;/small&gt;, &lt;span class="ö" data-lang="ru" data-title="бе́гать" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C#Ryska" title="бегать"&gt;бе́гать&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C" class="extiw" title="ru:бегать"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="ru" data-title="побе́гать" data-aspect="pf"&gt;&lt;a href="/wiki/%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C#Ryska" title="побегать"&gt;побе́гать&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C" class="extiw" title="ru:побегать"&gt;(ru)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;obestämda&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;tyska: &lt;span class="ö" data-lang="de" data-title="laufen"&gt;&lt;a href="/wiki/laufen#Tyska" title="laufen"&gt;laufen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/laufen" class="extiw" title="de:laufen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="de" data-title="rennen"&gt;&lt;a href="/wiki/rennen#Tyska" title="rennen"&gt;rennen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/rennen" class="extiw" title="de:rennen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;, &lt;span class="ö" data-lang="de" data-title="springen"&gt;&lt;a href="/wiki/springen#Tyska" title="springen"&gt;springen&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://de.wiktionary.org/wiki/springen" class="extiw" title="de:springen"&gt;(de)&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;ukrainska: &lt;span class="ö" data-lang="uk" data-title="бі́гти" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D1%96%D0%B3%D1%82%D0%B8#Ukrainska" title="бігти"&gt;бі́гти&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://uk.wiktionary.org/wiki/%D0%B1%D1%96%D0%B3%D1%82%D0%B8" class="extiw" title="uk:бігти"&gt;(uk)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="uk" data-title="побі́гти" data-aspect="pf"&gt;&lt;a href="/w/index.php?title=%D0%BF%D0%BE%D0%B1%D1%96%D0%B3%D1%82%D0%B8&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="побігти (inte skapad ännu)"&gt;побі́гти&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;bestämda&lt;/small&gt;, &lt;span class="ö" data-lang="uk" data-title="бі́гати" data-aspect="impf"&gt;&lt;a href="/wiki/%D0%B1%D1%96%D0%B3%D0%B0%D1%82%D0%B8#Ukrainska" title="бігати"&gt;бі́гати&lt;/a&gt;&lt;/span&gt;&lt;sup&gt;&amp;#160;&lt;a href="https://uk.wiktionary.org/wiki/%D0%B1%D1%96%D0%B3%D0%B0%D1%82%D0%B8" class="extiw" title="uk:бігати"&gt;(uk)&lt;/a&gt;&lt;/sup&gt;&amp;#32;&lt;b title="imperfektiv aspekt" class="gender"&gt;&lt;i&gt;impf&lt;/i&gt;&lt;/b&gt;, &lt;span class="ö" data-lang="uk" data-title="побі́гати" data-aspect="pf"&gt;&lt;a href="/w/index.php?title=%D0%BF%D0%BE%D0%B1%D1%96%D0%B3%D0%B0%D1%82%D0%B8&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="побігати (inte skapad ännu)"&gt;побі́гати&lt;/a&gt;&lt;/span&gt;&amp;#32;&lt;b title="perfektiv aspekt" class="gender"&gt;&lt;i&gt;pf&lt;/i&gt;&lt;/b&gt;&amp;#160;&lt;small style="color:#333"&gt;obestämda&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;älvdalska: &lt;span class="ö" data-lang="ovd" data-title="kåyta"&gt;&lt;a href="/wiki/k%C3%A5yta#Älvdalska" title="kåyta"&gt;kåyta&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4&gt;&lt;span id="J.C3.A4mf.C3.B6r"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Jämför"&gt;Jämför&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=7" title="Redigera avsnitt Jämför"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;div style="clear:both;"&gt;
+&lt;div style="margin:0; width:100%; padding:0;"&gt;
+&lt;table style="margin:0 auto 0.3em auto; width:99%; background: #FFFFE0;" cellspacing="0"&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td valign="top" style="background: #FFFFE0;"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/galoppera" title="galoppera"&gt;galoppera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/g%C3%A5" title="gå"&gt;gå&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/hoppa" title="hoppa"&gt;hoppa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/jogga" title="jogga"&gt;jogga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/krypa" title="krypa"&gt;krypa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/kubba" title="kubba"&gt;kubba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/sprinta" title="sprinta"&gt;sprinta&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width="48%" valign="top" style="background: #FFFFE0;"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/lubba" title="lubba"&gt;lubba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/l%C3%B6pa" title="löpa"&gt;löpa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/pinna" title="pinna"&gt;pinna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/schappa" title="schappa"&gt;schappa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/skubba" title="skubba"&gt;skubba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/skutta" title="skutta"&gt;skutta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/rusa" title="rusa"&gt;rusa&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;span id="Isl.C3.A4ndska"&gt;&lt;/span&gt;&lt;span class="mw-headline" id="Isländska"&gt;Isländska&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=8" title="Redigera avsnitt Isländska"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span class="mw-headline" id="Verb_2"&gt;Verb&lt;/span&gt;&lt;span class="mw-editsection"&gt;&lt;span class="mw-editsection-bracket"&gt;[&lt;/span&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit&amp;amp;section=9" title="Redigera avsnitt Verb"&gt;redigera&lt;/a&gt;&lt;span class="mw-editsection-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;springa&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/spricka" title="spricka"&gt;spricka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/explodera" title="explodera"&gt;explodera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/d%C3%B6" title="dö"&gt;dö&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;springa út&lt;/b&gt;
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;a href="/wiki/%C3%B6ppna" title="öppna"&gt;öppna&lt;/a&gt; sig, &lt;a href="/wiki/veckla" title="veckla"&gt;veckla&lt;/a&gt; ut sig, &lt;a href="/wiki/bryta" title="bryta"&gt;bryta&lt;/a&gt; ut
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Vill &lt;b&gt;springa út&lt;/b&gt; úr skel.&lt;/i&gt; - ur &lt;a href="https://sv.wikipedia.org/wiki/Sigur_R%C3%B3s" class="extiw" title="w:Sigur Rós"&gt;Sigur Rós&lt;/a&gt; ”&lt;a href="https://sv.wikipedia.org/wiki/Hopp%C3%ADpolla" class="extiw" title="w:Hoppípolla"&gt;Hoppípolla&lt;/a&gt;”
+&lt;dl&gt;&lt;dd&gt;&lt;i&gt;Vill &lt;b&gt;bryta ut&lt;/b&gt; ur ett skal.&lt;/i&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/wiki/blomma" title="blomma"&gt;blomma&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- 
+NewPP limit report
+Parsed by mw1415
+Cached time: 20211114175800
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.446 seconds
+Real time usage: 0.580 seconds
+Preprocessor visited node count: 4745/1000000
+Post‐expand include size: 22172/2097152 bytes
+Template argument size: 5289/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 4348728/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  510.197      1 -total
+ 28.02%  142.950     32 Mall:ö+
+ 24.71%  126.061      1 Mall:sv-subst-n-or
+ 15.22%   77.635     41 Mall:länk
+ 14.92%   76.118      1 Mall:etymologi
+ 13.62%   69.487      1 Mall:härledning
+  9.23%   47.091      1 Mall:sv-verb-er
+  8.02%   40.915     32 Mall:sidnamn
+  7.68%   39.178     18 Mall:länka-b
+  7.22%   36.835      9 Mall:ö
+--&gt;
+
+&lt;!-- Saved in parser cache with key svwiktionary:pcache:idhash:21737-0!canonical and timestamp 20211114175800 and revision id 3623791. Serialized with JSON.
+ --&gt;
+
+&lt;!-- 
+NewPP limit report
+Parsed by mw1415
+Cached time: 20211114175800
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.446 seconds
+Real time usage: 0.580 seconds
+Preprocessor visited node count: 4745/1000000
+Post‐expand include size: 22172/2097152 bytes
+Template argument size: 5289/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 4348728/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--&gt;
+&lt;!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  510.197      1 -total
+ 28.02%  142.950     32 Mall:ö+
+ 24.71%  126.061      1 Mall:sv-subst-n-or
+ 15.22%   77.635     41 Mall:länk
+ 14.92%   76.118      1 Mall:etymologi
+ 13.62%   69.487      1 Mall:härledning
+  9.23%   47.091      1 Mall:sv-verb-er
+  8.02%   40.915     32 Mall:sidnamn
+  7.68%   39.178     18 Mall:länka-b
+  7.22%   36.835      9 Mall:ö
+--&gt;
+&lt;/div&gt;&lt;noscript&gt;&lt;img src="//sv.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;&lt;/noscript&gt;
+&lt;div class="printfooter"&gt;Hämtad från "&lt;a dir="ltr" href="https://sv.wiktionary.org/w/index.php?title=springa&amp;amp;oldid=3623791"&gt;https://sv.wiktionary.org/w/index.php?title=springa&amp;amp;oldid=3623791&lt;/a&gt;"&lt;/div&gt;&lt;/div&gt;
+		&lt;div id="catlinks" class="catlinks" data-mw="interface"&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;&lt;a href="/wiki/Special:Kategorier" title="Special:Kategorier"&gt;Kategorier&lt;/a&gt;: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Substantiv" title="Kategori:Svenska/Substantiv"&gt;Svenska/Substantiv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Verb" title="Kategori:Svenska/Verb"&gt;Svenska/Verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Andra_konjugationens_verb" title="Kategori:Svenska/Andra konjugationens verb"&gt;Svenska/Andra konjugationens verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Starka_verb" title="Kategori:Svenska/Starka verb"&gt;Svenska/Starka verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Fj%C3%A4rde_avljudsklassens_verb" title="Kategori:Svenska/Fjärde avljudsklassens verb"&gt;Svenska/Fjärde avljudsklassens verb&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/H%C3%A4rledningar_fr%C3%A5n_fornsvenska" title="Kategori:Svenska/Härledningar från fornsvenska"&gt;Svenska/Härledningar från fornsvenska&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Isl%C3%A4ndska/Verb" title="Kategori:Isländska/Verb"&gt;Isländska/Verb&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden"&gt;Dolda kategorier: &lt;ul&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Wiktionary:Diskuteras" title="Kategori:Wiktionary:Diskuteras"&gt;Wiktionary:Diskuteras&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Svenska/Alla_uppslag" title="Kategori:Svenska/Alla uppslag"&gt;Svenska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="/wiki/Kategori:Isl%C3%A4ndska/Alla_uppslag" title="Kategori:Isländska/Alla uppslag"&gt;Isländska/Alla uppslag&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="mw-navigation"&gt;
+	&lt;h2&gt;Navigeringsmeny&lt;/h2&gt;
+	&lt;div id="mw-head"&gt;
+		&lt;nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-personal-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Personliga verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="pt-anonuserpage" class="mw-list-item"&gt;&lt;span&gt;Inte inloggad&lt;/span&gt;&lt;/li&gt;&lt;li id="pt-anontalk" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Min_diskussion" title="Diskussion om redigeringar från det här IP-numret [n]" accesskey="n"&gt;&lt;span&gt;Diskussion för detta IP&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-anoncontribs" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Mina_bidrag" title="En lista över redigeringar från denna IP-adress [y]" accesskey="y"&gt;&lt;span&gt;Bidrag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-createaccount" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Skapa_konto&amp;amp;returnto=springa" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt"&gt;&lt;span&gt;Skapa konto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="pt-login" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Inloggning&amp;amp;returnto=springa" title="Du uppmuntras att logga in, men det är inget krav [o]" accesskey="o"&gt;&lt;span&gt;Logga in&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;div id="left-navigation"&gt;
+			&lt;nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Namnrymder&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-nstab-main" class="selected mw-list-item"&gt;&lt;a href="/wiki/springa" title="Visa innehållssidan [c]" accesskey="c"&gt;&lt;span&gt;Uppslag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-talk" class="mw-list-item"&gt;&lt;a href="/wiki/Diskussion:springa" rel="discussion" title="Diskussion om innehållssidan [t]" accesskey="t"&gt;&lt;span&gt;Diskussion&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" /&gt;
+	&lt;h3 id="p-variants-label" aria-label="Ändra språkvariant" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Varianter&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+		&lt;/div&gt;
+		&lt;div id="right-navigation"&gt;
+			&lt;nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-views-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Visningar&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="ca-view" class="selected mw-list-item"&gt;&lt;a href="/wiki/springa"&gt;&lt;span&gt;Läs&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-edit" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=edit" title="Redigera denna sida [e]" accesskey="e"&gt;&lt;span&gt;Redigera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="ca-history" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=history" title="Tidigare versioner av sidan [h]" accesskey="h"&gt;&lt;span&gt;Visa historik&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Fler alternativ"
+	 &gt;
+	&lt;input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" /&gt;
+	&lt;h3 id="p-cactions-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Mer&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-expanded"&gt;utvidgad&lt;/span&gt;
+			&lt;span class="vector-menu-checkbox-collapsed"&gt;ihopfälld&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+			&lt;div id="p-search" role="search" class=" vector-search-box"&gt;
+	&lt;div&gt;
+			&lt;h3 &gt;
+				&lt;label for="searchInput"&gt;Sök&lt;/label&gt;
+			&lt;/h3&gt;
+		&lt;form action="/w/index.php" id="searchform"
+			class="vector-search-box-form"&gt;
+			&lt;div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation"&gt;
+				&lt;input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Sök på Wiktionary" aria-label="Sök på Wiktionary" autocapitalize="none" title="Sök på Wiktionary [f]" accesskey="f" id="searchInput"
+				/&gt;
+				&lt;input type="hidden" name="title" value="Special:Sök"/&gt;
+				&lt;input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Sök efter sidor som innehåller denna text" value="Sök" /&gt;
+				&lt;input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Gå till sidan med exakt detta namn om den finns" value="Gå till" /&gt;
+			&lt;/div&gt;
+		&lt;/form&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+&lt;div id="mw-panel"&gt;
+	&lt;div id="p-logo" role="banner"&gt;
+		&lt;a class="mw-wiki-logo" href="/wiki/Wiktionary:Huvudsida"
+			title="Besök huvudsidan"&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-navigation-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Navigering&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-mainpage-description" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Huvudsida" title="Besök huvudsidan [z]" accesskey="z"&gt;&lt;span&gt;Huvudsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-appendix" class="mw-list-item"&gt;&lt;a href="/wiki/Appendix:Index" title="Lista över appendix"&gt;&lt;span&gt;Appendix&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-kategorier" class="mw-list-item"&gt;&lt;a href="/wiki/Kategori:Index" title="Bläddra bland kategorier"&gt;&lt;span&gt;Kategorier&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-randompage" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Slumpsida" title="Gå till en slumpmässigt vald sida [x]" accesskey="x"&gt;&lt;span&gt;Slumpsida&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-sitesupport" class="mw-list-item"&gt;&lt;a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;amp;utm_medium=sidebar&amp;amp;utm_campaign=C13_sv.wiktionary.org&amp;amp;uselang=sv" title="Stöd oss"&gt;&lt;span&gt;Stöd Wiktionary&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-deltagande" class="mw-portlet mw-portlet-deltagande vector-menu vector-menu-portal portal" aria-labelledby="p-deltagande-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-deltagande-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Deltagande&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="n-portal" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Deltagarportalen" title="Om projektet, vad du kan göra, var man kan hitta saker"&gt;&lt;span&gt;Deltagarportalen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-bybrunnen" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Bybrunnen" title="Central diskussions- och nyhetssida [b]" accesskey="b"&gt;&lt;span&gt;Bybrunnen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-stilguide" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Stilguide" title="Information om sidornas struktur och innehåll"&gt;&lt;span&gt;Stilguide&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-recentchanges" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_%C3%A4ndringar" title="Lista över de senaste ändringarna på wikin [r]" accesskey="r"&gt;&lt;span&gt;Senaste ändringarna&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-projekt" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Projekt" title="Projekt för att förbättra kvalitet och omfång för Wiktionarys uppslag"&gt;&lt;span&gt;Projekt&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-mallar" class="mw-list-item"&gt;&lt;a href="/wiki/Wiktionary:Mallar" title="Lista över mallar och beskrivning av hur de används"&gt;&lt;span&gt;Mallar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="n-upload-commons" class="mw-list-item"&gt;&lt;a href="/wiki/Hj%C3%A4lp:Ladda_upp_filer" title="Ladda upp bilder och andra mediafiler"&gt;&lt;span&gt;Ladda upp fil&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-tb-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Verktyg&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="t-whatlinkshere" class="mw-list-item"&gt;&lt;a href="/wiki/Special:L%C3%A4nkar_hit/springa" title="Lista över alla wikisidor som länkar hit [j]" accesskey="j"&gt;&lt;span&gt;Vad som länkar hit&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-recentchangeslinked" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Senaste_relaterade_%C3%A4ndringar/springa" rel="nofollow" title="Visa senaste ändringarna av sidor som den här sidan länkar till [k]" accesskey="k"&gt;&lt;span&gt;Relaterade ändringar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-specialpages" class="mw-list-item"&gt;&lt;a href="/wiki/Special:Specialsidor" title="Lista över alla specialsidor [q]" accesskey="q"&gt;&lt;span&gt;Specialsidor&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-permalink" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=springa&amp;amp;oldid=3623791" title="Permanent länk till den här versionen av sidan"&gt;&lt;span&gt;Permanent länk&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-info" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=springa&amp;amp;action=info" title="Mer information om denna sida"&gt;&lt;span&gt;Sidinformation&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-cite" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Citera&amp;amp;page=springa&amp;amp;id=3623791&amp;amp;wpFormIdentifier=titleform" title="Information om hur den här artikeln kan användas som referens"&gt;&lt;span&gt;Använd som referens&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+&lt;nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;Skriv ut/exportera&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li id="coll-create_a_book" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:Bok&amp;amp;bookcmd=book_creator&amp;amp;referer=springa"&gt;&lt;span&gt;Skapa en bok&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="coll-download-as-rl" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=Special:DownloadAsPdf&amp;amp;page=springa&amp;amp;action=show-download-screen"&gt;&lt;span&gt;Ladda ner som PDF&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li id="t-print" class="mw-list-item"&gt;&lt;a href="/w/index.php?title=springa&amp;amp;printable=yes" title="Utskriftsvänlig version av den här sidan [p]" accesskey="p"&gt;&lt;span&gt;Utskriftsvänlig version&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 &gt;
+	&lt;h3 id="p-lang-label" aria-label="" class="vector-menu-heading"&gt;
+		
+		&lt;span&gt;På andra språk&lt;/span&gt;
+	&lt;/h3&gt;
+	&lt;div class="vector-menu-content"&gt;
+		
+		&lt;ul class="vector-menu-content-list"&gt;&lt;li class="interlanguage-link interwiki-ca mw-list-item"&gt;&lt;a href="https://ca.wiktionary.org/wiki/springa" title="springa - katalanska" lang="ca" hreflang="ca" class="interlanguage-link-target"&gt;&lt;span&gt;Català&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-cs mw-list-item"&gt;&lt;a href="https://cs.wiktionary.org/wiki/springa" title="springa - tjeckiska" lang="cs" hreflang="cs" class="interlanguage-link-target"&gt;&lt;span&gt;Čeština&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-en mw-list-item"&gt;&lt;a href="https://en.wiktionary.org/wiki/springa" title="springa - engelska" lang="en" hreflang="en" class="interlanguage-link-target"&gt;&lt;span&gt;English&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-eo mw-list-item"&gt;&lt;a href="https://eo.wiktionary.org/wiki/springa" title="springa - esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"&gt;&lt;span&gt;Esperanto&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fr mw-list-item"&gt;&lt;a href="https://fr.wiktionary.org/wiki/springa" title="springa - franska" lang="fr" hreflang="fr" class="interlanguage-link-target"&gt;&lt;span&gt;Français&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-io mw-list-item"&gt;&lt;a href="https://io.wiktionary.org/wiki/springa" title="springa - ido" lang="io" hreflang="io" class="interlanguage-link-target"&gt;&lt;span&gt;Ido&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-is mw-list-item"&gt;&lt;a href="https://is.wiktionary.org/wiki/springa" title="springa - isländska" lang="is" hreflang="is" class="interlanguage-link-target"&gt;&lt;span&gt;Íslenska&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-lt mw-list-item"&gt;&lt;a href="https://lt.wiktionary.org/wiki/springa" title="springa - litauiska" lang="lt" hreflang="lt" class="interlanguage-link-target"&gt;&lt;span&gt;Lietuvių&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-hu mw-list-item"&gt;&lt;a href="https://hu.wiktionary.org/wiki/springa" title="springa - ungerska" lang="hu" hreflang="hu" class="interlanguage-link-target"&gt;&lt;span&gt;Magyar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-nl mw-list-item"&gt;&lt;a href="https://nl.wiktionary.org/wiki/springa" title="springa - nederländska" lang="nl" hreflang="nl" class="interlanguage-link-target"&gt;&lt;span&gt;Nederlands&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pl mw-list-item"&gt;&lt;a href="https://pl.wiktionary.org/wiki/springa" title="springa - polska" lang="pl" hreflang="pl" class="interlanguage-link-target"&gt;&lt;span&gt;Polski&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-pt mw-list-item"&gt;&lt;a href="https://pt.wiktionary.org/wiki/springa" title="springa - portugisiska" lang="pt" hreflang="pt" class="interlanguage-link-target"&gt;&lt;span&gt;Português&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-sl mw-list-item"&gt;&lt;a href="https://sl.wiktionary.org/wiki/springa" title="springa - slovenska" lang="sl" hreflang="sl" class="interlanguage-link-target"&gt;&lt;span&gt;Slovenščina&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-fi mw-list-item"&gt;&lt;a href="https://fi.wiktionary.org/wiki/springa" title="springa - finska" lang="fi" hreflang="fi" class="interlanguage-link-target"&gt;&lt;span&gt;Suomi&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-tr mw-list-item"&gt;&lt;a href="https://tr.wiktionary.org/wiki/springa" title="springa - turkiska" lang="tr" hreflang="tr" class="interlanguage-link-target"&gt;&lt;span&gt;Türkçe&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-th mw-list-item"&gt;&lt;a href="https://th.wiktionary.org/wiki/springa" title="springa - thailändska" lang="th" hreflang="th" class="interlanguage-link-target"&gt;&lt;span&gt;ไทย&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-ka mw-list-item"&gt;&lt;a href="https://ka.wiktionary.org/wiki/springa" title="springa - georgiska" lang="ka" hreflang="ka" class="interlanguage-link-target"&gt;&lt;span&gt;ქართული&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="interlanguage-link interwiki-zh mw-list-item"&gt;&lt;a href="https://zh.wiktionary.org/wiki/springa" title="springa - kinesiska" lang="zh" hreflang="zh" class="interlanguage-link-target"&gt;&lt;span&gt;中文&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+		
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;footer id="footer" class="mw-footer" role="contentinfo" &gt;
+	&lt;ul id="footer-info"&gt;
+	&lt;li id="footer-info-lastmod"&gt; Sidan redigerades senast den 8 oktober 2021 kl. 16.32.&lt;/li&gt;
+	&lt;li id="footer-info-copyright"&gt;Text är tillgänglig under licensen &lt;a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv"&gt;Creative Commons Erkännande-Dela Lika&lt;/a&gt;; ytterligare villkor kan gälla. 
+Se &lt;a href="https://foundation.wikimedia.org/wiki/Terms_of_Use"&gt;användarvillkoren&lt;/a&gt; för detaljer.&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-places"&gt;
+	&lt;li id="footer-places-privacy"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy"&gt;Integritetspolicy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-about"&gt;&lt;a href="/wiki/Wiktionary:Om" title="Wiktionary:Om"&gt;Om Wiktionary&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-disclaimer"&gt;&lt;a href="/wiki/Wiktionary:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll" title="Wiktionary:Allmänt förbehåll"&gt;Förbehåll&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-mobileview"&gt;&lt;a href="//sv.m.wiktionary.org/w/index.php?title=springa&amp;amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle"&gt;Mobil vy&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-developers"&gt;&lt;a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"&gt;Utvecklare&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-statslink"&gt;&lt;a href="https://stats.wikimedia.org/#/sv.wiktionary.org"&gt;Statistik&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-places-cookiestatement"&gt;&lt;a href="https://foundation.wikimedia.org/wiki/Cookie_statement"&gt;Information om kakor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;ul id="footer-icons" class="noprint"&gt;
+	&lt;li id="footer-copyrightico"&gt;&lt;a href="https://wikimediafoundation.org/"&gt;&lt;img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li id="footer-poweredbyico"&gt;&lt;a href="https://www.mediawiki.org/"&gt;&lt;img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/footer&gt;
+
+&lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.446","walltime":"0.580","ppvisitednodes":{"value":4745,"limit":1000000},"postexpandincludesize":{"value":22172,"limit":2097152},"templateargumentsize":{"value":5289,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  510.197      1 -total"," 28.02%  142.950     32 Mall:ö+"," 24.71%  126.061      1 Mall:sv-subst-n-or"," 15.22%   77.635     41 Mall:länk"," 14.92%   76.118      1 Mall:etymologi"," 13.62%   69.487      1 Mall:härledning","  9.23%   47.091      1 Mall:sv-verb-er","  8.02%   40.915     32 Mall:sidnamn","  7.68%   39.178     18 Mall:länka-b","  7.22%   36.835      9 Mall:ö"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":4348728,"limit":52428800}},"cachereport":{"origin":"mw1415","timestamp":"20211114175800","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1333"});});&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
   </data>
 </root>

@@ -24,7 +24,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Given
             var expected = new WordResult
             {
-                WordType = WordType.Ett,
+                SubstantiveType = SubstantiveType.Ett,
                 PluralGenitivBestamd = "barnens",
                 PluralGenitivObestamd = "barns",
                 PluralNominativBestamd = "barnen",
@@ -48,7 +48,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Given
             var expected = new WordResult
             {
-                WordType = WordType.En,
+                SubstantiveType = SubstantiveType.En,
                 PluralGenitivBestamd = "dryckernas",
                 PluralGenitivObestamd = "dryckers",
                 PluralNominativBestamd = "dryckerna",
@@ -72,7 +72,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Given
             var expected = new WordResult
             {
-                WordType = WordType.En,
+                SubstantiveType = SubstantiveType.En,
                 PluralGenitivBestamd = "matarnas",
                 PluralGenitivObestamd = "matars",
                 PluralNominativBestamd = "matarna",

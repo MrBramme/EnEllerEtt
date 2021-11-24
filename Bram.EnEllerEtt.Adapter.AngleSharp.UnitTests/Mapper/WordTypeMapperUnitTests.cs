@@ -8,16 +8,16 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
 {
     public class WordTypeMapperUnitTests
     {
-        [TestCase("utrum", WordType.En)]
-        [TestCase("UTRUM", WordType.En)]
-        [TestCase("Utrum", WordType.En)]
-        [TestCase("neutrum", WordType.Ett)]
-        [TestCase("NEUTRUM", WordType.Ett)]
-        [TestCase("Neutrum", WordType.Ett)]
-        public void FromString_ValidInput_MapsToCorrectType(string input, WordType expected)
+        [TestCase("utrum", SubstantiveType.En)]
+        [TestCase("UTRUM", SubstantiveType.En)]
+        [TestCase("Utrum", SubstantiveType.En)]
+        [TestCase("neutrum", SubstantiveType.Ett)]
+        [TestCase("NEUTRUM", SubstantiveType.Ett)]
+        [TestCase("Neutrum", SubstantiveType.Ett)]
+        public void FromString_ValidInput_MapsToCorrectType(string input, SubstantiveType expected)
         {
             // Given When
-            var result = WordTypeMapper.FromString(input);
+            var result = SubstantiveTypeMapper.FromString(input);
 
             // Then
             result.Should().Be(expected);
@@ -30,10 +30,10 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             var input = "unknown";
 
             // When
-            Action act = () => WordTypeMapper.FromString(input);
+            Action act = () => SubstantiveTypeMapper.FromString(input);
 
             // Then
-            act.Should().Throw<ArgumentOutOfRangeException>().WithMessage($"Cannot map 'unknown' to WordType (Parameter 'input')\r\nActual value was unknown.");
+            act.Should().Throw<ArgumentOutOfRangeException>().WithMessage($"Cannot map 'unknown' to SubstantiveType (Parameter 'input')\r\nActual value was unknown.");
         }
     }
 }

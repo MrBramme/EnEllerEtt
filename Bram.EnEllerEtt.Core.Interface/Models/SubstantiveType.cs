@@ -1,6 +1,6 @@
 ﻿namespace Bram.EnEllerEtt.Core.Interface.Models
 {
-    public enum WordType
+    public enum SubstantiveType
     {
         En = 1,
         Ett = 2

@@ -16,7 +16,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Given
             var wordType = "utrum";
             var conjugations = Enumerable.Range(0, 8).Select(i => $"conjugation{i}").ToArray();
-            var expectedWordType = WordTypeMapper.FromString(wordType);
+            var expectedWordType = SubstantiveTypeMapper.FromString(wordType);
 
             // When
             var result = WordResultMapper.ToWordResult(wordType, conjugations);
@@ -24,7 +24,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             using (new AssertionScope())
             {
-                result.WordType.Should().Be(expectedWordType);
+                result.SubstantiveType.Should().Be(expectedWordType);
 
                 result.SingleNominativObestamd.Should().Be(conjugations[0]);
                 result.SingleNominativBestamd.Should().Be(conjugations[1]);

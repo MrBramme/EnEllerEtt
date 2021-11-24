@@ -16,6 +16,9 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
         {
             var document = await GetDocumentFromHtmlString(html, ct);
 
+            var substantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
+            var verb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
+
             var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
             var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
