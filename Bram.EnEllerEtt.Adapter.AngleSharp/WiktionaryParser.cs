@@ -21,7 +21,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
             var isSubstantiv = document.All.Any(m => m.Id != null && m.Id.Equals("Substantiv") && m.ClassList.Contains("mw-headline"));
             if (isSubstantiv)
             {
-                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar"));
+                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-subst")));
                 var grammarTable = grammarTables.First(t => t.Children[0].Children[1].ChildElementCount == 5);
 
                 var typeOfWord = ParseTypeOfWord(grammarTable);
@@ -32,6 +32,7 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp
             var isVerb = document.All.Any(m => m.Id != null && m.Id.Equals("Verb") && m.ClassList.Contains("mw-headline"));
             if (isVerb)
             {
+                var grammarTables = document.All.Where(m => m.TagName.ToLower().Equals("table") && m.ClassList.Contains("grammar") && m.ClassList.Any(c => c.StartsWith("template-sv-verb")));
                 throw new NotImplementedException();
             }
             throw new WordNotFoundException("Could not parse HTML content");

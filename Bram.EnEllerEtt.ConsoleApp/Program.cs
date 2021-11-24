@@ -44,8 +44,7 @@ namespace Bram.EnEllerEtt.ConsoleApp
                 try
                 {
                     var result = await wordLookupService.GetResultForWordAsync(word, CancellationToken.None);
-                    Console.WriteLine(
-                        $"{result.SubstantiveType} {result.SingleNominativObestamd}: {result.SingleNominativBestamd}, {result.PluralNominativObestamd}, {result.PluralNominativBestamd}");
+                    Console.WriteLine(result.Substantive.ToString());
                     Console.WriteLine();
                 }
                 catch (Exception e)

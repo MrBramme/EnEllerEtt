@@ -12,15 +12,18 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.Mapper
             {
                 var result = new WordResult
                 {
-                    SubstantiveType = SubstantiveTypeMapper.FromString(substantivType),
-                    SingleNominativObestamd = conjugations[0],
-                    SingleNominativBestamd = conjugations[1],
-                    PluralNominativObestamd = conjugations[2],
-                    PluralNominativBestamd = conjugations[3],
-                    SingleGenitivObestamd = conjugations[4],
-                    SingleGenitivBestamd = conjugations[5],
-                    PluralGenitivObestamd = conjugations[6],
-                    PluralGenitivBestamd = conjugations[7],
+                    Substantive = new SubstantiveResult
+                    {
+                        SubstantiveType = SubstantiveTypeMapper.FromString(substantivType),
+                        SingleNominativObestamd = conjugations[0],
+                        SingleNominativBestamd = conjugations[1],
+                        PluralNominativObestamd = conjugations[2],
+                        PluralNominativBestamd = conjugations[3],
+                        SingleGenitivObestamd = conjugations[4],
+                        SingleGenitivBestamd = conjugations[5],
+                        PluralGenitivObestamd = conjugations[6],
+                        PluralGenitivBestamd = conjugations[7],
+                    }
                 };
                 return result;
             }

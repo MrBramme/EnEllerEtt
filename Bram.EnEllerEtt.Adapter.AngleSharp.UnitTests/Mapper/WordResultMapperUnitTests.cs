@@ -24,16 +24,16 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
             // Then
             using (new AssertionScope())
             {
-                result.SubstantiveType.Should().Be(expectedWordType);
+                result.Substantive.SubstantiveType.Should().Be(expectedWordType);
 
-                result.SingleNominativObestamd.Should().Be(conjugations[0]);
-                result.SingleNominativBestamd.Should().Be(conjugations[1]);
-                result.PluralNominativObestamd.Should().Be(conjugations[2]);
-                result.PluralNominativBestamd.Should().Be(conjugations[3]);
-                result.SingleGenitivObestamd.Should().Be(conjugations[4]);
-                result.SingleGenitivBestamd.Should().Be(conjugations[5]);
-                result.PluralGenitivObestamd.Should().Be(conjugations[6]);
-                result.PluralGenitivBestamd.Should().Be(conjugations[7]);
+                result.Substantive.SingleNominativObestamd.Should().Be(conjugations[0]);
+                result.Substantive.SingleNominativBestamd.Should().Be(conjugations[1]);
+                result.Substantive.PluralNominativObestamd.Should().Be(conjugations[2]);
+                result.Substantive.PluralNominativBestamd.Should().Be(conjugations[3]);
+                result.Substantive.SingleGenitivObestamd.Should().Be(conjugations[4]);
+                result.Substantive.SingleGenitivBestamd.Should().Be(conjugations[5]);
+                result.Substantive.PluralGenitivObestamd.Should().Be(conjugations[6]);
+                result.Substantive.PluralGenitivBestamd.Should().Be(conjugations[7]);
             }
 
         }
