@@ -35,7 +35,8 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
                     SingleGenitivObestamd = "barns",
                     SingleNominativBestamd = "barnet",
                     SingleNominativObestamd = "barn",
-                }
+                },
+                Verb = null
             };
 
             // When
@@ -62,7 +63,8 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
                     SingleGenitivObestamd = "drycks",
                     SingleNominativBestamd = "drycken",
                     SingleNominativObestamd = "dryck",
-                }
+                },
+                Verb = null
             };
 
             // When
@@ -89,7 +91,8 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
                     SingleGenitivObestamd = "mats",
                     SingleNominativBestamd = "maten",
                     SingleNominativObestamd = "mat",
-                }
+                },
+                Verb = null
             };
 
             // When
@@ -100,14 +103,62 @@ namespace Bram.EnEllerEtt.Adapter.AngleSharp.UnitTests
         }
 
         [Test]
-        public async Task test()
+        public async Task ParseFromHtmlAsync_GiveGäspaHtmlString_ReturnsCorrectResult()
         {
             // Given
+            var expected = new WordResult
+            {
+                Substantive = null,
+                Verb = new VerbResult
+                {
+                    Infinitiv = "gäspa",
+                    Presens = "gäspar",
+                    Preteritum = "gäspade",
+                    Supinum = "gäspat",
+                    Imperativ = "gäspa"
+                }
+            };
 
             // When
             var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Gäspa, CancellationToken.None);
 
             // Then
+            result.Should().BeEquivalentTo(expected);
+        }
+
+        [Test]
+        public async Task ParseFromHtmlAsync_GiveSpringaHtmlString_ReturnsCorrectResult()
+        {
+            // Given
+            var expected = new WordResult
+            {
+                Substantive = new SubstantiveResult
+                {
+                    SubstantiveType = SubstantiveType.En,
+                    PluralGenitivBestamd = "springornas",
+                    PluralGenitivObestamd = "springors",
+                    PluralNominativBestamd = "springorna",
+                    PluralNominativObestamd = "springor",
+                    SingleGenitivBestamd = "springans",
+                    SingleGenitivObestamd = "springas",
+                    SingleNominativBestamd = "springan",
+                    SingleNominativObestamd = "springa",
+                },
+                Verb = new VerbResult
+                {
+                    Infinitiv = "springa",
+                    Presens = "springer",
+                    Preteritum = "sprang",
+                    Supinum = "sprungit",
+                    Imperativ = "spring"
+                }
+            };
+
+            // When
+            var result = await _sut.ParseFromHtmlAsync(HtmlStrings.Springa, CancellationToken.None);
+
+            // Then
+            result.Should().BeEquivalentTo(expected);
         }
     }
 }
